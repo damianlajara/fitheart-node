@@ -1,0 +1,1 @@
+angular.module('fitHeart', ['ngRoute', 'frontEndRoutes', 'MainCtrl', 'UserCtrl', 'UserService']);

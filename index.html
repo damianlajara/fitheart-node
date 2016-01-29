@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <base href="/">
+
+    <title>Fit Heart</title>
+
+    <!-- CSS stylesheets -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
+    <link rel="stylesheet" href="/public/stylesheets/main.css">
+
+    <!-- Front end library dependencies -->
+    <link rel="stylesheet" href="/node_modules/angular/angular.min.js">
+    <link rel="stylesheet" href="/node_modules/angular-route/angular-route.min.js">
+
+    <!-- Use gulp to concatenate and minify all the js script files -->
+    <!-- Custom Angular Files -->
+    <script src="/public/javascripts/controllers/MainCtrl.js"></script>
+    <script src="/public/javascripts/controllers/UserCtrl.js"></script>
+    <script src="/public/javascripts/services/UserService.js"></script>
+    <script src="/public/javascripts/routes/frontEndRoutes.js"></script>
+    <script src="/public/javascripts/angularApp.js"></script>
+</head>
+<body ng-app="fitHeart" ng-controller="MainController">
+    <div>
+
+        <nav class="navbar navbar-inverse">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/">FitHeart</a>
+            </div>
+            <ul>
+                <li>
+                    <a href="/users">Users</a>
+                </li>
+            </ul>
+        </nav>
+
+        <!--Dynamic Angular views-->
+        <div ng-view></div>
+
+    </div>
+</body>
+</html>
