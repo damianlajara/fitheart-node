@@ -15,14 +15,28 @@ app.use(bodyParser.urlencoded({extended: true }));
 app.use(bodyParser.json());
 app.use(morgan('dev')); //Or app.use(morgan('combined'));
 app.use(methodOverride('X-HTTP-Method-Override')); // Simulate PUT and DELETE http action verbs
+console.log(__dirname);
 app.use(express.static(path.join(__dirname, '/public'))); // Set the static root mounting point (/javascripts instead of public/javascripts)
-//app.set('views', path.join(__dirname, 'views'));
 
-// Tell express to use the router middleware
-app.use(app.router);
+// For the view engine
+// /app.set('views', path.join(__dirname, 'views'));
 
 // Connect to the database
 mongoose.connect(dbConfig.connection);
+
+//mongoose.connection.on('error', function(err) {
+//    console.log('Mongo Error:', err);
+//}).once('open', function() {
+//    console.log('Connection opened!');
+//});
+
+
+var db = mongoose.connection;
+db.on('error', console.error.bind(console, 'Mongo connection error:'));
+db.once('open', function() {
+    console.log('we\'re connected!');
+});
+
 
 // Register our routes to their respective handlers
 app.use('/', defaultRoute);
