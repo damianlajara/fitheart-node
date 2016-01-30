@@ -1,4 +1,4 @@
-angular.module('frontEndRoutes', []).config(['$routeProvider', '$locationProvider', function(){
+angular.module('frontEndRoutes', []).config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider){
     $routeProvider
         .when('/', {
             templateUrl: 'views/home.html',

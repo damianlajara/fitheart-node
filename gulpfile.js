@@ -40,14 +40,14 @@ gulp.task('compile-sass', function(){
 gulp.task('concatenate-and-minify-css', ['compile-sass'], function(){
     return gulp.src('./public/stylesheets/*.css')
         .pipe(gulpPlugins.plumber(function (error) {
-            gulpPlugins.gutil.log(error.message);
+            gulpPlugins.util.log(error.message);
             this.emit('end');
         })) //For error handling
         .pipe(gulpPlugins.sourcemaps.init())
         .pipe(gulpPlugins.concat('app.css'))
-        .pipe(gulp.dest('./public/dist/stylesheets'))
-        .pipe(gulpPlugins.rename('app.min.css')) //Error is here!
-        .pipe(gulpPlugins.uglify())
+        .pipe(gulp.dest('./public/stylesheets/'))
+        .pipe(gulpPlugins.rename('app.min.css'))
+        .pipe(gulpPlugins.minifyCss())
         .pipe(gulpPlugins.sourcemaps.write('./'))
         .pipe(gulp.dest('./public/dist/stylesheets'));
 });
@@ -64,13 +64,15 @@ gulp.task('watch-styles', function() {
     gulp.watch('./public/stylesheets/*.scss', ['build-styles'])
 });
 
-gulp.task('watch', ['watch-javascript', 'watch-styles']);
+gulp.task('watch', ['watch-javascript', 'watch-styles'], function() {
+    console.log("Watching js and scss files!");
+});
 
-gulp.task('build', ['browserify-and-minify', 'watch']);
+gulp.task('build', ['browserify-and-minify', 'build-styles']);
+
+gulp.task('default', ['build']);
 
 // Sample task to run to check debug statements
 gulp.task('console', function() {
     console.log("gulp at it's finest");
 });
-
-gulp.task('default', ['build']);
