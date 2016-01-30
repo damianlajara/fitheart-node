@@ -8,14 +8,7 @@
 
         <!-- CSS stylesheets -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"  integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
-        <link rel="stylesheet" href="dist/stylesheets/main.min.css">
-
-        <!-- Front end library dependencies -->
-        <!--<script src="/node_modules/angular/angular.min.js"></script>-->
-        <!--<script src="/node_modules/angular-route/angular-route.min.js"></script>-->
-
-        <!-- Use gulp to concatenate and minify all the frontend js script files into main.min.js-->
-        <!-- Custom Angular Files -->
+        <link rel="stylesheet" type="text/css" href="dist/stylesheets/main.min.css">
 
     </head>
     <body ng-app="fitHeart" ng-controller="MainController">
@@ -36,6 +29,8 @@
             <div ng-view></div>
 
         </div>
+        <!-- Use gulp to concatenate and minify all the frontend js script files into main.min.js-->
+        <!-- Custom Angular Files -->
         <script src="dist/javascripts/main.min.js"></script>
     </body>
 </html>

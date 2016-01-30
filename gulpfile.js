@@ -1,6 +1,7 @@
-var gulp = require('gulp');
-var browserify = require('browserify');
-var source = require('vinyl-source-stream');
+var gulp = require('gulp'),
+    browserify = require('browserify'),
+    source = require('vinyl-source-stream'),
+    del = require('del');
 
 // Load all gulp plugins listed in package.json
 var gulpPlugins = require('gulp-load-plugins')({
@@ -68,11 +69,41 @@ gulp.task('watch', ['watch-javascript', 'watch-styles'], function() {
     console.log("Watching js and scss files!");
 });
 
-gulp.task('build', ['browserify-and-minify', 'build-styles']);
-
-gulp.task('default', ['build']);
-
 // Sample task to run to check debug statements
 gulp.task('console', function() {
     console.log("gulp at it's finest");
 });
+
+// NOTE: Make sure to create a vendor directory right under the public directory for this task to work
+// Uncomment this task if you choose to use bower alongside npm
+// Concatenate and minify all bower modules separated by asset type in the vendor directory
+//gulp.task('build-bower-dependencies', function(){
+//
+//    del([
+//        './public/vendor/**'
+//    ], function(){
+//
+//        var jsFilter = gulpPlugins.gulpFilter('**/*.js'),
+//            cssFilter = gulpPlugins.gulpFilter('**/*.css');
+//
+//        gulp.src(gulpPlugins.mainBowerFiles(), { base: 'bower_components' })
+//            .pipe(gulpPlugins.plumber(function (error) {
+//                gulpPlugins.util.log(error.message);
+//                this.emit('end');
+//            })) //For error handling
+//            .pipe(gulpPlugins.bowerNormalizer({ bowerJson: './bower.json' }))
+//            .pipe(jsFilter)
+//            .pipe(gulpPlugins.uglify())
+//            .pipe(jsFilter.restore())
+//            .pipe(cssFilter)
+//            .pipe(gulpPlugins.minifyCSS())
+//            .pipe(cssFilter.restore())
+//            .pipe(gulp.dest('./public/vendor'));
+//
+//    });
+//
+//});
+
+gulp.task('build', ['browserify-and-minify', 'build-styles'/*, 'build-bower-dependencies'*/]);
+
+gulp.task('default', ['build']);
