@@ -1,3 +1,4 @@
-/**
- * Created by damianlajara on 1/29/16.
- */
+angular.module('UserCtrl',[])
+    .controller('UserController', ['$scope', function($scope){
+
+    }]);

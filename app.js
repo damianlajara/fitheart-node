@@ -24,13 +24,6 @@ app.use(express.static(path.join(__dirname, '/public'))); // Set the static root
 // Connect to the database
 mongoose.connect(dbConfig.connection);
 
-//mongoose.connection.on('error', function(err) {
-//    console.log('Mongo Error:', err);
-//}).once('open', function() {
-//    console.log('Connection opened!');
-//});
-
-
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'Mongo connection error:'));
 db.once('open', function() {
