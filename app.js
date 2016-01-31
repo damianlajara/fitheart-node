@@ -1,11 +1,11 @@
 // Load all of our dependencies
 var express = require('express');
 var path = require('path');
-var defaultRoute = require('./routes/defaultRoute');
-var userRoutes = require('./routes/userRoutes');
+var defaultRoute = require('./app/routes/defaultRoute');
+var userRoutes = require('./app/routes/userRoutes');
 var bodyParser = require('body-parser');
 var morgan = require('morgan'); // Log all requests
-var dbConfig = require('./config/db.js');
+var dbConfig = require('./app/db/config/db.js');
 var mongoose = require('mongoose');
 var methodOverride = require('method-override');
 var app = express();
