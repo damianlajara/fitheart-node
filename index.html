@@ -2,28 +2,44 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <base href="/">
 
         <title>Fit Heart</title>
 
         <!-- CSS stylesheets -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"  integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="vendor-css/angular-material/angular-material.css">
         <link rel="stylesheet" type="text/css" href="dist/stylesheets/main.min.css">
 
     </head>
     <body ng-app="fitHeart" ng-controller="MainController">
         <div>
 
-            <nav class="navbar navbar-inverse">
-                <div class="navbar-header">
-                    <a class="navbar-brand" href="/">FitHeart</a>
-                </div>
-                <ul>
-                    <li>
-                        <a href="/users">Users</a>
-                    </li>
-                </ul>
-            </nav>
+            <div layout="column" layout-fill>
+                <md-toolbar>
+                    <div class="md-toolbar-tools">
+                        <span>Fit Heart</span>
+                        <!-- fill up the space between left and right area -->
+                        <span flex></span>
+                        <md-button>
+                            Users
+                        </md-button>
+                    </div>
+                </md-toolbar>
+            </div>
+
+            <!---->
+            <!--<nav class="navbar navbar-inverse">-->
+                <!--<div class="navbar-header">-->
+                    <!--<a class="navbar-brand" href="/">FitHeart</a>-->
+                <!--</div>-->
+                <!--<ul>-->
+                    <!--<li>-->
+                        <!--<a href="/users">Users</a>-->
+                    <!--</li>-->
+                <!--</ul>-->
+            <!--</nav>-->
 
             <!--Dynamic Angular views-->
             <div ng-view></div>

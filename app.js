@@ -17,7 +17,7 @@ app.use(morgan('dev')); //Or app.use(morgan('combined'));
 app.use(methodOverride('X-HTTP-Method-Override')); // Simulate PUT and DELETE http action verbs
 console.log(__dirname);
 app.use(express.static(path.join(__dirname, '/public'))); // Set the static root mounting point (/javascripts instead of public/javascripts)
-
+app.use('/vendor-css', express.static(path.join(__dirname, 'node_modules/')));
 // For the view engine
 // /app.set('views', path.join(__dirname, 'views'));
 
