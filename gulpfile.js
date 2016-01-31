@@ -2,6 +2,8 @@
 var gulp = require('gulp'),
     browserify = require('browserify'),
     source = require('vinyl-source-stream'),
+    nodemon = require('gulp-nodemon'),
+    path = require('path');
     del = require('del');
 
 // Load all gulp plugins listed in package.json
@@ -163,8 +165,28 @@ gulp.task('console', function() {
 //
 //});
 
+gulp.task('start-server', function () {
+    nodemon({
+        script: 'server.js',
+        ext: 'html js',
+        env: { 'NODE_ENV': 'development' },
+        tasks: []
+    }).on('start', function () {
+        console.log('Starting up the server!')
+    }).on('restart', function () {
+        console.log('Server has restarted to reflect changes!')
+    }).on('crash', function () {
+        console.log('OH NO! Something when wrong and the server crashed!')
+    }).on('exit', function () {
+        console.log('Goodbye! Server is shutting down')
+    })
+});
+
+
 // Main task -> Runs all of the tasks except for the watchers
 gulp.task('build', ['browserify-and-minify', 'build-styles'/*, 'build-bower-dependencies'*/]);
 
-// An easier way to run the main task -> simple type 'gulp' on the command line
-gulp.task('default', ['build']);
+// An easier way to run the main task -> simply type 'gulp' on the command line
+gulp.task('default', ['build', 'start-server']);
+
+// TODO: Remove main.css, app.css and any other compiled css file from the stylesheets directory. All of the compiled versions should go in dist!
