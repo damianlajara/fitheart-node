@@ -182,11 +182,11 @@ gulp.task('start-server', function () {
     })
 });
 
-
 // Main task -> Runs all of the tasks except for the watchers
 gulp.task('build', ['browserify-and-minify', 'build-styles'/*, 'build-bower-dependencies'*/]);
 
+//TODO: Look into using Gulp4 series and parallel functions: gulp.task('default', gulp.series('build', 'start-server'));
 // An easier way to run the main task -> simply type 'gulp' on the command line
 gulp.task('default', ['build', 'start-server']);
 
-// TODO: Remove main.css, app.css and any other compiled css file from the stylesheets directory. All of the compiled versions should go in dist!
+// TODO: Remove the compiled version of any scss files from the stylesheets directory. All of the compiled versions should go in dist!
