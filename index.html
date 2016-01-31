@@ -9,7 +9,7 @@
 
         <!-- CSS stylesheets -->
         <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
-        <link rel="stylesheet" type="text/css" href="vendor-css/angular-material/angular-material.css">
+        <link rel="stylesheet" type="text/css" href="vendor-css/angular-material/angular-material.min.css">
         <link rel="stylesheet" type="text/css" href="dist/stylesheets/main.min.css">
 
     </head>
@@ -28,6 +28,20 @@
                     </div>
                 </md-toolbar>
             </div>
+
+            <div layout="row">
+                <md-sidenav md-component-id="left" class="md-sidenav-left">
+                    <md-toolbar class="md-theme-indigo">
+                        <h1 class="md-toolbar-tools">Sidenav Left</h1>
+                    </md-toolbar>
+                </md-sidenav>
+                <md-content>
+                    <md-button ng-click="openLeftMenu()">
+                        Open Left Menu
+                    </md-button>
+                </md-content>
+            </div>
+
 
             <!---->
             <!--<nav class="navbar navbar-inverse">-->
