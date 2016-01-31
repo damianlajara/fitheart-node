@@ -45,13 +45,24 @@ var onError = function (error) { 
     this.emit('end');
  };
 
-gulp.task('clean', function () { 
-    // Delete every js and css file in the dist directory
-    del.sync([paths.dist.javascript + globFileTypes.js, paths.dist.styles + globFileTypes.css]);
+// Delete every js file (along with any sourcemap .map files) in the javascripts dist directory
+gulp.task('clean-dist-js', function () { 
+    del.sync([paths.dist.javascript + '*']);
 });
 
-//For debugging in development purposes (Same as browserify-and-minify but without minification for debugging)
-gulp.task('browserify', function() {
+// Delete every css file (along with any sourcemap .map files) in the stylesheet dist directory
+gulp.task('clean-dist-css', function () {
+    del.sync([paths.dist.styles + '*']);
+});
+
+// Delete every js and css file (along with any sourcemap .map files) in the dist directory
+gulp.task('clean', ['clean-dist-js', 'clean-dist-css'], function () {
+    del.sync([paths.dist.styles + '*']);
+});
+
+// Note: This runs the clean-dist-js task as a dependant, so it can overwrite (delete) any previous outdated files
+// For debugging in development purposes (Same as browserify-and-minify but without minification for debugging)
+gulp.task('browserify', ['clean-dist-js'], function() {
     // Grabs the app.js file
     return browserify(paths.dev.javascript + 'angularApp.js')
         // bundles it and creates a file called main.js
@@ -63,11 +74,11 @@ gulp.task('browserify', function() {
         .pipe(gulp.dest(paths.dist.javascript));
 });
 
-// TODO: Make sure to delete the dist javascripts directory before this task runs, so it can overwrite any previous outdated files
+// Note: This runs the clean-dist-js task as a dependant, so it can overwrite (delete) any previous outdated files
 // Looks at the entry point (angularApp.js file in the paths.dev.javascript directory
 // and recursively requires all the files that are required in that file and then bundles it all into one file
 // which can then be required in the main view (index.html) and sent to the browser in a script tag)
-gulp.task('browserify-and-minify', function () {
+gulp.task('browserify-and-minify', ['clean-dist-js'], function () {
     return browserify(paths.dev.javascript + 'angularApp.js')
         .bundle()
         .pipe(gulpPlugins.plumber(onError)) //For error handling
@@ -86,10 +97,11 @@ gulp.task('compile-sass', function(){
         .pipe(gulp.dest(paths.dev.styles));
 });
 
-// TODO: Make sure to delete the dist stylesheets directory before this task runs, so it can overwrite any previous outdated files
+// Note: This runs the compile-sass task as a dependant to make sure that there are not more .scss files before we concatenate them
+// as well as clean-dist-css task as a dependant, so it can overwrite (delete) any previous outdated files
 // Looks at every compiled .scss file in paths.dev.styles and concatenates them all to app.css,
 // It then minifies it to app.min.css and stores it in the paths.dist.styles directory
-gulp.task('concatenate-and-minify-css', ['compile-sass'], function(){
+gulp.task('concatenate-and-minify-css', ['compile-sass', 'clean-dist-css'], function(){
     return gulp.src(paths.dev.styles + globFileTypes.css)
         .pipe(gulpPlugins.plumber(onError)) //For error handling
         .pipe(gulpPlugins.sourcemaps.init())
