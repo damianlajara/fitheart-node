@@ -38,12 +38,25 @@ var globFileTypes = {
     js: '*.js'
 };
 
+// Error function for plumber 
+var onError = function (error) { 
+    gulpPlugins.util.beep(); 
+    gulpPlugins.util.log(error.message); 
+    this.emit('end');
+ };
+
+gulp.task('clean', function () { 
+    // Delete every js and css file in the dist directory
+    del.sync([paths.dist.javascript + globFileTypes.js, paths.dist.styles + globFileTypes.css]);
+});
+
 //For debugging in development purposes (Same as browserify-and-minify but without minification for debugging)
 gulp.task('browserify', function() {
     // Grabs the app.js file
     return browserify(paths.dev.javascript + 'angularApp.js')
-    // bundles it and creates a file called main.js
+        // bundles it and creates a file called main.js
         .bundle()
+        .pipe(gulpPlugins.plumber(onError)) //For error handling
         //Pass desired output filename to vinyl-source-stream
         .pipe(source('main.js'))
         // Start piping stream to tasks and save it the public/js/ directory
@@ -57,6 +70,7 @@ gulp.task('browserify', function() {
 gulp.task('browserify-and-minify', function () {
     return browserify(paths.dev.javascript + 'angularApp.js')
         .bundle()
+        .pipe(gulpPlugins.plumber(onError)) //For error handling
         .pipe(source('main.min.js'))
         .pipe(gulpPlugins.streamify(gulpPlugins.sourcemaps.init({loadMaps: true}))) // loads map from browserify file
         .pipe(gulpPlugins.streamify(gulpPlugins.uglify({mangle: false})))
@@ -67,6 +81,7 @@ gulp.task('browserify-and-minify', function () {
 // Looks at every .scss file and compiles it to .css and stores it in the paths.dev.styles directory
 gulp.task('compile-sass', function(){
     return gulp.src(paths.dev.styles + globFileTypes.sass)
+        .pipe(gulpPlugins.plumber(onError)) //For error handling
         .pipe(gulpPlugins.sass())
         .pipe(gulp.dest(paths.dev.styles));
 });
@@ -76,10 +91,7 @@ gulp.task('compile-sass', function(){
 // It then minifies it to app.min.css and stores it in the paths.dist.styles directory
 gulp.task('concatenate-and-minify-css', ['compile-sass'], function(){
     return gulp.src(paths.dev.styles + globFileTypes.css)
-        .pipe(gulpPlugins.plumber(function (error) {
-            gulpPlugins.util.log(error.message);
-            this.emit('end');
-        })) //For error handling
+        .pipe(gulpPlugins.plumber(onError)) //For error handling
         .pipe(gulpPlugins.sourcemaps.init())
         .pipe(gulpPlugins.concat('app.css'))
         .pipe(gulp.dest(paths.dist.styles))
@@ -125,10 +137,7 @@ gulp.task('console', function() {
 //            cssFilter = gulpPlugins.gulpFilter('**/*.css');
 //
 //        gulp.src(gulpPlugins.mainBowerFiles(), { base: 'bower_components' })
-//            .pipe(gulpPlugins.plumber(function (error) {
-//                gulpPlugins.util.log(error.message);
-//                this.emit('end');
-//            })) //For error handling
+//            .pipe(gulpPlugins.plumber(onError)) //For error handling
 //            .pipe(gulpPlugins.bowerNormalizer({ bowerJson: './bower.json' }))
 //            .pipe(jsFilter)
 //            .pipe(gulpPlugins.uglify())
