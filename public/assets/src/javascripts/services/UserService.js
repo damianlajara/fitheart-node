@@ -37,5 +37,5 @@ angular.module('UserService',[]).factory('User', ['$http', function($http){
                     return err;
                 });
         }
-    }
+    };
 }]);

@@ -1,9 +1,10 @@
+'use strict'
+
 // Require all of our dependencies
 var gulp = require('gulp'),
     browserify = require('browserify'),
     source = require('vinyl-source-stream'),
     nodemon = require('gulp-nodemon'),
-    path = require('path'),
     del = require('del');
 
 // Load all gulp plugins listed in package.json
@@ -165,7 +166,7 @@ gulp.task('console', function() {
 //
 //});
 
-gulp.task('start-server', function () {
+gulp.task('start-server', function() {
     nodemon({
         script: 'server.js',
         ext: 'html js',
@@ -182,8 +183,19 @@ gulp.task('start-server', function () {
     })
 });
 
+gulp.task('jslint', function() {
+    return gulp.src([paths.dev.javascript + '**/*.js', '!' + paths.dev.javascript + 'angularApp.js'])
+        .pipe(gulpPlugins.jshint())
+        .pipe(gulpPlugins.jshint.reporter('jshint-stylish'))
+        .pipe(gulpPlugins.jshint.reporter('fail'))
+        .pipe(gulpPlugins.notify({
+            title: 'Gulp JS Linter',
+            message: 'JSHint Passed. No errors found. Ready to deploy!'
+        }))
+});
+
 // Main task -> Runs all of the tasks except for the watchers
-gulp.task('build', ['browserify-and-minify', 'build-styles'/*, 'build-bower-dependencies'*/]);
+gulp.task('build', gulpPlugins.sequence('jslint', ['browserify-and-minify', 'build-styles'/*, 'build-bower-dependencies'*/]));
 
 // NOTE: Look into using Gulp v4 series and parallel functions: gulp.task('default', gulp.series('build', 'start-server'));
 // An easier way to run the main task -> simply type 'gulp' on the command line
