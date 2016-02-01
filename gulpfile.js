@@ -3,7 +3,7 @@ var gulp = require('gulp'),
     browserify = require('browserify'),
     source = require('vinyl-source-stream'),
     nodemon = require('gulp-nodemon'),
-    path = require('path');
+    path = require('path'),
     del = require('del');
 
 // Load all gulp plugins listed in package.json
@@ -185,8 +185,9 @@ gulp.task('start-server', function () {
 // Main task -> Runs all of the tasks except for the watchers
 gulp.task('build', ['browserify-and-minify', 'build-styles'/*, 'build-bower-dependencies'*/]);
 
-//TODO: Look into using Gulp4 series and parallel functions: gulp.task('default', gulp.series('build', 'start-server'));
+// NOTE: Look into using Gulp v4 series and parallel functions: gulp.task('default', gulp.series('build', 'start-server'));
 // An easier way to run the main task -> simply type 'gulp' on the command line
-gulp.task('default', ['build', 'start-server']);
+// gulp.task('default', ['build', 'start-server']);
+gulp.task('default', gulpPlugins.sequence('build', 'start-server'));
 
 // TODO: Remove the compiled version of any scss files from the stylesheets directory. All of the compiled versions should go in dist!
