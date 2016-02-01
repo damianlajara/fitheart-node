@@ -1,0 +1,628 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "14412",
+      "name": "Beverages, water, tap, well",
+      "fg": "Beverages",
+      "sn": "",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 99.9,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 29.57
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 236.76
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 999.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.1,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.03
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.24
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 3.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 50,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 7.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 30.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 50,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 1.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 50,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 2.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 10.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 50,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 50,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 5.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 50,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 12.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 50.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.01,
+          "sourcecode": [
+            1
+          ],
+          "dp": 50,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.02
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.016,
+          "sourcecode": [
+            1
+          ],
+          "dp": 50,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.005
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.038
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.16
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 50,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 313,
+          "name": "Fluoride, F",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 25.8,
+          "sourcecode": [
+            1
+          ],
+          "dp": 50,
+          "se": "4.818",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 7.6
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 61.1
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 258.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 29.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving 8 fl oz 8 fl oz",
+              "eqv": 237.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "liter",
+              "eqv": 1000.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "National Food and Nutrient Analysis Program Wave 7e",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2003"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

@@ -1,0 +1,2947 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "25064",
+      "name": "Snacks, potato chips, lightly salted",
+      "fg": "Snacks",
+      "sn": "",
+      "cn": "",
+      "manu": "",
+      "nf": 0.0,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.35,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.38
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 3.06
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 560.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 157.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 1271.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 2341.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 655.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 5314.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 6.72,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 16,
+          "se": "0.148",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 1.88
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 15.25
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 35.39,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 10,
+          "se": "0.830",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 9.91
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 80.34
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.84
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 6.81
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 53.54,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 14.99
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 121.54
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 4.2,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 3,
+          "se": "0.156",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 1.2
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 9.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.34,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 12,
+          "se": "0.016",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.1
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.77
+            }
+          ]
+        },
+        {
+          "nutrient_id": 210,
+          "name": "Sucrose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.34,
+          "sourcecode": [
+            1
+          ],
+          "dp": 7,
+          "se": "0.014",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.1
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.77
+            }
+          ]
+        },
+        {
+          "nutrient_id": 211,
+          "name": "Glucose (dextrose)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 7,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 212,
+          "name": "Fructose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 7,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 213,
+          "name": "Lactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 7,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 214,
+          "name": "Maltose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 7,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 287,
+          "name": "Galactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 7,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 209,
+          "name": "Starch",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 45.95,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 12.87
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 104.31
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 24.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 233,
+          "se": "0.498",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 7.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 54.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 1.43,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 16,
+          "se": "0.079",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.4
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 3.25
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 62.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 16,
+          "se": "2.090",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 17.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 141.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 148.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 16,
+          "se": "7.922",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 41.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 336.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 1304.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 16,
+          "se": "37.534",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 365.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 2960.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 187.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 10,
+          "se": "14.224",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 52.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 424.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 1.51,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 16,
+          "se": "0.477",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.42
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 3.43
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.299,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 16,
+          "se": "0.017",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.084
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.679
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.478,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 16,
+          "se": "0.074",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.134
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 1.085
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 7.8,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 36,
+          "se": "0.773",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 2.2
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 17.7
+            }
+          ]
+        },
+        {
+          "nutrient_id": 313,
+          "name": "Fluoride, F",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 61.3,
+          "sourcecode": [
+            3,
+            4
+          ],
+          "dp": 16,
+          "se": "7.015",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 17.2
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 139.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 27.3,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "1.413",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 7.6
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 62.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.158,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 6,
+          "se": "0.010",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.044
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.359
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.173,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 6,
+          "se": "0.100",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.048
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.393
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 5.476,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 6,
+          "se": "0.436",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 1.533
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 12.431
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.815,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.228
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 1.85
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.651,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 6,
+          "se": "0.036",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.182
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 1.478
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 58.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 7,
+          "se": "5.188",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 16.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 132.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 58.0,
+          "sourcecode": "",
+          "dp": 4,
+          "se": "8.376",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 16.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 132.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 58.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 16.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 132.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 421,
+          "name": "Choline, total",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 12.1,
+          "sourcecode": [
+            5
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 3.4
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 27.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 454,
+          "name": "Betaine",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.2,
+          "sourcecode": [
+            5
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.1
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 578,
+          "name": "Vitamin B-12, added",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 319,
+          "name": "Retinol",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 321,
+          "name": "Carotene, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 322,
+          "name": "Carotene, alpha",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 334,
+          "name": "Cryptoxanthin, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 5,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 337,
+          "name": "Lycopene",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 338,
+          "name": "Lutein + zeaxanthin",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 323,
+          "name": "Vitamin E (alpha-tocopherol)",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 7.72,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 3,
+          "se": "0.709",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 2.16
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 17.52
+            }
+          ]
+        },
+        {
+          "nutrient_id": 573,
+          "name": "Vitamin E, added",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 341,
+          "name": "Tocopherol, beta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 10.46,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "5.375",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 2.93
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 23.74
+            }
+          ]
+        },
+        {
+          "nutrient_id": 342,
+          "name": "Tocopherol, gamma",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 5.11,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "5.108",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 1.43
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 11.6
+            }
+          ]
+        },
+        {
+          "nutrient_id": 343,
+          "name": "Tocopherol, delta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.44,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.084",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.12
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 328,
+          "name": "Vitamin D (D2 + D3)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 324,
+          "name": "Vitamin D",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 430,
+          "name": "Vitamin K (phylloquinone)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 22.1,
+          "sourcecode": [
+            5
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 6.2
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 50.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 5.49,
+          "sourcecode": "",
+          "dp": 8,
+          "se": "1.175",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 1.537
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 12.462
+            }
+          ]
+        },
+        {
+          "nutrient_id": 607,
+          "name": "4:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 608,
+          "name": "6:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 609,
+          "name": "8:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.001
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.005
+            }
+          ]
+        },
+        {
+          "nutrient_id": 610,
+          "name": "10:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.019,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.005
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.043
+            }
+          ]
+        },
+        {
+          "nutrient_id": 611,
+          "name": "12:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.007,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.002
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.016
+            }
+          ]
+        },
+        {
+          "nutrient_id": 612,
+          "name": "14:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.13,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.054",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.036
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.295
+            }
+          ]
+        },
+        {
+          "nutrient_id": 652,
+          "name": "15:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.008,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.002
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.018
+            }
+          ]
+        },
+        {
+          "nutrient_id": 613,
+          "name": "16:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 4.291,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "1.105",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 1.201
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 9.741
+            }
+          ]
+        },
+        {
+          "nutrient_id": 653,
+          "name": "17:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.024,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.007
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.054
+            }
+          ]
+        },
+        {
+          "nutrient_id": 614,
+          "name": "18:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.727,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.050",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.204
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 1.65
+            }
+          ]
+        },
+        {
+          "nutrient_id": 615,
+          "name": "20:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.157,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.019",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.044
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.356
+            }
+          ]
+        },
+        {
+          "nutrient_id": 624,
+          "name": "22:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.073,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.011",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.02
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.166
+            }
+          ]
+        },
+        {
+          "nutrient_id": 654,
+          "name": "24:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.052,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.015
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.118
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 14.938,
+          "sourcecode": "",
+          "dp": 8,
+          "se": "3.026",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 4.183
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 33.909
+            }
+          ]
+        },
+        {
+          "nutrient_id": 625,
+          "name": "14:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 697,
+          "name": "15:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 626,
+          "name": "16:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.117,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.025",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.033
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.266
+            }
+          ]
+        },
+        {
+          "nutrient_id": 673,
+          "name": "16:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.117,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.025",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.033
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.266
+            }
+          ]
+        },
+        {
+          "nutrient_id": 662,
+          "name": "16:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 687,
+          "name": "17:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.022,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.006
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.05
+            }
+          ]
+        },
+        {
+          "nutrient_id": 617,
+          "name": "18:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 14.557,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "2.967",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 4.076
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 33.044
+            }
+          ]
+        },
+        {
+          "nutrient_id": 674,
+          "name": "18:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 14.529,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "2.967",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 4.068
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 32.981
+            }
+          ]
+        },
+        {
+          "nutrient_id": 663,
+          "name": "18:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.028,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.007",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.008
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.064
+            }
+          ]
+        },
+        {
+          "nutrient_id": 628,
+          "name": "20:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.239,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.071",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.067
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.543
+            }
+          ]
+        },
+        {
+          "nutrient_id": 630,
+          "name": "22:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.004,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.001
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.009
+            }
+          ]
+        },
+        {
+          "nutrient_id": 676,
+          "name": "22:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.004,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.001
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.009
+            }
+          ]
+        },
+        {
+          "nutrient_id": 664,
+          "name": "22:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 671,
+          "name": "24:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 12.416,
+          "sourcecode": "",
+          "dp": 8,
+          "se": "2.082",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 3.476
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 28.184
+            }
+          ]
+        },
+        {
+          "nutrient_id": 618,
+          "name": "18:2 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 11.985,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "2.187",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 3.356
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 27.206
+            }
+          ]
+        },
+        {
+          "nutrient_id": 675,
+          "name": "18:2 n-6 c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 11.785,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "2.130",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 3.3
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 26.752
+            }
+          ]
+        },
+        {
+          "nutrient_id": 670,
+          "name": "18:2 CLAs",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.014,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.004
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.032
+            }
+          ]
+        },
+        {
+          "nutrient_id": 665,
+          "name": "18:2 t not further defined",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.186,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.081",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.052
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.422
+            }
+          ]
+        },
+        {
+          "nutrient_id": 619,
+          "name": "18:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.414,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.115",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.116
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.94
+            }
+          ]
+        },
+        {
+          "nutrient_id": 851,
+          "name": "18:3 n-3 c,c,c (ALA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.392,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.110",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.11
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.89
+            }
+          ]
+        },
+        {
+          "nutrient_id": 685,
+          "name": "18:3 n-6 c,c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.021,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.006",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.006
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.048
+            }
+          ]
+        },
+        {
+          "nutrient_id": 856,
+          "name": "18:3i",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.001,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 627,
+          "name": "18:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 672,
+          "name": "20:2 n-6 c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.006,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.002
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.014
+            }
+          ]
+        },
+        {
+          "nutrient_id": 689,
+          "name": "20:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.001
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.005
+            }
+          ]
+        },
+        {
+          "nutrient_id": 853,
+          "name": "20:3 n-6",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 620,
+          "name": "20:4 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.009,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.003
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.02
+            }
+          ]
+        },
+        {
+          "nutrient_id": 629,
+          "name": "20:5 n-3 (EPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 858,
+          "name": "22:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 631,
+          "name": "22:5 n-3 (DPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 621,
+          "name": "22:6 n-3 (DHA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.215,
+          "sourcecode": "",
+          "dp": 8,
+          "se": "0.081",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.06
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.488
+            }
+          ]
+        },
+        {
+          "nutrient_id": 693,
+          "name": "Fatty acids, total trans-monoenoic",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.028,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.008
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.064
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 24,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 636,
+          "name": "Phytosterols",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 181.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 51.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 411.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 221,
+          "name": "Alcohol, ethyl",
+          "group": "Other",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 262,
+          "name": "Caffeine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 263,
+          "name": "Theobromine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "pieces",
+              "eqv": 28.0,
+              "qty": 23.0,
+              "value": 0.0
+            },
+            {
+              "label": "bag",
+              "eqv": 227.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "National Food and Nutrient Analysis Program Wave 17b",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2012"
+      },
+      {
+        "id": 2,
+        "title": "National Food and Nutrient Analysis Program Wave 18a",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2013"
+      },
+      {
+        "id": 3,
+        "title": "Fluoride, Unpublished - Ophaug",
+        "authors": "Robert Ophaug",
+        "vol": "",
+        "iss": "",
+        "year": ""
+      },
+      {
+        "id": 4,
+        "title": "The fluoride content of foods and beverages from negligibly and optimally fluoridated communities.",
+        "authors": "RD Jackson, EJ Brizendine, SA Kelly, R Hinesley, GK Stookey, AJ Dunipace",
+        "vol": "30",
+        "iss": "5",
+        "year": "2002"
+      },
+      {
+        "id": 5,
+        "title": "National Food and Nutrient Analysis Program Wave 4b",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2001"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": "a",
+        "desc": "Sodium has taken from the recent analytical one.(lightly salted)"
+      }
+    ],
+    "langual": [
+
+    ]
+  }
+}

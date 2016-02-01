@@ -1,0 +1,1442 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "21507",
+      "name": "WENDY'S, Double Stack, with cheese",
+      "fg": "Fast Foods",
+      "sn": "",
+      "cn": "",
+      "manu": "Wendy's International, Inc.",
+      "nf": 0.0,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 47.58,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.355",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 69.47
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 285.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 416.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 1192.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 1740.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 18.53,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.272",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 27.05
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 16.6,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.406",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 24.24
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.94,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.064",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 2.83
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 15.35,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 22.41
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.87,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.088",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 5.65
+            }
+          ]
+        },
+        {
+          "nutrient_id": 210,
+          "name": "Sucrose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 211,
+          "name": "Glucose (dextrose)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.5,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 2.19
+            }
+          ]
+        },
+        {
+          "nutrient_id": 212,
+          "name": "Fructose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.63,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.033",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 2.38
+            }
+          ]
+        },
+        {
+          "nutrient_id": 213,
+          "name": "Lactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.33,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.033",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.48
+            }
+          ]
+        },
+        {
+          "nutrient_id": 214,
+          "name": "Maltose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.4,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.058",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.58
+            }
+          ]
+        },
+        {
+          "nutrient_id": 287,
+          "name": "Galactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 73.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "2.547",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 107.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 2.75,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.116",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 4.02
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 21.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.307",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 31.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 157.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "3.030",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 229.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 258.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "5.271",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 377.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 477.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "23.823",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 696.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 3.37,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.092",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 4.92
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.086,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.126
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.173,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.253
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 6.851,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 10.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 607,
+          "name": "4:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.047,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.069
+            }
+          ]
+        },
+        {
+          "nutrient_id": 608,
+          "name": "6:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.035,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.051
+            }
+          ]
+        },
+        {
+          "nutrient_id": 609,
+          "name": "8:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.025,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.037
+            }
+          ]
+        },
+        {
+          "nutrient_id": 610,
+          "name": "10:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.067,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.098
+            }
+          ]
+        },
+        {
+          "nutrient_id": 611,
+          "name": "12:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.075,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.109
+            }
+          ]
+        },
+        {
+          "nutrient_id": 612,
+          "name": "14:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.594,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.023",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.867
+            }
+          ]
+        },
+        {
+          "nutrient_id": 652,
+          "name": "15:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.089,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.13
+            }
+          ]
+        },
+        {
+          "nutrient_id": 613,
+          "name": "16:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 3.642,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.114",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 5.317
+            }
+          ]
+        },
+        {
+          "nutrient_id": 653,
+          "name": "17:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.183,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.017",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.267
+            }
+          ]
+        },
+        {
+          "nutrient_id": 614,
+          "name": "18:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 2.06,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.085",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 3.008
+            }
+          ]
+        },
+        {
+          "nutrient_id": 615,
+          "name": "20:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.019,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.028
+            }
+          ]
+        },
+        {
+          "nutrient_id": 624,
+          "name": "22:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.009,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.013
+            }
+          ]
+        },
+        {
+          "nutrient_id": 654,
+          "name": "24:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.006,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.009
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 7.268,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 10.611
+            }
+          ]
+        },
+        {
+          "nutrient_id": 625,
+          "name": "14:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.138,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.201
+            }
+          ]
+        },
+        {
+          "nutrient_id": 697,
+          "name": "15:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 626,
+          "name": "16:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.492,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.015",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.718
+            }
+          ]
+        },
+        {
+          "nutrient_id": 673,
+          "name": "16:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.441,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.017",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.644
+            }
+          ]
+        },
+        {
+          "nutrient_id": 662,
+          "name": "16:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.052,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.076
+            }
+          ]
+        },
+        {
+          "nutrient_id": 687,
+          "name": "17:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.133,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.012",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.194
+            }
+          ]
+        },
+        {
+          "nutrient_id": 617,
+          "name": "18:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 6.42,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.317",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 9.373
+            }
+          ]
+        },
+        {
+          "nutrient_id": 674,
+          "name": "18:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 5.655,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.309",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 8.256
+            }
+          ]
+        },
+        {
+          "nutrient_id": 663,
+          "name": "18:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.765,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.078",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 1.117
+            }
+          ]
+        },
+        {
+          "nutrient_id": 628,
+          "name": "20:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.063,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.092
+            }
+          ]
+        },
+        {
+          "nutrient_id": 630,
+          "name": "22:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.021,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.031
+            }
+          ]
+        },
+        {
+          "nutrient_id": 676,
+          "name": "22:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.021,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.031
+            }
+          ]
+        },
+        {
+          "nutrient_id": 664,
+          "name": "22:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 671,
+          "name": "24:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.003
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 1.264,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 1.845
+            }
+          ]
+        },
+        {
+          "nutrient_id": 618,
+          "name": "18:2 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 1.079,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.039",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 1.575
+            }
+          ]
+        },
+        {
+          "nutrient_id": 675,
+          "name": "18:2 n-6 c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.884,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.029",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 1.291
+            }
+          ]
+        },
+        {
+          "nutrient_id": 670,
+          "name": "18:2 CLAs",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.092,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.134
+            }
+          ]
+        },
+        {
+          "nutrient_id": 665,
+          "name": "18:2 t not further defined",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.103,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.008",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.15
+            }
+          ]
+        },
+        {
+          "nutrient_id": 619,
+          "name": "18:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.098,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.143
+            }
+          ]
+        },
+        {
+          "nutrient_id": 851,
+          "name": "18:3 n-3 c,c,c (ALA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.093,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.136
+            }
+          ]
+        },
+        {
+          "nutrient_id": 685,
+          "name": "18:3 n-6 c,c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.005,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.007
+            }
+          ]
+        },
+        {
+          "nutrient_id": 627,
+          "name": "18:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 672,
+          "name": "20:2 n-6 c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.006,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.009
+            }
+          ]
+        },
+        {
+          "nutrient_id": 689,
+          "name": "20:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.022,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.032
+            }
+          ]
+        },
+        {
+          "nutrient_id": 853,
+          "name": "20:3 n-6",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.02,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.029
+            }
+          ]
+        },
+        {
+          "nutrient_id": 620,
+          "name": "20:4 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.037,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.054
+            }
+          ]
+        },
+        {
+          "nutrient_id": 629,
+          "name": "20:5 n-3 (EPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.003
+            }
+          ]
+        },
+        {
+          "nutrient_id": 858,
+          "name": "22:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.01,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.015
+            }
+          ]
+        },
+        {
+          "nutrient_id": 631,
+          "name": "22:5 n-3 (DPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.01,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.015
+            }
+          ]
+        },
+        {
+          "nutrient_id": 621,
+          "name": "22:6 n-3 (DHA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.001,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 0.001
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.919,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 1.342
+            }
+          ]
+        },
+        {
+          "nutrient_id": 693,
+          "name": "Fatty acids, total trans-monoenoic",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.816,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "sandwich",
+              "eqv": 146.0,
+              "qty": 1.0,
+              "value": 1.191
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "National Food and Nutrient Analysis Program Wave 16e",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2012"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

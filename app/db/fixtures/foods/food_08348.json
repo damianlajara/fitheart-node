@@ -1,0 +1,856 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "08348",
+      "name": "Cereals ready-to-eat, MALT-O-MEAL, Crispy Rice",
+      "fg": "Breakfast Cereals",
+      "sn": "",
+      "cn": "",
+      "manu": "MOM Brands",
+      "nf": 0.0,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.4,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 1.12
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 346.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 114.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 1448.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 478.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 6.07,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.12,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.37
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 2.8,
+          "sourcecode": [
+            3
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.92
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 86.4,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 28.51
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.4,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 7.82,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 2.58
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 7.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 27.27,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 9.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 24.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 8.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 121.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 40.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 114.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 38.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 924.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 305.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 11.35,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 3.75
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.242,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.08
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 18.2,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 6.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.13,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.373
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.28,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.422
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 15.14,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 4.996
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.51,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.498
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 1210.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 399.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 1206.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 398.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 4.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 2054.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 678.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 4.55,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 1.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 455.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 150.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 1515.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 500.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 323,
+          "name": "Vitamin E (alpha-tocopherol)",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 328,
+          "name": "Vitamin D (D2 + D3)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 3.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 326,
+          "name": "Vitamin D3 (cholecalciferol)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 3.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 324,
+          "name": "Vitamin D",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 121.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 40.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 430,
+          "name": "Vitamin K (phylloquinone)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.3,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.099
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.34,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.112
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            3
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 221,
+          "name": "Alcohol, ethyl",
+          "group": "Other",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 262,
+          "name": "Caffeine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup (1 NLEA serving)",
+              "eqv": 33.0,
+              "qty": 1.25,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "MOM Brands company data for Malt-O-Meal cereals",
+        "authors": "Malt-O-Meal Company",
+        "vol": "",
+        "iss": "",
+        "year": "2015"
+      },
+      {
+        "id": 2,
+        "title": "MOM Brands company data for Malt-O-Meal cereals",
+        "authors": "Malt-O-Meal Company",
+        "vol": "",
+        "iss": "",
+        "year": "2013"
+      },
+      {
+        "id": 3,
+        "title": "Malt-O-Meal Company Data",
+        "authors": "Malt-O-Meal Company",
+        "vol": "",
+        "iss": "",
+        "year": "2004"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

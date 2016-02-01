@@ -1,0 +1,3529 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "09050",
+      "name": "Blueberries, raw",
+      "fg": "Fruits and Fruit Juices",
+      "sn": "Vaccinium spp.",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 3.6,
+      "ff": 8.37,
+      "pf": 3.36,
+      "r": "5%",
+      "rd": "Stems and green or spoiled berries",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 84.21,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.672",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 124.63
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 57.26
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 57.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 84.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 39.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 240.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 355.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 163.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.74,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.019",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 1.1
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.33,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.018",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.49
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.22
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.24,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.36
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.16
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 14.49,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 21.45
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 9.85
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 2.4,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.124",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 3.6
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 1.6
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 9.96,
+          "sourcecode": [
+            2,
+            3
+          ],
+          "dp": 8,
+          "se": "0.550",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 14.74
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 6.77
+            }
+          ]
+        },
+        {
+          "nutrient_id": 210,
+          "name": "Sucrose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.11,
+          "sourcecode": [
+            2,
+            3
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.16
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.07
+            }
+          ]
+        },
+        {
+          "nutrient_id": 211,
+          "name": "Glucose (dextrose)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 4.88,
+          "sourcecode": [
+            2,
+            3
+          ],
+          "dp": 8,
+          "se": "0.275",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 7.22
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 3.32
+            }
+          ]
+        },
+        {
+          "nutrient_id": 212,
+          "name": "Fructose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 4.97,
+          "sourcecode": [
+            2,
+            3
+          ],
+          "dp": 8,
+          "se": "0.276",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 7.36
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 3.38
+            }
+          ]
+        },
+        {
+          "nutrient_id": 213,
+          "name": "Lactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2,
+            3
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 214,
+          "name": "Maltose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2,
+            3
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 287,
+          "name": "Galactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2,
+            3
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 209,
+          "name": "Starch",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.03,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.027",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.04
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.02
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 6.0,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.785",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 9.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.28,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.011",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.41
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.19
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 6.0,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.197",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 9.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 12.0,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.508",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 18.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 8.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 77.0,
+          "sourcecode": [
+            1,
+            3
+          ],
+          "dp": 6,
+          "se": "5.450",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 114.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 52.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 1.0,
+          "sourcecode": [
+            1,
+            3
+          ],
+          "dp": 6,
+          "se": "0.353",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.16,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.017",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.24
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.11
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.057,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.014",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.084
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.039
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.336,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 8,
+          "se": "0.028",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.497
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.228
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 0.1,
+          "sourcecode": [
+            3
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.1
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 9.7,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.890",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 14.4
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 6.6
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.037,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.006",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.055
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.025
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.041,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.061
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.028
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.418,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.089",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.619
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.284
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.124,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.008",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.184
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.084
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.052,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.077
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.035
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 6.0,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 12,
+          "se": "0.123",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 9.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 6.0,
+          "sourcecode": "",
+          "dp": 12,
+          "se": "0.123",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 9.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 6.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 9.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 421,
+          "name": "Choline, total",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 6.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 8.9
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 4.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 454,
+          "name": "Betaine",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.2,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.3
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 578,
+          "name": "Vitamin B-12, added",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 3.0,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 4.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 319,
+          "name": "Retinol",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 321,
+          "name": "Carotene, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 32.0,
+          "sourcecode": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "dp": 16,
+          "se": "3.292",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 47.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 22.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 322,
+          "name": "Carotene, alpha",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            2,
+            3,
+            4
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 334,
+          "name": "Cryptoxanthin, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            2,
+            3,
+            4
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 54.0,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 80.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 37.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 337,
+          "name": "Lycopene",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            2,
+            3
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 338,
+          "name": "Lutein + zeaxanthin",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 80.0,
+          "sourcecode": [
+            2,
+            3
+          ],
+          "dp": 6,
+          "se": "5.650",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 118.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 54.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 323,
+          "name": "Vitamin E (alpha-tocopherol)",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.57,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.097",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.84
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.39
+            }
+          ]
+        },
+        {
+          "nutrient_id": 573,
+          "name": "Vitamin E, added",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 341,
+          "name": "Tocopherol, beta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.01,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.01
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.01
+            }
+          ]
+        },
+        {
+          "nutrient_id": 342,
+          "name": "Tocopherol, gamma",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.36,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.048",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.53
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.24
+            }
+          ]
+        },
+        {
+          "nutrient_id": 343,
+          "name": "Tocopherol, delta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.03,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.009",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.04
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.02
+            }
+          ]
+        },
+        {
+          "nutrient_id": 328,
+          "name": "Vitamin D (D2 + D3)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 324,
+          "name": "Vitamin D",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 430,
+          "name": "Vitamin K (phylloquinone)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 19.3,
+          "sourcecode": [
+            2,
+            3
+          ],
+          "dp": 8,
+          "se": "1.546",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 28.6
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 13.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.028,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.041
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.019
+            }
+          ]
+        },
+        {
+          "nutrient_id": 607,
+          "name": "4:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 608,
+          "name": "6:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 609,
+          "name": "8:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 610,
+          "name": "10:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 611,
+          "name": "12:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 612,
+          "name": "14:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 613,
+          "name": "16:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.017,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.025
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.012
+            }
+          ]
+        },
+        {
+          "nutrient_id": 614,
+          "name": "18:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.005,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.007
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.003
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.047,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.07
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.032
+            }
+          ]
+        },
+        {
+          "nutrient_id": 626,
+          "name": "16:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.001
+            }
+          ]
+        },
+        {
+          "nutrient_id": 617,
+          "name": "18:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.047,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.07
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.032
+            }
+          ]
+        },
+        {
+          "nutrient_id": 628,
+          "name": "20:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 630,
+          "name": "22:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.146,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.216
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.099
+            }
+          ]
+        },
+        {
+          "nutrient_id": 618,
+          "name": "18:2 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.088,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.13
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.06
+            }
+          ]
+        },
+        {
+          "nutrient_id": 619,
+          "name": "18:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.058,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.086
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.039
+            }
+          ]
+        },
+        {
+          "nutrient_id": 627,
+          "name": "18:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 620,
+          "name": "20:4 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 629,
+          "name": "20:5 n-3 (EPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 631,
+          "name": "22:5 n-3 (DPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 621,
+          "name": "22:6 n-3 (DHA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 501,
+          "name": "Tryptophan",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.003,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.004
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 502,
+          "name": "Threonine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.02,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.03
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.014
+            }
+          ]
+        },
+        {
+          "nutrient_id": 503,
+          "name": "Isoleucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.023,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.034
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.016
+            }
+          ]
+        },
+        {
+          "nutrient_id": 504,
+          "name": "Leucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.044,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.065
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.03
+            }
+          ]
+        },
+        {
+          "nutrient_id": 505,
+          "name": "Lysine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.013,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.019
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.009
+            }
+          ]
+        },
+        {
+          "nutrient_id": 506,
+          "name": "Methionine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.012,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.018
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.008
+            }
+          ]
+        },
+        {
+          "nutrient_id": 507,
+          "name": "Cystine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.008,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.012
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.005
+            }
+          ]
+        },
+        {
+          "nutrient_id": 508,
+          "name": "Phenylalanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.026,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.038
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.018
+            }
+          ]
+        },
+        {
+          "nutrient_id": 509,
+          "name": "Tyrosine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.009,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.013
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.006
+            }
+          ]
+        },
+        {
+          "nutrient_id": 510,
+          "name": "Valine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.031,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.046
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.021
+            }
+          ]
+        },
+        {
+          "nutrient_id": 511,
+          "name": "Arginine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.037,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.055
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.025
+            }
+          ]
+        },
+        {
+          "nutrient_id": 512,
+          "name": "Histidine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.011,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.016
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.007
+            }
+          ]
+        },
+        {
+          "nutrient_id": 513,
+          "name": "Alanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.031,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.046
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.021
+            }
+          ]
+        },
+        {
+          "nutrient_id": 514,
+          "name": "Aspartic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.057,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.084
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.039
+            }
+          ]
+        },
+        {
+          "nutrient_id": 515,
+          "name": "Glutamic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.091,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.135
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.062
+            }
+          ]
+        },
+        {
+          "nutrient_id": 516,
+          "name": "Glycine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.031,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.046
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.021
+            }
+          ]
+        },
+        {
+          "nutrient_id": 517,
+          "name": "Proline",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.028,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.041
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.019
+            }
+          ]
+        },
+        {
+          "nutrient_id": 518,
+          "name": "Serine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.022,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.033
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.015
+            }
+          ]
+        },
+        {
+          "nutrient_id": 221,
+          "name": "Alcohol, ethyl",
+          "group": "Other",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 262,
+          "name": "Caffeine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 263,
+          "name": "Theobromine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 731,
+          "name": "Cyanidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 8.45,
+          "sourcecode": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "dp": 55,
+          "se": "1.780",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 12.51
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 5.75
+            }
+          ]
+        },
+        {
+          "nutrient_id": 740,
+          "name": "Petunidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 31.53,
+          "sourcecode": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "dp": 54,
+          "se": "1.630",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 46.66
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 21.44
+            }
+          ]
+        },
+        {
+          "nutrient_id": 741,
+          "name": "Delphinidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 35.43,
+          "sourcecode": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "dp": 55,
+          "se": "5.480",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 52.44
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 24.09
+            }
+          ]
+        },
+        {
+          "nutrient_id": 742,
+          "name": "Malvidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 67.58,
+          "sourcecode": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "dp": 54,
+          "se": "3.500",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 100.02
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 45.95
+            }
+          ]
+        },
+        {
+          "nutrient_id": 743,
+          "name": "Pelargonidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            5,
+            7
+          ],
+          "dp": 8,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 745,
+          "name": "Peonidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 20.29,
+          "sourcecode": [
+            6,
+            7,
+            8,
+            12
+          ],
+          "dp": 17,
+          "se": "4.430",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 30.03
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 13.8
+            }
+          ]
+        },
+        {
+          "nutrient_id": 749,
+          "name": "(+)-Catechin",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 5.29,
+          "sourcecode": [
+            7,
+            14,
+            15,
+            16
+          ],
+          "dp": 23,
+          "se": "1.770",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 7.83
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 3.6
+            }
+          ]
+        },
+        {
+          "nutrient_id": 750,
+          "name": "(-)-Epigallocatechin",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 0.66,
+          "sourcecode": [
+            7,
+            14
+          ],
+          "dp": 15,
+          "se": "0.170",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.98
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.45
+            }
+          ]
+        },
+        {
+          "nutrient_id": 751,
+          "name": "(-)-Epicatechin",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 0.62,
+          "sourcecode": [
+            7,
+            14,
+            15,
+            16
+          ],
+          "dp": 33,
+          "se": "0.080",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.92
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.42
+            }
+          ]
+        },
+        {
+          "nutrient_id": 752,
+          "name": "(-)-Epicatechin 3-gallate",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            7,
+            14
+          ],
+          "dp": 15,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 753,
+          "name": "(-)-Epigallocatechin 3-gallate",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            7,
+            14
+          ],
+          "dp": 15,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 794,
+          "name": "(+)-Gallocatechin",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 0.11,
+          "sourcecode": [
+            7,
+            14
+          ],
+          "dp": 15,
+          "se": "0.020",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.16
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.07
+            }
+          ]
+        },
+        {
+          "nutrient_id": 759,
+          "name": "Hesperetin",
+          "group": "Flavanones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            7
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 762,
+          "name": "Naringenin",
+          "group": "Flavanones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            7
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 770,
+          "name": "Apigenin",
+          "group": "Flavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            5,
+            7
+          ],
+          "dp": 8,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 773,
+          "name": "Luteolin",
+          "group": "Flavones",
+          "unit": "mg",
+          "value": 0.2,
+          "sourcecode": [
+            5,
+            7
+          ],
+          "dp": 4,
+          "se": "0.200",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.3
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.14
+            }
+          ]
+        },
+        {
+          "nutrient_id": 786,
+          "name": "Kaempferol",
+          "group": "Flavonols",
+          "unit": "mg",
+          "value": 1.65,
+          "sourcecode": [
+            5,
+            10,
+            13,
+            15,
+            17,
+            18,
+            19
+          ],
+          "dp": 17,
+          "se": "0.210",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 2.44
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 1.12
+            }
+          ]
+        },
+        {
+          "nutrient_id": 788,
+          "name": "Myricetin",
+          "group": "Flavonols",
+          "unit": "mg",
+          "value": 1.29,
+          "sourcecode": [
+            5,
+            7,
+            9,
+            10,
+            11,
+            13,
+            15,
+            17,
+            18,
+            19,
+            20
+          ],
+          "dp": 62,
+          "se": "0.210",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 1.91
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.88
+            }
+          ]
+        },
+        {
+          "nutrient_id": 789,
+          "name": "Quercetin",
+          "group": "Flavonols",
+          "unit": "mg",
+          "value": 7.66,
+          "sourcecode": [
+            5,
+            7,
+            9,
+            10,
+            11,
+            13,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "dp": 72,
+          "se": "0.170",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 11.34
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 5.21
+            }
+          ]
+        },
+        {
+          "nutrient_id": 710,
+          "name": "Daidzein",
+          "group": "Isoflavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            23,
+            24
+          ],
+          "dp": 2,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 711,
+          "name": "Genistein",
+          "group": "Isoflavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            23,
+            24
+          ],
+          "dp": 2,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 712,
+          "name": "Glycitein",
+          "group": "Isoflavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            24
+          ],
+          "dp": 1,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 713,
+          "name": "Total isoflavones",
+          "group": "Isoflavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            23,
+            24
+          ],
+          "dp": 2,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 715,
+          "name": "Formononetin",
+          "group": "Isoflavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 716,
+          "name": "Coumestrol",
+          "group": "Isoflavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 148.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "berries",
+              "eqv": 68.0,
+              "qty": 50.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "Nutrient Content of Blueberry",
+        "authors": "Produce Marketing Association (PMA)",
+        "vol": "",
+        "iss": "",
+        "year": "1990"
+      },
+      {
+        "id": 2,
+        "title": "National Food and Nutrient Analysis Program Wave 4d",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2001"
+      },
+      {
+        "id": 3,
+        "title": "National Food and Nutrient Analysis Program Wave 5k",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2001"
+      },
+      {
+        "id": 4,
+        "title": "HPLC determination of carotenoids in fruits and vegetables in the United States",
+        "authors": "J L Bureau, R J Bushway",
+        "vol": "52",
+        "iss": "",
+        "year": "1986"
+      },
+      {
+        "id": 5,
+        "title": "Flavanol and flavonol contents of cocoa powder products: Influence of the manufacturing process.",
+        "authors": "Andres-Laceuva, C., Monogas, M., Khan, N., Izquierdo-Pulido, M., Urpi-Sarda, M., Permanyer, J., and Lamuela-Raventos, R. M.",
+        "vol": "56",
+        "iss": "",
+        "year": "2008"
+      },
+      {
+        "id": 6,
+        "title": "High-performance liquid chromatography analysis of black currant (Ribes nigrum L.) fruit phenolics grown either conventionally or organically.",
+        "authors": "Antonen, M. J. and Karjalainen, R. O.",
+        "vol": "54",
+        "iss": "",
+        "year": "2006"
+      },
+      {
+        "id": 7,
+        "title": "Flavonoid content of U.S. fruits, vegetables, and nuts",
+        "authors": "Harnly, J. M., Doherty, R., Beecher, G. R., Holden, J. M., Haytowitz, D. B., and Bhagwat, S., and Gebhardt S. ",
+        "vol": "54",
+        "iss": "",
+        "year": "2006"
+      },
+      {
+        "id": 8,
+        "title": "Sources of antioxidant activity in Australian native fruits. Identification and quantification of anthocyanins.",
+        "authors": "Netzel, M., Netzel, G., Tian, Q., Schwartz, S., and Konzak, I.",
+        "vol": "54",
+        "iss": "",
+        "year": "2006"
+      },
+      {
+        "id": 9,
+        "title": "Flavonoid constituents and their contribution to antioxidant activity in cultivars and hybrids of rabbiteye blueberry (Vaccinium ashei Reade). ",
+        "authors": "Wang, S. Y., Chen, H., Camp, M. J., and Ehlenfeldt, M. K.",
+        "vol": "132",
+        "iss": "",
+        "year": "2012"
+      },
+      {
+        "id": 10,
+        "title": "Increasing antioxidant activity and reducing decay of blueberries by essential oils.",
+        "authors": "Wang, C. Y., Wang, S. Y., and Chen, C. ",
+        "vol": "56",
+        "iss": "",
+        "year": "2008"
+      },
+      {
+        "id": 11,
+        "title": "Fruit quality, antioxidant capacity, and flavonoid content of organically grown and conventionally grown blueberries.",
+        "authors": "Wang, S. Y., Chen, C., Sciarappa, W., Wang, C. Y., and Camp, M.",
+        "vol": "56",
+        "iss": "",
+        "year": "2008"
+      },
+      {
+        "id": 12,
+        "title": "Concentrations of anthocyanins in common foods in the United States and estimation of normal consumption. ",
+        "authors": "Wu, X., Beecher, G. R., Holden, J. M., Haytowitz, D. B., Gebhardt, S. E., and Prior, R. L.",
+        "vol": "54",
+        "iss": "",
+        "year": "2006"
+      },
+      {
+        "id": 13,
+        "title": "Oxygen radical absorbing capacity of phenolics in blueberries, cranberries, chokeberries, and lingonberries",
+        "authors": "Zheng, W. and Wang, S.Y.",
+        "vol": "51",
+        "iss": "",
+        "year": "2003"
+      },
+      {
+        "id": 14,
+        "title": "Differentiation of raspberry varieties according to anthocyanin composition.",
+        "authors": "Ancos, B. de, Gonzalez, E., and Cano, M. P. ",
+        "vol": "208",
+        "iss": "",
+        "year": "1999"
+      },
+      {
+        "id": 15,
+        "title": "Phenolic compounds and antioxidant capacity of Georgia-grown blueberries and blackberries.",
+        "authors": "Sellappan, S., Akoh, C.C., and Krewer, G. ",
+        "vol": "50",
+        "iss": "8",
+        "year": "2002"
+      },
+      {
+        "id": 16,
+        "title": "(+)-Catechin and (-)-Epicatechin in Bulgarian fruits.",
+        "authors": "Tsanova-Savova, S., Ribarova, F., and Gerova, M. ",
+        "vol": "18",
+        "iss": "",
+        "year": "2005"
+      },
+      {
+        "id": 17,
+        "title": "Quantification and characterization of cyclooxygenase and lipid peroxidation inhibitory anthocyanins in fruits of Amelanchier.",
+        "authors": "Adhikari, D. P., Francis, J. A., Schutzki, R. E., Chandra A., and Nair, M.",
+        "vol": "16",
+        "iss": "",
+        "year": "2005"
+      },
+      {
+        "id": 18,
+        "title": "Content of flavonols quercetin, myricetin, and kaempferol in edible berries.",
+        "authors": "Häkkinen, S. H., Kärenlampi, S. O., Heinonen, I. M., Mykkänen, H. M., and Törrönen, A. R. ",
+        "vol": "47",
+        "iss": "",
+        "year": "1999"
+      },
+      {
+        "id": 19,
+        "title": "Flavonols, phenolic acids and antioxidant activity of some red fruits.",
+        "authors": "Jakobek L., Šeruga, M., Novak, I., and Medvidovic-Kosanovic, M.",
+        "vol": "103",
+        "iss": "",
+        "year": "2007"
+      },
+      {
+        "id": 20,
+        "title": "Influence of cultivar, maturity stage and storage conditions on phenolic composition and browning of pear fruits.",
+        "authors": "Amiot, M. J., Tacchini, M., Aubert, S. Y., and Oleszek, W. ",
+        "vol": "43",
+        "iss": "",
+        "year": "1995"
+      },
+      {
+        "id": 21,
+        "title": "Quantitative analysis of flavonols, flavones, and flavonones in fruits, vegetables and beverages by high-performance liquid chromatography with photo-diode array and mass spectrometric detection.",
+        "authors": "Justesen, U., Knuthsen, P., and Leth, T.",
+        "vol": "799",
+        "iss": "",
+        "year": "1998"
+      },
+      {
+        "id": 22,
+        "title": "Simultaneous determination of all polyphenols in vegetables, fruits, and teas",
+        "authors": "Sakakibara, H., Honda, Y., Nakagawa, S., Ashida, H., and Kanazawa, K. ",
+        "vol": "51",
+        "iss": "3",
+        "year": "2003"
+      },
+      {
+        "id": 23,
+        "title": "Phyto-oestrogen content of berries, and plasma concentrations and urinary excretion of enterolactone after a single strawberry-meal in human subjects.",
+        "authors": "Mazur, W. M., Uehara, M., W„h„l„, K., and Adlercreutz, H.",
+        "vol": "83",
+        "iss": "",
+        "year": "2000"
+      },
+      {
+        "id": 24,
+        "title": "Phytoestrogen content of foods consumed in Canada, including isoflavones, lignans, and coumestan.",
+        "authors": "Thompson, L. U., Boucher, B. A., Liu, Z., Cotterchio, M., and Kreiger, N.",
+        "vol": "54",
+        "iss": "",
+        "year": "2006"
+      },
+      {
+        "id": 25,
+        "title": "Quantitative analysis of flavan-3-ols in Spanish foodstuffs and beverages.",
+        "authors": "de Pascual-Teresa, S., Santos-Buelga, C., and Rivas-Gonzalo, J.C. ",
+        "vol": "48",
+        "iss": "",
+        "year": "2000"
+      },
+      {
+        "id": 26,
+        "title": "Concentrations of proanthocyanidins in common foods and estimations of normal consumption.",
+        "authors": "Gu, L., Kelm, M.A., Hammerstone, J.F., Beecher, G., Holden, J., Haytowitz, D., Gebhardt, S., and Prior, R.L. ",
+        "vol": "134",
+        "iss": "",
+        "year": "2004"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

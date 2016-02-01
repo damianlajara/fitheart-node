@@ -1,0 +1,660 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "28235",
+      "name": "SUNSHINE, CHEEZ-IT, Baby Swiss Crackers",
+      "fg": "Baked Products",
+      "sn": "",
+      "cn": "",
+      "manu": "Kellogg, Co.",
+      "nf": 6.25,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 2.3,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 0.69
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 0.48
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 503.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 151.0
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 106.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 2105.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 632.0
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 442.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 8.6,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 2.58
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 1.81
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 24.7,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 7.41
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 5.19
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 63.1,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 18.93
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 13.25
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 2.2,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 0.7
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 0.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.4,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 0.42
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 0.29
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 4.1,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 1.23
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 0.86
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 16.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 5.0
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 68.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 20.0
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 14.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 104.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 31.0
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 22.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 629.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 189.0
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 132.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.7,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 0.21
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 0.15
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.59,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 0.177
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 0.124
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.35,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 0.105
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 0.074
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 4.7,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 1.41
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 0.987
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.03,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 0.009
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 0.006
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 135.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 40.0
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 28.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 5.6,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 1.68
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 1.176
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 5.8,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 1.74
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 1.218
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 12.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 3.6
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 2.52
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.2,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 0.06
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 0.042
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 5.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "crackers",
+              "eqv": 30.0,
+              "qty": 25.0,
+              "value": 2.0
+            },
+            {
+              "label": "pouch",
+              "eqv": 21.0,
+              "qty": 1.0,
+              "value": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "Kellogg Company Products",
+        "authors": "Kellogg, Co.",
+        "vol": "",
+        "iss": "",
+        "year": "2012"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

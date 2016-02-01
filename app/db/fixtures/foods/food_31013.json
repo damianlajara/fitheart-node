@@ -1,0 +1,511 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "31013",
+      "name": "CAMPBELL'S, V8 Vegetable Juice, Spicy Hot V8",
+      "fg": "Vegetables and Vegetable Products",
+      "sn": "",
+      "cn": "",
+      "manu": "Campbell Soup Co.",
+      "nf": 6.25,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 94.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 228.42
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 228.42
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 21.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 51.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 51.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 86.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 209.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 209.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.82,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 1.99
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 1.99
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.06,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 2.58
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 2.58
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 4.12,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 10.01
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 10.01
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.8,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 1.9
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 1.9
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.29,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 7.99
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 7.99
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 16.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 39.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 39.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.44,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 1.07
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 1.07
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 267.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 649.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 649.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 198.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 481.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 481.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 29.6,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 71.9
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 71.9
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 514.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 1249.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 1249.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 243.0,
+              "qty": 8.0,
+              "value": 0.0
+            },
+            {
+              "label": "serving",
+              "eqv": 243.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

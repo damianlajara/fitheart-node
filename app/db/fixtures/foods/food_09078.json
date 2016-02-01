@@ -1,0 +1,3283 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "09078",
+      "name": "Cranberries, raw",
+      "fg": "Fruits and Fruit Juices",
+      "sn": "Vaccinium macrocarpon",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 3.6,
+      "ff": 8.37,
+      "pf": 3.36,
+      "r": "2%",
+      "rd": "Stems and spoiled berries",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 87.32,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.183",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 96.05
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 87.32
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 46.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 51.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 46.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 191.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 210.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 191.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.46,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.069",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.51
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.46
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.13,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.032",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.14
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.13
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.12,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.023",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.13
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.12
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 11.97,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 13.17
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 11.97
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.6,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "1.010",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 4.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 3.6
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 4.27,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.232",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 4.7
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 4.27
+            }
+          ]
+        },
+        {
+          "nutrient_id": 210,
+          "name": "Sucrose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.16,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.037",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.18
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.16
+            }
+          ]
+        },
+        {
+          "nutrient_id": 211,
+          "name": "Glucose (dextrose)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.44,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.160",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 3.78
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 3.44
+            }
+          ]
+        },
+        {
+          "nutrient_id": 212,
+          "name": "Fructose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.67,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.035",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.74
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.67
+            }
+          ]
+        },
+        {
+          "nutrient_id": 213,
+          "name": "Lactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 214,
+          "name": "Maltose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 287,
+          "name": "Galactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 209,
+          "name": "Starch",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 8.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.196",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 9.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 8.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.23,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.014",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.25
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.23
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 6.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.063",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 7.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 6.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 11.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "1.435",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 12.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 11.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 80.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "5.162",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 88.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 80.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 2.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.086",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 2.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.09,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.010",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.1
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.09
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.056,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.062
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.056
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.267,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.094",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.294
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.267
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 0.1,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.1
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 14.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.650",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 15.4
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 14.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.012,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.013
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.012
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.02,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.022
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.02
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.101,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.111
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.101
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.295,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.030",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.324
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.295
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.057,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.013",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.063
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.057
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 1.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 1.0,
+          "sourcecode": "",
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 1.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 421,
+          "name": "Choline, total",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 5.5,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 6.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 5.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 454,
+          "name": "Betaine",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.2,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.2
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 578,
+          "name": "Vitamin B-12, added",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 3.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 3.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 319,
+          "name": "Retinol",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 321,
+          "name": "Carotene, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 38.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "1.850",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 42.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 38.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 322,
+          "name": "Carotene, alpha",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 334,
+          "name": "Cryptoxanthin, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 63.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 69.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 63.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 337,
+          "name": "Lycopene",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 338,
+          "name": "Lutein + zeaxanthin",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 91.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "9.478",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 100.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 91.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 323,
+          "name": "Vitamin E (alpha-tocopherol)",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.32,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.120",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.45
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 1.32
+            }
+          ]
+        },
+        {
+          "nutrient_id": 573,
+          "name": "Vitamin E, added",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 341,
+          "name": "Tocopherol, beta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 342,
+          "name": "Tocopherol, gamma",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.04,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.04
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.04
+            }
+          ]
+        },
+        {
+          "nutrient_id": 343,
+          "name": "Tocopherol, delta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 328,
+          "name": "Vitamin D (D2 + D3)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 324,
+          "name": "Vitamin D",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 430,
+          "name": "Vitamin K (phylloquinone)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 5.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.093",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 5.5
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 5.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.008,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.009
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.008
+            }
+          ]
+        },
+        {
+          "nutrient_id": 607,
+          "name": "4:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 608,
+          "name": "6:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 609,
+          "name": "8:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 610,
+          "name": "10:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 611,
+          "name": "12:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 612,
+          "name": "14:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 613,
+          "name": "16:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.006,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.007
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.006
+            }
+          ]
+        },
+        {
+          "nutrient_id": 614,
+          "name": "18:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.018,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.02
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.018
+            }
+          ]
+        },
+        {
+          "nutrient_id": 626,
+          "name": "16:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.001,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.001
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.001
+            }
+          ]
+        },
+        {
+          "nutrient_id": 617,
+          "name": "18:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.018,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.02
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.018
+            }
+          ]
+        },
+        {
+          "nutrient_id": 628,
+          "name": "20:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 630,
+          "name": "22:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.055,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.06
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.055
+            }
+          ]
+        },
+        {
+          "nutrient_id": 618,
+          "name": "18:2 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.033,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.036
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.033
+            }
+          ]
+        },
+        {
+          "nutrient_id": 619,
+          "name": "18:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.022,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.024
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.022
+            }
+          ]
+        },
+        {
+          "nutrient_id": 627,
+          "name": "18:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 620,
+          "name": "20:4 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 629,
+          "name": "20:5 n-3 (EPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 631,
+          "name": "22:5 n-3 (DPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 621,
+          "name": "22:6 n-3 (DHA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 501,
+          "name": "Tryptophan",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.003,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.003
+            }
+          ]
+        },
+        {
+          "nutrient_id": 502,
+          "name": "Threonine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.028,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.031
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.028
+            }
+          ]
+        },
+        {
+          "nutrient_id": 503,
+          "name": "Isoleucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.033,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.036
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.033
+            }
+          ]
+        },
+        {
+          "nutrient_id": 504,
+          "name": "Leucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.053,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.058
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.053
+            }
+          ]
+        },
+        {
+          "nutrient_id": 505,
+          "name": "Lysine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.039,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.043
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.039
+            }
+          ]
+        },
+        {
+          "nutrient_id": 506,
+          "name": "Methionine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.003,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.003
+            }
+          ]
+        },
+        {
+          "nutrient_id": 507,
+          "name": "Cystine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.003,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.003
+            }
+          ]
+        },
+        {
+          "nutrient_id": 508,
+          "name": "Phenylalanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.036,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.04
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.036
+            }
+          ]
+        },
+        {
+          "nutrient_id": 509,
+          "name": "Tyrosine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.032,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.035
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.032
+            }
+          ]
+        },
+        {
+          "nutrient_id": 510,
+          "name": "Valine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.045,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.05
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.045
+            }
+          ]
+        },
+        {
+          "nutrient_id": 511,
+          "name": "Arginine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.056,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.062
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.056
+            }
+          ]
+        },
+        {
+          "nutrient_id": 512,
+          "name": "Histidine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.018,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.02
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.018
+            }
+          ]
+        },
+        {
+          "nutrient_id": 513,
+          "name": "Alanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.049,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.054
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.049
+            }
+          ]
+        },
+        {
+          "nutrient_id": 514,
+          "name": "Aspartic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.188,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.207
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.188
+            }
+          ]
+        },
+        {
+          "nutrient_id": 515,
+          "name": "Glutamic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.146,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.161
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.146
+            }
+          ]
+        },
+        {
+          "nutrient_id": 516,
+          "name": "Glycine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.048,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.053
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.048
+            }
+          ]
+        },
+        {
+          "nutrient_id": 517,
+          "name": "Proline",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.031,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.034
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.031
+            }
+          ]
+        },
+        {
+          "nutrient_id": 518,
+          "name": "Serine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.051,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.056
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.051
+            }
+          ]
+        },
+        {
+          "nutrient_id": 221,
+          "name": "Alcohol, ethyl",
+          "group": "Other",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 262,
+          "name": "Caffeine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 263,
+          "name": "Theobromine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 731,
+          "name": "Cyanidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 46.42,
+          "sourcecode": [
+            4,
+            5,
+            6
+          ],
+          "dp": 8,
+          "se": "7.940",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 51.06
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 46.42
+            }
+          ]
+        },
+        {
+          "nutrient_id": 740,
+          "name": "Petunidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            4
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 741,
+          "name": "Delphinidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 7.66,
+          "sourcecode": [
+            4,
+            5
+          ],
+          "dp": 5,
+          "se": "1.910",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 8.43
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 7.66
+            }
+          ]
+        },
+        {
+          "nutrient_id": 742,
+          "name": "Malvidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 0.43,
+          "sourcecode": [
+            4,
+            5
+          ],
+          "dp": 6,
+          "se": "0.310",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.47
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.43
+            }
+          ]
+        },
+        {
+          "nutrient_id": 743,
+          "name": "Pelargonidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 0.31,
+          "sourcecode": [
+            4
+          ],
+          "dp": 7,
+          "se": "0.140",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.34
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.31
+            }
+          ]
+        },
+        {
+          "nutrient_id": 745,
+          "name": "Peonidin",
+          "group": "Anthocyanidins",
+          "unit": "mg",
+          "value": 49.16,
+          "sourcecode": [
+            4,
+            5,
+            6
+          ],
+          "dp": 8,
+          "se": "8.070",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 54.08
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 49.16
+            }
+          ]
+        },
+        {
+          "nutrient_id": 749,
+          "name": "(+)-Catechin",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 0.39,
+          "sourcecode": [
+            4
+          ],
+          "dp": 8,
+          "se": "0.160",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.43
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.39
+            }
+          ]
+        },
+        {
+          "nutrient_id": 750,
+          "name": "(-)-Epigallocatechin",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 0.73,
+          "sourcecode": [
+            4
+          ],
+          "dp": 8,
+          "se": "0.280",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.8
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.73
+            }
+          ]
+        },
+        {
+          "nutrient_id": 751,
+          "name": "(-)-Epicatechin",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 4.37,
+          "sourcecode": [
+            4
+          ],
+          "dp": 8,
+          "se": "0.920",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 4.81
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 4.37
+            }
+          ]
+        },
+        {
+          "nutrient_id": 752,
+          "name": "(-)-Epicatechin 3-gallate",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            4
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 753,
+          "name": "(-)-Epigallocatechin 3-gallate",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 0.96,
+          "sourcecode": [
+            4
+          ],
+          "dp": 8,
+          "se": "0.470",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.06
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.96
+            }
+          ]
+        },
+        {
+          "nutrient_id": 794,
+          "name": "(+)-Gallocatechin",
+          "group": "Flavan-3-ols",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            4
+          ],
+          "dp": 8,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 759,
+          "name": "Hesperetin",
+          "group": "Flavanones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            4
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 762,
+          "name": "Naringenin",
+          "group": "Flavanones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            4
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 770,
+          "name": "Apigenin",
+          "group": "Flavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            3,
+            4
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 786,
+          "name": "Kaempferol",
+          "group": "Flavonols",
+          "unit": "mg",
+          "value": 0.12,
+          "sourcecode": [
+            3,
+            6,
+            7,
+            8
+          ],
+          "dp": 15,
+          "se": "0.040",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.13
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.12
+            }
+          ]
+        },
+        {
+          "nutrient_id": 788,
+          "name": "Myricetin",
+          "group": "Flavonols",
+          "unit": "mg",
+          "value": 6.63,
+          "sourcecode": [
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "dp": 21,
+          "se": "1.590",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 7.29
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 6.63
+            }
+          ]
+        },
+        {
+          "nutrient_id": 789,
+          "name": "Quercetin",
+          "group": "Flavonols",
+          "unit": "mg",
+          "value": 14.84,
+          "sourcecode": [
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "dp": 21,
+          "se": "1.040",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 16.32
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 14.84
+            }
+          ]
+        },
+        {
+          "nutrient_id": 710,
+          "name": "Daidzein",
+          "group": "Isoflavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            11,
+            12
+          ],
+          "dp": 2,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 711,
+          "name": "Genistein",
+          "group": "Isoflavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            11,
+            12
+          ],
+          "dp": 2,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 713,
+          "name": "Total isoflavones",
+          "group": "Isoflavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            11,
+            12
+          ],
+          "dp": 2,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, whole",
+              "eqv": 100.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "National Food and Nutrient Analysis Program Wave 5b",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2000"
+      },
+      {
+        "id": 2,
+        "title": "Nutrient composition of Ocean Spray products",
+        "authors": "Ocean Spray Cranberries, Inc.",
+        "vol": "",
+        "iss": "",
+        "year": "2015"
+      },
+      {
+        "id": 3,
+        "title": "Content of potentially anticarcinogenic flavonoids of 28 vegetables and fruits commonly consumed in The Netherlands.",
+        "authors": "Hertog, M. G. L., Hollman, P. C. H., and Katan, M. B. ",
+        "vol": "40",
+        "iss": "",
+        "year": "1992"
+      },
+      {
+        "id": 4,
+        "title": "Flavonoid content of U.S. fruits, vegetables, and nuts",
+        "authors": "Harnly, J. M., Doherty, R., Beecher, G. R., Holden, J. M., Haytowitz, D. B., and Bhagwat, S., and Gebhardt S. ",
+        "vol": "54",
+        "iss": "",
+        "year": "2006"
+      },
+      {
+        "id": 5,
+        "title": "Concentrations of anthocyanins in common foods in the United States and estimation of normal consumption. ",
+        "authors": "Wu, X., Beecher, G. R., Holden, J. M., Haytowitz, D. B., Gebhardt, S. E., and Prior, R. L.",
+        "vol": "54",
+        "iss": "",
+        "year": "2006"
+      },
+      {
+        "id": 6,
+        "title": "Oxygen radical absorbing capacity of phenolics in blueberries, cranberries, chokeberries, and lingonberries",
+        "authors": "Zheng, W. and Wang, S.Y.",
+        "vol": "51",
+        "iss": "",
+        "year": "2003"
+      },
+      {
+        "id": 7,
+        "title": "Quantification and characterization of cyclooxygenase and lipid peroxidation inhibitory anthocyanins in fruits of Amelanchier.",
+        "authors": "Adhikari, D. P., Francis, J. A., Schutzki, R. E., Chandra A., and Nair, M.",
+        "vol": "16",
+        "iss": "",
+        "year": "2005"
+      },
+      {
+        "id": 8,
+        "title": "Content of flavonols quercetin, myricetin, and kaempferol in edible berries.",
+        "authors": "Häkkinen, S. H., Kärenlampi, S. O., Heinonen, I. M., Mykkänen, H. M., and Törrönen, A. R. ",
+        "vol": "47",
+        "iss": "",
+        "year": "1999"
+      },
+      {
+        "id": 9,
+        "title": "Optimization of a quantitative HPLC determination of potentially anticarcinogenic flavonoids in vegetables and fruits.",
+        "authors": "Hertog, M. G. L., Hollman, P. C. H., and Venema, D. P. ",
+        "vol": "40",
+        "iss": "",
+        "year": "1992"
+      },
+      {
+        "id": 10,
+        "title": "Quantitative analysis of flavonols, flavones, and flavonones in fruits, vegetables and beverages by high-performance liquid chromatography with photo-diode array and mass spectrometric detection.",
+        "authors": "Justesen, U., Knuthsen, P., and Leth, T.",
+        "vol": "799",
+        "iss": "",
+        "year": "1998"
+      },
+      {
+        "id": 11,
+        "title": "Daidzein and genistein content of fruits and nuts.",
+        "authors": "Liggins, J., Bluck, L. J. C., Runswick, S., Atkinson, C., Coward, W. A., Bingham, S. A.",
+        "vol": "11",
+        "iss": "",
+        "year": "2000"
+      },
+      {
+        "id": 12,
+        "title": "Phyto-oestrogen content of berries, and plasma concentrations and urinary excretion of enterolactone after a single strawberry-meal in human subjects.",
+        "authors": "Mazur, W. M., Uehara, M., W„h„l„, K., and Adlercreutz, H.",
+        "vol": "83",
+        "iss": "",
+        "year": "2000"
+      },
+      {
+        "id": 13,
+        "title": "Concentrations of proanthocyanidins in common foods and estimations of normal consumption.",
+        "authors": "Gu, L., Kelm, M.A., Hammerstone, J.F., Beecher, G., Holden, J., Haytowitz, D., Gebhardt, S., and Prior, R.L. ",
+        "vol": "134",
+        "iss": "",
+        "year": "2004"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

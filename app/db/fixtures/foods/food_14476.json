@@ -1,0 +1,854 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "14476",
+      "name": "Beverages, LIPTON BRISK, tea, black, ready-to-drink, lemon",
+      "fg": "Beverages",
+      "sn": "",
+      "cn": "",
+      "manu": "Lipton",
+      "nf": 6.25,
+      "cf": 4.0,
+      "ff": 9.0,
+      "pf": 4.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 91.06,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 27.86
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 223.1
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 334.19
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 35.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 11.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 86.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 128.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 147.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 45.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 360.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 539.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.12,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.04
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.29
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.44
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 8.81,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 2.7
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 21.58
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 32.33
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 8.69,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 2.66
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 21.29
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 31.89
+            }
+          ]
+        },
+        {
+          "nutrient_id": 210,
+          "name": "Sucrose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 1.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 2.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 26.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 8.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 64.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 95.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 19.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 6.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 47.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 70.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 21.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 6.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 51.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 77.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.01,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.02
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.04
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.005,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.012
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.018
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.146,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.045
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.358
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.536
+            }
+          ]
+        },
+        {
+          "nutrient_id": 313,
+          "name": "Fluoride, F",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 72.2,
+          "sourcecode": [
+            1
+          ],
+          "dp": 63,
+          "se": "4.748",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 22.1
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 176.9
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 265.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 262,
+          "name": "Caffeine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 2.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 5.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 7.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 263,
+          "name": "Theobromine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "fl oz",
+              "eqv": 30.6,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 8 fl oz",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "bottle 12 fl oz",
+              "eqv": 367.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "National Food and Nutrient Analysis Program Wave 6g",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2002"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

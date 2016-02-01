@@ -1,0 +1,6364 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "01040",
+      "name": "Cheese, swiss",
+      "fg": "Dairy and Egg Products",
+      "sn": "",
+      "cn": "",
+      "manu": "",
+      "nf": 6.38,
+      "cf": 3.87,
+      "ff": 8.79,
+      "pf": 4.27,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 37.63,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.136",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 49.67
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 91.82
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 40.64
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 10.67
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 5.64
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 10.54
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 393.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 519.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 959.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 424.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 111.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 59.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 110.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 1645.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 2171.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 4014.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1777.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 466.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 247.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 461.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 26.96,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.236",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 35.59
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 65.78
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 29.12
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 7.64
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 4.04
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 7.55
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 30.99,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.239",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 40.91
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 75.62
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 33.47
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 8.79
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 4.65
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 8.68
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 2.97,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.041",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 3.92
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 7.25
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 3.21
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.84
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.45
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.83
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.44,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.9
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 3.51
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.56
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.41
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.22
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.4
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 210,
+          "name": "Sucrose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 211,
+          "name": "Glucose (dextrose)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 212,
+          "name": "Fructose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 213,
+          "name": "Lactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 214,
+          "name": "Maltose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 287,
+          "name": "Galactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 890.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "9.597",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1175.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 2172.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 961.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 252.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 134.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 249.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.13,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.17
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.32
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.14
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.04
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.02
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.04
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 33.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.390",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 44.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 81.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 36.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 9.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 5.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 9.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 574.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "4.448",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 758.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1401.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 620.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 163.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 86.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 161.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 72.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "2.679",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 95.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 176.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 78.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 20.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 11.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 20.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 187.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "10.837",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 247.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 456.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 202.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 53.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 28.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 52.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 4.37,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.039",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 5.77
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 10.66
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 4.72
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 1.24
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.66
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 1.22
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.047,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.062
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.115
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.051
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.013
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.007
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.013
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.026,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.034
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.063
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.028
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.007
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.004
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.007
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 30.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.465",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 39.6
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 73.2
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 32.4
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 8.5
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 4.5
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 8.4
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.011,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.015
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.027
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.012
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.003
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.302,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.399
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.737
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.326
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.086
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.045
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.085
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.064,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.011",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.084
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.156
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.069
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.018
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.01
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.018
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.353,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.014",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.466
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.861
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.381
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.1
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.053
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.099
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.071,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.094
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.173
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.077
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.02
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.011
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.02
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 10.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 13.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 24.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 11.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 3.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 2.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 10.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 13.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 24.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 11.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 3.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 2.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 10.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 13.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 24.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 11.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 3.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 2.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 421,
+          "name": "Choline, total",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 15.5,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 20.5
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 37.8
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 16.7
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 4.4
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 2.3
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 4.3
+            }
+          ]
+        },
+        {
+          "nutrient_id": 454,
+          "name": "Betaine",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.6,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.8
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.5
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.6
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.2
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.1
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 3.06,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.258",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 4.04
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 7.47
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 3.3
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.87
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.46
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.86
+            }
+          ]
+        },
+        {
+          "nutrient_id": 578,
+          "name": "Vitamin B-12, added",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 288.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 380.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 703.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 311.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 82.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 43.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 81.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 319,
+          "name": "Retinol",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 283.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "20.781",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 374.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 691.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 306.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 80.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 42.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 79.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 321,
+          "name": "Carotene, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 61.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "3.788",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 81.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 149.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 66.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 17.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 9.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 17.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 322,
+          "name": "Carotene, alpha",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 1.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.164",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 2.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 334,
+          "name": "Cryptoxanthin, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 2.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.092",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 3.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 5.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 2.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 1047.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1382.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 2555.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1131.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 297.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 157.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 293.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 337,
+          "name": "Lycopene",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 1.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.528",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 2.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 338,
+          "name": "Lutein + zeaxanthin",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 8.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "1.608",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 11.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 20.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 9.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 2.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 1.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 323,
+          "name": "Vitamin E (alpha-tocopherol)",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.6,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.068",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.79
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.46
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.65
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.17
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.09
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.17
+            }
+          ]
+        },
+        {
+          "nutrient_id": 573,
+          "name": "Vitamin E, added",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 341,
+          "name": "Tocopherol, beta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.02,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.023",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.03
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.05
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.02
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.01
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.01
+            }
+          ]
+        },
+        {
+          "nutrient_id": 342,
+          "name": "Tocopherol, gamma",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.07,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.021",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.09
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.17
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.08
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.02
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.01
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.02
+            }
+          ]
+        },
+        {
+          "nutrient_id": 343,
+          "name": "Tocopherol, delta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 328,
+          "name": "Vitamin D (D2 + D3)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 325,
+          "name": "Vitamin D2 (ergocalciferol)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 326,
+          "name": "Vitamin D3 (cholecalciferol)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 324,
+          "name": "Vitamin D",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 430,
+          "name": "Vitamin K (phylloquinone)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 1.4,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.8
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 3.4
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.5
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.4
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.2
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.4
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 18.227,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 24.06
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 44.474
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 19.685
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 5.167
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 2.734
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 5.104
+            }
+          ]
+        },
+        {
+          "nutrient_id": 607,
+          "name": "4:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.681,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.011",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.899
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.662
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.735
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.193
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.102
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.191
+            }
+          ]
+        },
+        {
+          "nutrient_id": 608,
+          "name": "6:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.542,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.007",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.715
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.322
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.585
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.154
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.081
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.152
+            }
+          ]
+        },
+        {
+          "nutrient_id": 609,
+          "name": "8:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.327,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.432
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.798
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.353
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.093
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.049
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.092
+            }
+          ]
+        },
+        {
+          "nutrient_id": 610,
+          "name": "10:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.768,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.009",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.014
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.874
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.829
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.218
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.115
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.215
+            }
+          ]
+        },
+        {
+          "nutrient_id": 611,
+          "name": "12:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.875,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.010",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.155
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 2.135
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.945
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.248
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.131
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.245
+            }
+          ]
+        },
+        {
+          "nutrient_id": 612,
+          "name": "14:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 2.919,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.030",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 3.853
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 7.122
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 3.153
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.828
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.438
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.817
+            }
+          ]
+        },
+        {
+          "nutrient_id": 652,
+          "name": "15:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.305,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.403
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.744
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.329
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.086
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.046
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.085
+            }
+          ]
+        },
+        {
+          "nutrient_id": 613,
+          "name": "16:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 8.358,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.037",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 11.033
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 20.394
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 9.027
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 2.369
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 1.254
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 2.34
+            }
+          ]
+        },
+        {
+          "nutrient_id": 653,
+          "name": "17:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.189,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.249
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.461
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.204
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.054
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.028
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.053
+            }
+          ]
+        },
+        {
+          "nutrient_id": 614,
+          "name": "18:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 3.196,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.058",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 4.219
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 7.798
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 3.452
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.906
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.479
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.895
+            }
+          ]
+        },
+        {
+          "nutrient_id": 615,
+          "name": "20:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.044,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.058
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.107
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.048
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.012
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.007
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.012
+            }
+          ]
+        },
+        {
+          "nutrient_id": 624,
+          "name": "22:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.014,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.018
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.034
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.015
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.004
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.004
+            }
+          ]
+        },
+        {
+          "nutrient_id": 654,
+          "name": "24:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.009,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.012
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.022
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.01
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.001
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.003
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 8.046,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 10.621
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 19.632
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 8.69
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 2.281
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 1.207
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 2.253
+            }
+          ]
+        },
+        {
+          "nutrient_id": 625,
+          "name": "14:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.297,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.006",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.392
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.725
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.321
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.084
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.045
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.083
+            }
+          ]
+        },
+        {
+          "nutrient_id": 697,
+          "name": "15:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 626,
+          "name": "16:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.565,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.016",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.746
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.379
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.61
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.16
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.085
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.158
+            }
+          ]
+        },
+        {
+          "nutrient_id": 673,
+          "name": "16:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.463,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.016",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.611
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.13
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.5
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.131
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.069
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.13
+            }
+          ]
+        },
+        {
+          "nutrient_id": 662,
+          "name": "16:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.102,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.135
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.249
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.11
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.029
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.015
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.029
+            }
+          ]
+        },
+        {
+          "nutrient_id": 687,
+          "name": "17:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.062,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.082
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.151
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.067
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.018
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.009
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.017
+            }
+          ]
+        },
+        {
+          "nutrient_id": 617,
+          "name": "18:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 7.06,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.133",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 9.319
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 17.226
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 7.625
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 2.002
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 1.059
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 1.977
+            }
+          ]
+        },
+        {
+          "nutrient_id": 674,
+          "name": "18:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 6.369,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.082",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 8.407
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 15.54
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 6.879
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 1.806
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.955
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 1.783
+            }
+          ]
+        },
+        {
+          "nutrient_id": 663,
+          "name": "18:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.692,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.075",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.913
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.688
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.747
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.196
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.104
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.194
+            }
+          ]
+        },
+        {
+          "nutrient_id": 628,
+          "name": "20:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.06,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.079
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.146
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.065
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.017
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.009
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.017
+            }
+          ]
+        },
+        {
+          "nutrient_id": 630,
+          "name": "22:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.005
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.001
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.001
+            }
+          ]
+        },
+        {
+          "nutrient_id": 676,
+          "name": "22:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.005
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.001
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.001
+            }
+          ]
+        },
+        {
+          "nutrient_id": 664,
+          "name": "22:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 671,
+          "name": "24:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 1.341,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.77
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 3.272
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.448
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.38
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.201
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.375
+            }
+          ]
+        },
+        {
+          "nutrient_id": 618,
+          "name": "18:2 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 1.086,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.015",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.434
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 2.65
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.173
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.308
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.163
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.304
+            }
+          ]
+        },
+        {
+          "nutrient_id": 675,
+          "name": "18:2 n-6 c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.734,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.007",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.969
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.791
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.793
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.208
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.11
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.206
+            }
+          ]
+        },
+        {
+          "nutrient_id": 670,
+          "name": "18:2 CLAs",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.161,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.213
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.393
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.174
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.046
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.024
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.045
+            }
+          ]
+        },
+        {
+          "nutrient_id": 665,
+          "name": "18:2 t not further defined",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.191,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.252
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.466
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.206
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.054
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.029
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.053
+            }
+          ]
+        },
+        {
+          "nutrient_id": 619,
+          "name": "18:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.129,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.17
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.315
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.139
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.037
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.019
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.036
+            }
+          ]
+        },
+        {
+          "nutrient_id": 851,
+          "name": "18:3 n-3 c,c,c (ALA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.125,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.165
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.305
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.135
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.035
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.019
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.035
+            }
+          ]
+        },
+        {
+          "nutrient_id": 685,
+          "name": "18:3 n-6 c,c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.005
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.001
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.001
+            }
+          ]
+        },
+        {
+          "nutrient_id": 856,
+          "name": "18:3i",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.005
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.001
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.001
+            }
+          ]
+        },
+        {
+          "nutrient_id": 627,
+          "name": "18:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.001,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.001
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.001
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 672,
+          "name": "20:2 n-6 c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.007,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.009
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.017
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.008
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.001
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 689,
+          "name": "20:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.035,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.046
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.085
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.038
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.01
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.005
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.01
+            }
+          ]
+        },
+        {
+          "nutrient_id": 853,
+          "name": "20:3 n-6",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.032,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.042
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.078
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.035
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.009
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.005
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.009
+            }
+          ]
+        },
+        {
+          "nutrient_id": 620,
+          "name": "20:4 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.046,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.061
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.112
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.05
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.013
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.007
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.013
+            }
+          ]
+        },
+        {
+          "nutrient_id": 629,
+          "name": "20:5 n-3 (EPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 858,
+          "name": "22:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.007,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.009
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.017
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.008
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.001
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 631,
+          "name": "22:5 n-3 (DPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.018,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.024
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.044
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.019
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.005
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.005
+            }
+          ]
+        },
+        {
+          "nutrient_id": 621,
+          "name": "22:6 n-3 (DHA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 12,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.987,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.303
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 2.408
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.066
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.28
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.148
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.276
+            }
+          ]
+        },
+        {
+          "nutrient_id": 693,
+          "name": "Fatty acids, total trans-monoenoic",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.793,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.047
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.935
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.856
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.225
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.119
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.222
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 93.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "1.186",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 123.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 227.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 100.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 26.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 14.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 26.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 501,
+          "name": "Tryptophan",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.401,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.529
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.978
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.433
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.114
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.06
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.112
+            }
+          ]
+        },
+        {
+          "nutrient_id": 502,
+          "name": "Threonine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.038,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.37
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 2.533
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.121
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.294
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.156
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.291
+            }
+          ]
+        },
+        {
+          "nutrient_id": 503,
+          "name": "Isoleucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.537,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 2.029
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 3.75
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.66
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.436
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.231
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.43
+            }
+          ]
+        },
+        {
+          "nutrient_id": 504,
+          "name": "Leucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 2.959,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 3.906
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 7.22
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 3.196
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.839
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.444
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.829
+            }
+          ]
+        },
+        {
+          "nutrient_id": 505,
+          "name": "Lysine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 2.585,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 3.412
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 6.307
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 2.792
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.733
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.388
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.724
+            }
+          ]
+        },
+        {
+          "nutrient_id": 506,
+          "name": "Methionine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.784,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.035
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.913
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.847
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.222
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.118
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.22
+            }
+          ]
+        },
+        {
+          "nutrient_id": 507,
+          "name": "Cystine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.29,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.383
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.708
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.313
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.082
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.044
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.081
+            }
+          ]
+        },
+        {
+          "nutrient_id": 508,
+          "name": "Phenylalanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.662,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 2.194
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 4.055
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.795
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.471
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.249
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.465
+            }
+          ]
+        },
+        {
+          "nutrient_id": 509,
+          "name": "Tyrosine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.693,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 2.235
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 4.131
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.828
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.48
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.254
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.474
+            }
+          ]
+        },
+        {
+          "nutrient_id": 510,
+          "name": "Valine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 2.139,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 2.823
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 5.219
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 2.31
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.606
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.321
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.599
+            }
+          ]
+        },
+        {
+          "nutrient_id": 511,
+          "name": "Arginine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.927,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.224
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 2.262
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.001
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.263
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.139
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.26
+            }
+          ]
+        },
+        {
+          "nutrient_id": 512,
+          "name": "Histidine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.065,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.406
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 2.599
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.15
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.302
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.16
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.298
+            }
+          ]
+        },
+        {
+          "nutrient_id": 513,
+          "name": "Alanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.914,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.206
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 2.23
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.987
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.259
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.137
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.256
+            }
+          ]
+        },
+        {
+          "nutrient_id": 514,
+          "name": "Aspartic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.569,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 2.071
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 3.828
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.695
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.445
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.235
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.439
+            }
+          ]
+        },
+        {
+          "nutrient_id": 515,
+          "name": "Glutamic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 5.704,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 7.529
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 13.918
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 6.16
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 1.617
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.856
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 1.597
+            }
+          ]
+        },
+        {
+          "nutrient_id": 516,
+          "name": "Glycine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.508,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.671
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 1.24
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.549
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.144
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.076
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.142
+            }
+          ]
+        },
+        {
+          "nutrient_id": 517,
+          "name": "Proline",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 3.69,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 4.871
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 9.004
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 3.985
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 1.046
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.554
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 1.033
+            }
+          ]
+        },
+        {
+          "nutrient_id": 518,
+          "name": "Serine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.64,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 2.165
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 4.002
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 1.771
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.465
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.246
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.459
+            }
+          ]
+        },
+        {
+          "nutrient_id": 221,
+          "name": "Alcohol, ethyl",
+          "group": "Other",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 262,
+          "name": "Caffeine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 263,
+          "name": "Theobromine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, diced",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, melted",
+              "eqv": 244.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cup, shredded",
+              "eqv": 108.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "oz",
+              "eqv": 28.35,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "cubic inch",
+              "eqv": 15.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "slice (1 oz)",
+              "eqv": 28.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "National Food and Nutrient Analysis Program Wave 18c",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2014"
+      },
+      {
+        "id": 2,
+        "title": "National Food and Nutrient Analysis Program Wave 4c",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2001"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

@@ -1,0 +1,2442 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "21296",
+      "name": "PIZZA HUT 14\" Pepperoni Pizza, Hand-Tossed Crust",
+      "fg": "Fast Foods",
+      "sn": "",
+      "cn": "",
+      "manu": "Pizza Hut, Inc.",
+      "nf": 0.0,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 40.15,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.402",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 44.16
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 354.52
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 291.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 320.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 2570.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 1218.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1340.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 10755.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 12.23,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.154",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 13.45
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 107.99
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 12.63,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.178",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 13.89
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 111.52
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 2.87,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.038",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 3.16
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 25.34
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 32.11,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 35.32
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 283.53
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 2.6,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.145",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 2.9
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 23.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 2.82,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.080",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 3.1
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 24.9
+            }
+          ]
+        },
+        {
+          "nutrient_id": 210,
+          "name": "Sucrose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 211,
+          "name": "Glucose (dextrose)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.53,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.033",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.58
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 4.68
+            }
+          ]
+        },
+        {
+          "nutrient_id": 212,
+          "name": "Fructose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.83,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.033",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.91
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 7.33
+            }
+          ]
+        },
+        {
+          "nutrient_id": 213,
+          "name": "Lactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.27,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.067",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.3
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 2.38
+            }
+          ]
+        },
+        {
+          "nutrient_id": 214,
+          "name": "Maltose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.1,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.058",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.21
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 9.71
+            }
+          ]
+        },
+        {
+          "nutrient_id": 287,
+          "name": "Galactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.09,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.009",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.1
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.79
+            }
+          ]
+        },
+        {
+          "nutrient_id": 209,
+          "name": "Starch",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 25.97,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.956",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 28.57
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 229.32
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 166.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "7.631",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 183.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1466.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 2.71,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.094",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 2.98
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 23.93
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 24.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.600",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 26.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 212.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 206.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "5.181",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 227.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1819.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 207.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "2.638",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 228.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1828.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 759.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "5.783",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 835.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 6702.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 1.49,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.028",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.64
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 13.16
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.106,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.117
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.936
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.418,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.006",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.46
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 3.691
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 19.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 20.9
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 167.8
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.1
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 8.8
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.55,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.605
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 4.857
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.24,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.264
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 2.119
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 4.82,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 5.302
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 42.561
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.4,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.44
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 3.532
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.09,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.099
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.795
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 112.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "7.805",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 123.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 989.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 68.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "7.246",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 75.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 600.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 44.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 48.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 389.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 159.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 175.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1404.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.51,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.56
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 4.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 323,
+          "name": "Vitamin E (alpha-tocopherol)",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.65,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.047",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.72
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 5.74
+            }
+          ]
+        },
+        {
+          "nutrient_id": 341,
+          "name": "Tocopherol, beta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.05,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.06
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.44
+            }
+          ]
+        },
+        {
+          "nutrient_id": 342,
+          "name": "Tocopherol, gamma",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.14,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.065",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.25
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 10.07
+            }
+          ]
+        },
+        {
+          "nutrient_id": 343,
+          "name": "Tocopherol, delta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.35,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.015",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.38
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 3.09
+            }
+          ]
+        },
+        {
+          "nutrient_id": 328,
+          "name": "Vitamin D (D2 + D3)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 324,
+          "name": "Vitamin D",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 430,
+          "name": "Vitamin K (phylloquinone)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 8.5,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.705",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 9.4
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 75.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 5.404,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 5.944
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 47.717
+            }
+          ]
+        },
+        {
+          "nutrient_id": 607,
+          "name": "4:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.09,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.099
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.795
+            }
+          ]
+        },
+        {
+          "nutrient_id": 608,
+          "name": "6:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.071,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.078
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.627
+            }
+          ]
+        },
+        {
+          "nutrient_id": 609,
+          "name": "8:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.049,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.054
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.433
+            }
+          ]
+        },
+        {
+          "nutrient_id": 610,
+          "name": "10:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.123,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.135
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1.086
+            }
+          ]
+        },
+        {
+          "nutrient_id": 611,
+          "name": "12:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.151,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.166
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1.333
+            }
+          ]
+        },
+        {
+          "nutrient_id": 612,
+          "name": "14:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.557,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.021",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.613
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 4.918
+            }
+          ]
+        },
+        {
+          "nutrient_id": 652,
+          "name": "15:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.058,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.064
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.512
+            }
+          ]
+        },
+        {
+          "nutrient_id": 613,
+          "name": "16:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 2.997,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.070",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 3.297
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 26.464
+            }
+          ]
+        },
+        {
+          "nutrient_id": 653,
+          "name": "17:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.057,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.063
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.503
+            }
+          ]
+        },
+        {
+          "nutrient_id": 614,
+          "name": "18:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 1.195,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.024",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.315
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 10.552
+            }
+          ]
+        },
+        {
+          "nutrient_id": 615,
+          "name": "20:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.03,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.033
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.265
+            }
+          ]
+        },
+        {
+          "nutrient_id": 624,
+          "name": "22:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.014,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.015
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.124
+            }
+          ]
+        },
+        {
+          "nutrient_id": 654,
+          "name": "24:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.008,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.009
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.071
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 4.338,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 4.772
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 38.305
+            }
+          ]
+        },
+        {
+          "nutrient_id": 625,
+          "name": "14:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.046,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.051
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.406
+            }
+          ]
+        },
+        {
+          "nutrient_id": 697,
+          "name": "15:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 626,
+          "name": "16:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.197,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.217
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1.74
+            }
+          ]
+        },
+        {
+          "nutrient_id": 673,
+          "name": "16:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.176,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.194
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1.554
+            }
+          ]
+        },
+        {
+          "nutrient_id": 662,
+          "name": "16:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.021,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.023
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.185
+            }
+          ]
+        },
+        {
+          "nutrient_id": 687,
+          "name": "17:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.027,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.03
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.238
+            }
+          ]
+        },
+        {
+          "nutrient_id": 617,
+          "name": "18:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 3.967,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.077",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 4.364
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 35.029
+            }
+          ]
+        },
+        {
+          "nutrient_id": 674,
+          "name": "18:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 3.785,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.076",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 4.164
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 33.422
+            }
+          ]
+        },
+        {
+          "nutrient_id": 663,
+          "name": "18:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.182,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.2
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1.607
+            }
+          ]
+        },
+        {
+          "nutrient_id": 628,
+          "name": "20:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.075,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.082
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.662
+            }
+          ]
+        },
+        {
+          "nutrient_id": 630,
+          "name": "22:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.022,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.024
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.194
+            }
+          ]
+        },
+        {
+          "nutrient_id": 676,
+          "name": "22:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.022,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.024
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.194
+            }
+          ]
+        },
+        {
+          "nutrient_id": 664,
+          "name": "22:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 671,
+          "name": "24:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.003,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.026
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 2.022,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 2.224
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 17.854
+            }
+          ]
+        },
+        {
+          "nutrient_id": 618,
+          "name": "18:2 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 1.748,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.049",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.923
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 15.435
+            }
+          ]
+        },
+        {
+          "nutrient_id": 675,
+          "name": "18:2 n-6 c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 1.652,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.050",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 1.817
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 14.587
+            }
+          ]
+        },
+        {
+          "nutrient_id": 670,
+          "name": "18:2 CLAs",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.041,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.045
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.362
+            }
+          ]
+        },
+        {
+          "nutrient_id": 665,
+          "name": "18:2 t not further defined",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.055,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.06
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.486
+            }
+          ]
+        },
+        {
+          "nutrient_id": 619,
+          "name": "18:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.186,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.008",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.205
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1.642
+            }
+          ]
+        },
+        {
+          "nutrient_id": 851,
+          "name": "18:3 n-3 c,c,c (ALA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.182,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.008",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.2
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1.607
+            }
+          ]
+        },
+        {
+          "nutrient_id": 685,
+          "name": "18:3 n-6 c,c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.004,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.004
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.035
+            }
+          ]
+        },
+        {
+          "nutrient_id": 627,
+          "name": "18:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.018
+            }
+          ]
+        },
+        {
+          "nutrient_id": 672,
+          "name": "20:2 n-6 c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.025,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.028
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.221
+            }
+          ]
+        },
+        {
+          "nutrient_id": 689,
+          "name": "20:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.015,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.016
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.132
+            }
+          ]
+        },
+        {
+          "nutrient_id": 853,
+          "name": "20:3 n-6",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.012,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.013
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.106
+            }
+          ]
+        },
+        {
+          "nutrient_id": 620,
+          "name": "20:4 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.025,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.028
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.221
+            }
+          ]
+        },
+        {
+          "nutrient_id": 629,
+          "name": "20:5 n-3 (EPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.003,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.026
+            }
+          ]
+        },
+        {
+          "nutrient_id": 858,
+          "name": "22:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.009,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.01
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.079
+            }
+          ]
+        },
+        {
+          "nutrient_id": 631,
+          "name": "22:5 n-3 (DPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.006,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.007
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.053
+            }
+          ]
+        },
+        {
+          "nutrient_id": 621,
+          "name": "22:6 n-3 (DHA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.001,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.001
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 0.009
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.259,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.285
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 2.287
+            }
+          ]
+        },
+        {
+          "nutrient_id": 693,
+          "name": "Fatty acids, total trans-monoenoic",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.204,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 0.224
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 1.801
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 26.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "2.186",
+          "measures": [
+            {
+              "label": "slice",
+              "eqv": 110.0,
+              "qty": 1.0,
+              "value": 29.0
+            },
+            {
+              "label": "pizza",
+              "eqv": 883.0,
+              "qty": 1.0,
+              "value": 230.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "National Food and Nutrient Analysis Program Wave 15c",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2010"
+      },
+      {
+        "id": 2,
+        "title": "National Food and Nutrient Analysis Program Wave 8b",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2004"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

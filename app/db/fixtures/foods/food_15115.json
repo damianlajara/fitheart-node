@@ -1,0 +1,1807 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "15115",
+      "name": "Fish, trout, rainbow, wild, raw",
+      "fg": "Finfish and Shellfish Products",
+      "sn": "Salmo gairdneri Richardson",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 3.87,
+      "ff": 9.02,
+      "pf": 4.27,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 71.87,
+          "sourcecode": "",
+          "dp": 30,
+          "se": "0.823",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 61.09
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 114.27
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 119.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 101.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 189.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 498.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 423.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 792.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 20.48,
+          "sourcecode": "",
+          "dp": 28,
+          "se": "0.309",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 17.41
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 32.56
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.46,
+          "sourcecode": "",
+          "dp": 50,
+          "se": "0.226",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 2.94
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 5.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.31,
+          "sourcecode": "",
+          "dp": 27,
+          "se": "0.019",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.11
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 2.08
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 67.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 57.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 107.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.7,
+          "sourcecode": "",
+          "dp": 5,
+          "se": "0.311",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.6
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.11
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 31.0,
+          "sourcecode": "",
+          "dp": 22,
+          "se": "0.416",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 26.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 49.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 271.0,
+          "sourcecode": "",
+          "dp": 5,
+          "se": "8.117",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 230.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 431.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 481.0,
+          "sourcecode": "",
+          "dp": 22,
+          "se": "7.777",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 409.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 765.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 31.0,
+          "sourcecode": "",
+          "dp": 22,
+          "se": "2.185",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 26.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 49.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 1.08,
+          "sourcecode": "",
+          "dp": 172,
+          "se": "0.044",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.92
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.72
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.109,
+          "sourcecode": "",
+          "dp": 169,
+          "se": "0.025",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.093
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.173
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.158,
+          "sourcecode": "",
+          "dp": 5,
+          "se": "0.136",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.134
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.251
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 12.6,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 10.7
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 20.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 2.4,
+          "sourcecode": "",
+          "dp": 6,
+          "se": "0.534",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 2.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 3.8
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.123,
+          "sourcecode": "",
+          "dp": 5,
+          "se": "0.013",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.105
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.196
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.105,
+          "sourcecode": "",
+          "dp": 5,
+          "se": "0.021",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.089
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.167
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 5.384,
+          "sourcecode": "",
+          "dp": 5,
+          "se": "0.281",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 4.576
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 8.561
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.928,
+          "sourcecode": "",
+          "dp": 5,
+          "se": "0.114",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.789
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.476
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.406,
+          "sourcecode": "",
+          "dp": 5,
+          "se": "0.017",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.345
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.646
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 12.0,
+          "sourcecode": "",
+          "dp": 3,
+          "se": "2.147",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 10.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 19.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 12.0,
+          "sourcecode": "",
+          "dp": 3,
+          "se": "2.147",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 10.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 19.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 12.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 10.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 19.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 4.45,
+          "sourcecode": "",
+          "dp": 5,
+          "se": "0.561",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 3.78
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 7.08
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 19.0,
+          "sourcecode": "",
+          "dp": 22,
+          "se": "2.175",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 16.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 30.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 319,
+          "name": "Retinol",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 19.0,
+          "sourcecode": "",
+          "dp": 22,
+          "se": "2.175",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 16.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 30.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 62.0,
+          "sourcecode": "",
+          "dp": 22,
+          "se": "7.244",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 53.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 99.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.722,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.614
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.148
+            }
+          ]
+        },
+        {
+          "nutrient_id": 607,
+          "name": "4:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 608,
+          "name": "6:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 609,
+          "name": "8:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 610,
+          "name": "10:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 611,
+          "name": "12:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.011,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.009
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.017
+            }
+          ]
+        },
+        {
+          "nutrient_id": 612,
+          "name": "14:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.079,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.067
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.126
+            }
+          ]
+        },
+        {
+          "nutrient_id": 613,
+          "name": "16:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.421,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.358
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.669
+            }
+          ]
+        },
+        {
+          "nutrient_id": 614,
+          "name": "18:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.139,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.118
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.221
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 1.129,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.96
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.795
+            }
+          ]
+        },
+        {
+          "nutrient_id": 626,
+          "name": "16:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.203,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.173
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.323
+            }
+          ]
+        },
+        {
+          "nutrient_id": 617,
+          "name": "18:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.614,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.522
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.976
+            }
+          ]
+        },
+        {
+          "nutrient_id": 628,
+          "name": "20:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.112,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.095
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.178
+            }
+          ]
+        },
+        {
+          "nutrient_id": 630,
+          "name": "22:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.138,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.117
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.219
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 1.237,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.051
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.967
+            }
+          ]
+        },
+        {
+          "nutrient_id": 618,
+          "name": "18:2 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.239,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.203
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.38
+            }
+          ]
+        },
+        {
+          "nutrient_id": 619,
+          "name": "18:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.119,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.101
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.189
+            }
+          ]
+        },
+        {
+          "nutrient_id": 627,
+          "name": "18:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.066,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.056
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.105
+            }
+          ]
+        },
+        {
+          "nutrient_id": 620,
+          "name": "20:4 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.109,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.093
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.173
+            }
+          ]
+        },
+        {
+          "nutrient_id": 629,
+          "name": "20:5 n-3 (EPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.167,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.142
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.266
+            }
+          ]
+        },
+        {
+          "nutrient_id": 631,
+          "name": "22:5 n-3 (DPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.106,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.09
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.169
+            }
+          ]
+        },
+        {
+          "nutrient_id": 621,
+          "name": "22:6 n-3 (DHA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.42,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.357
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.668
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 59.0,
+          "sourcecode": "",
+          "dp": 7,
+          "se": "2.954",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 50.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 94.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 501,
+          "name": "Tryptophan",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.229,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.195
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.364
+            }
+          ]
+        },
+        {
+          "nutrient_id": 502,
+          "name": "Threonine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.898,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.763
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.428
+            }
+          ]
+        },
+        {
+          "nutrient_id": 503,
+          "name": "Isoleucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.944,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.802
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.501
+            }
+          ]
+        },
+        {
+          "nutrient_id": 504,
+          "name": "Leucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.664,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.414
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 2.646
+            }
+          ]
+        },
+        {
+          "nutrient_id": 505,
+          "name": "Lysine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.881,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.599
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 2.991
+            }
+          ]
+        },
+        {
+          "nutrient_id": 506,
+          "name": "Methionine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.606,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.515
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.964
+            }
+          ]
+        },
+        {
+          "nutrient_id": 507,
+          "name": "Cystine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.22,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.187
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.35
+            }
+          ]
+        },
+        {
+          "nutrient_id": 508,
+          "name": "Phenylalanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.799,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.679
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.27
+            }
+          ]
+        },
+        {
+          "nutrient_id": 509,
+          "name": "Tyrosine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.691,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.587
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.099
+            }
+          ]
+        },
+        {
+          "nutrient_id": 510,
+          "name": "Valine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.055,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.897
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.677
+            }
+          ]
+        },
+        {
+          "nutrient_id": 511,
+          "name": "Arginine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.225,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.041
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.948
+            }
+          ]
+        },
+        {
+          "nutrient_id": 512,
+          "name": "Histidine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.603,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.513
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.959
+            }
+          ]
+        },
+        {
+          "nutrient_id": 513,
+          "name": "Alanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.239,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.053
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.97
+            }
+          ]
+        },
+        {
+          "nutrient_id": 514,
+          "name": "Aspartic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 2.097,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.782
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 3.334
+            }
+          ]
+        },
+        {
+          "nutrient_id": 515,
+          "name": "Glutamic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 3.057,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 2.598
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 4.861
+            }
+          ]
+        },
+        {
+          "nutrient_id": 516,
+          "name": "Glycine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.983,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.836
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.563
+            }
+          ]
+        },
+        {
+          "nutrient_id": 517,
+          "name": "Proline",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.724,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.615
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.151
+            }
+          ]
+        },
+        {
+          "nutrient_id": 518,
+          "name": "Serine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.836,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.711
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.329
+            }
+          ]
+        },
+        {
+          "nutrient_id": 221,
+          "name": "Alcohol, ethyl",
+          "group": "Other",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "fillet",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

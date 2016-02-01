@@ -1,0 +1,895 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "11698",
+      "name": "Chrysanthemum leaves, raw",
+      "fg": "Vegetables and Vegetable Products",
+      "sn": "Chrysanthemum coronarium",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 3.57,
+      "ff": 8.37,
+      "pf": 2.44,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 91.4,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 46.61
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 16.45
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 24.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 12.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 100.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 51.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 18.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.36,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 1.71
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.6
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.56,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.29
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.67,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.85
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.3
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.01,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 1.54
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.54
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 1.5
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 117.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 60.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 21.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 2.3,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 1.17
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.41
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 32.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 16.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 6.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 54.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 28.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 10.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 567.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 289.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 102.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 118.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 60.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 21.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.71,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.36
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.13
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.137,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.07
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.025
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.943,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.481
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.17
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 0.3,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.2
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.4,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.7
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.3
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.13,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.066
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.023
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.144,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.073
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.026
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.531,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.271
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.096
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.221,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.113
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.04
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.176,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.09
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.032
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 177.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 90.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 32.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 177.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 90.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 32.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 177.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 90.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 32.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 94.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 48.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 17.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 319,
+          "name": "Retinol",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 1870.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 954.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 337.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 328,
+          "name": "Vitamin D (D2 + D3)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 324,
+          "name": "Vitamin D",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 51.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "leaf",
+              "eqv": 18.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

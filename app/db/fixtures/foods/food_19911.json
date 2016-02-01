@@ -1,0 +1,596 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "19911",
+      "name": "Syrup, maple, Canadian",
+      "fg": "Sweets",
+      "sn": "",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 32.15,
+          "sourcecode": "",
+          "dp": 90,
+          "se": "0.150",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 25.72
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 270.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 216.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 1128.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 902.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.47,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.38
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 67.38,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 53.9
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 59.92,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 47.94
+            }
+          ]
+        },
+        {
+          "nutrient_id": 210,
+          "name": "Sucrose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 58.93,
+          "sourcecode": "",
+          "dp": 90,
+          "se": "0.780",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 47.14
+            }
+          ]
+        },
+        {
+          "nutrient_id": 211,
+          "name": "Glucose (dextrose)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.65,
+          "sourcecode": "",
+          "dp": 90,
+          "se": "0.050",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.52
+            }
+          ]
+        },
+        {
+          "nutrient_id": 212,
+          "name": "Fructose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.34,
+          "sourcecode": "",
+          "dp": 90,
+          "se": "0.050",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.27
+            }
+          ]
+        },
+        {
+          "nutrient_id": 213,
+          "name": "Lactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 214,
+          "name": "Maltose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 287,
+          "name": "Galactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 109.0,
+          "sourcecode": "",
+          "dp": 600,
+          "se": "2.000",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 87.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.11,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.09
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 21.0,
+          "sourcecode": "",
+          "dp": 600,
+          "se": "2.728",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 17.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 225.0,
+          "sourcecode": "",
+          "dp": 90,
+          "se": "8.900",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 180.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 9.0,
+          "sourcecode": "",
+          "dp": 13,
+          "se": "3.000",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 7.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.7,
+          "sourcecode": "",
+          "dp": 600,
+          "se": "0.020",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.56
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 2.3,
+          "sourcecode": "",
+          "dp": 600,
+          "se": "0.050",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 1.84
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.066,
+          "sourcecode": "",
+          "dp": 90,
+          "se": "0.060",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.053
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.27,
+          "sourcecode": "",
+          "dp": 90,
+          "se": "0.450",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 1.016
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.081,
+          "sourcecode": "",
+          "dp": 90,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.065
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 262,
+          "name": "Caffeine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "milliliter",
+              "eqv": 80.0,
+              "qty": 60.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "Phytoestrogen content of foods consumed in Canada, including isoflavones, lignans, and coumestan.",
+        "authors": "Thompson, L. U., Boucher, B. A., Liu, Z., Cotterchio, M., and Kreiger, N.",
+        "vol": "54",
+        "iss": "",
+        "year": "2006"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

@@ -169,7 +169,7 @@ gulp.task('console', function() {
 gulp.task('start-server', function() {
     nodemon({
         script: 'server.js',
-        ext: 'html js',
+        ext: 'js',
         env: { 'NODE_ENV': 'development' },
         tasks: []
     }).on('start', function () {

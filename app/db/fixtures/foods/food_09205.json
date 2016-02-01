@@ -1,0 +1,1858 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "09205",
+      "name": "Oranges, raw, with peel",
+      "fg": "Fruits and Fruit Juices",
+      "sn": "Citrus sinensis",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 3.6,
+      "ff": 8.37,
+      "pf": 3.36,
+      "r": "1%",
+      "rd": "Seeds",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 82.3,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 139.91
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 130.86
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 63.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 107.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 100.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 262.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 445.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 417.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.3,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 2.21
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 2.07
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.3,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.51
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.48
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.6,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 1.02
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.95
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 15.5,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 26.35
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 24.64
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 4.5,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 7.6
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 7.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 70.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 119.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 111.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.8,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 1.36
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.27
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 14.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 24.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 22.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 22.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 37.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 35.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 196.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 333.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 312.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 2.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 3.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.11,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.19
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.17
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.057,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.097
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.091
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 0.7,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 1.2
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 1.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 71.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 120.7
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 112.9
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.1,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.17
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.159
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.05,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.085
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.08
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.5,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.85
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.795
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.33,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.561
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.525
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.093,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.158
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.148
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 30.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 51.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 48.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 30.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 51.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 48.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 30.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 51.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 48.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 13.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 22.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 21.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 319,
+          "name": "Retinol",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 250.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 425.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 398.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.035,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.06
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.056
+            }
+          ]
+        },
+        {
+          "nutrient_id": 607,
+          "name": "4:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 608,
+          "name": "6:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 609,
+          "name": "8:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 610,
+          "name": "10:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 611,
+          "name": "12:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.001,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 612,
+          "name": "14:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.001,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 613,
+          "name": "16:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.032,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.054
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.051
+            }
+          ]
+        },
+        {
+          "nutrient_id": 614,
+          "name": "18:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.001,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.002
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.055,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.094
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.087
+            }
+          ]
+        },
+        {
+          "nutrient_id": 626,
+          "name": "16:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.007,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.012
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.011
+            }
+          ]
+        },
+        {
+          "nutrient_id": 617,
+          "name": "18:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.048,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.082
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.076
+            }
+          ]
+        },
+        {
+          "nutrient_id": 628,
+          "name": "20:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 630,
+          "name": "22:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.06,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.102
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.095
+            }
+          ]
+        },
+        {
+          "nutrient_id": 618,
+          "name": "18:2 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.044,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.075
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.07
+            }
+          ]
+        },
+        {
+          "nutrient_id": 619,
+          "name": "18:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.016,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.027
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.025
+            }
+          ]
+        },
+        {
+          "nutrient_id": 627,
+          "name": "18:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 620,
+          "name": "20:4 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 629,
+          "name": "20:5 n-3 (EPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 631,
+          "name": "22:5 n-3 (DPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 621,
+          "name": "22:6 n-3 (DHA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 501,
+          "name": "Tryptophan",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.012,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.02
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.019
+            }
+          ]
+        },
+        {
+          "nutrient_id": 502,
+          "name": "Threonine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.021,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.036
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.033
+            }
+          ]
+        },
+        {
+          "nutrient_id": 503,
+          "name": "Isoleucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.035,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.06
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.056
+            }
+          ]
+        },
+        {
+          "nutrient_id": 504,
+          "name": "Leucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.032,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.054
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.051
+            }
+          ]
+        },
+        {
+          "nutrient_id": 505,
+          "name": "Lysine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.066,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.112
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.105
+            }
+          ]
+        },
+        {
+          "nutrient_id": 506,
+          "name": "Methionine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.027,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.046
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.043
+            }
+          ]
+        },
+        {
+          "nutrient_id": 507,
+          "name": "Cystine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.014,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.024
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.022
+            }
+          ]
+        },
+        {
+          "nutrient_id": 508,
+          "name": "Phenylalanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.043,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.073
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.068
+            }
+          ]
+        },
+        {
+          "nutrient_id": 509,
+          "name": "Tyrosine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.022,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.037
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.035
+            }
+          ]
+        },
+        {
+          "nutrient_id": 510,
+          "name": "Valine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.055,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.094
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.087
+            }
+          ]
+        },
+        {
+          "nutrient_id": 511,
+          "name": "Arginine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.09,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.153
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.143
+            }
+          ]
+        },
+        {
+          "nutrient_id": 512,
+          "name": "Histidine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.024,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.041
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.038
+            }
+          ]
+        },
+        {
+          "nutrient_id": 513,
+          "name": "Alanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.07,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.119
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.111
+            }
+          ]
+        },
+        {
+          "nutrient_id": 514,
+          "name": "Aspartic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.158,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.269
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.251
+            }
+          ]
+        },
+        {
+          "nutrient_id": 515,
+          "name": "Glutamic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.131,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.223
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.208
+            }
+          ]
+        },
+        {
+          "nutrient_id": 516,
+          "name": "Glycine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.131,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.223
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.208
+            }
+          ]
+        },
+        {
+          "nutrient_id": 517,
+          "name": "Proline",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.064,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.109
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.102
+            }
+          ]
+        },
+        {
+          "nutrient_id": 518,
+          "name": "Serine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.045,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.076
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.072
+            }
+          ]
+        },
+        {
+          "nutrient_id": 221,
+          "name": "Alcohol, ethyl",
+          "group": "Other",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 262,
+          "name": "Caffeine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 263,
+          "name": "Theobromine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 170.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without seeds",
+              "eqv": 159.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+
+    ],
+    "footnotes": [
+      {
+        "id": "a",
+        "desc": "The Atwater factors for fruit were used to calculate energy; however, the digestibility of peel is unknown."
+      }
+    ],
+    "langual": [
+
+    ]
+  }
+}

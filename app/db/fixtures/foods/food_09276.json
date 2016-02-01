@@ -1,0 +1,765 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "09276",
+      "name": "Pitanga, (surinam-cherry), raw",
+      "fg": "Fruits and Fruit Juices",
+      "sn": "Eugenia uniflora",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 3.6,
+      "ff": 8.37,
+      "pf": 3.36,
+      "r": "12%",
+      "rd": "Seed, stem, and blossom end",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 90.81,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 157.1
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 6.36
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 33.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 57.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 138.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 239.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 10.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.8,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 1.38
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.06
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.4,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.69
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.03
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.5,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.86
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.04
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 7.49,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 12.96
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.52
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 9.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 16.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.2,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.35
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.01
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 12.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 21.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 11.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 19.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 1.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 103.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 178.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 7.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 3.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 5.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 26.3,
+          "sourcecode": "",
+          "dp": 6,
+          "se": "2.947",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 45.5
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 1.8
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.03,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.052
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.04,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.069
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.003
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.3,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.519
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.021
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 75.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 130.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 5.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 319,
+          "name": "Retinol",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 1500.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 2595.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 105.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 770,
+          "name": "Apigenin",
+          "group": "Flavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            4,
+            5
+          ],
+          "dp": 7,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 773,
+          "name": "Luteolin",
+          "group": "Flavones",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            4,
+            5
+          ],
+          "dp": 7,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 786,
+          "name": "Kaempferol",
+          "group": "Flavonols",
+          "unit": "mg",
+          "value": 0.4,
+          "sourcecode": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "dp": 7,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 0.69
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.03
+            }
+          ]
+        },
+        {
+          "nutrient_id": 788,
+          "name": "Myricetin",
+          "group": "Flavonols",
+          "unit": "mg",
+          "value": 3.35,
+          "sourcecode": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "dp": 7,
+          "se": "1.150",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 5.8
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.23
+            }
+          ]
+        },
+        {
+          "nutrient_id": 789,
+          "name": "Quercetin",
+          "group": "Flavonols",
+          "unit": "mg",
+          "value": 5.79,
+          "sourcecode": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "dp": 7,
+          "se": "1.990",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 173.0,
+              "qty": 1.0,
+              "value": 10.02
+            },
+            {
+              "label": "fruit without refuse",
+              "eqv": 7.0,
+              "qty": 1.0,
+              "value": 0.41
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "Vitamin C and flavonoid levels of fruits and vegetables consumed in Hawaii.",
+        "authors": "Franke, A.A., Custer, L.J., Arakaki, C., and Murphy, S.P.",
+        "vol": "17",
+        "iss": "",
+        "year": "2004"
+      },
+      {
+        "id": 2,
+        "title": "Phytochemical flavonols, carotenoids and the antioxidant properties of a wide selection of Fijian fruit, vegetables and other readily available foods.",
+        "authors": "Lako, J., Trenerry, V. C., Wahlqvist, M., Wattanapenpaiboon, N., Sotheeswaran, S., Premier, R. ",
+        "vol": "101",
+        "iss": "",
+        "year": "2007"
+      },
+      {
+        "id": 3,
+        "title": "Assesing phytoestrogen exposure in epidemiologic studies: development of a database (United States).",
+        "authors": "Horn-Ross, P. L., Barnes, S., Lee, M., Coward, L., Mandel, E., Koo, J., John, E. M., and Smith, M.",
+        "vol": "11",
+        "iss": "",
+        "year": "2000"
+      },
+      {
+        "id": 4,
+        "title": "Flavanol and flavonol contents of cocoa powder products: Influence of the manufacturing process.",
+        "authors": "Andres-Laceuva, C., Monogas, M., Khan, N., Izquierdo-Pulido, M., Urpi-Sarda, M., Permanyer, J., and Lamuela-Raventos, R. M.",
+        "vol": "56",
+        "iss": "",
+        "year": "2008"
+      },
+      {
+        "id": 5,
+        "title": "Flavonols in fresh and processed Brazilian fruits.",
+        "authors": "Ribani, H. F., Huber, L. S., and Ridriguez-Amaya, D. B.",
+        "vol": "22",
+        "iss": "",
+        "year": "2009"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

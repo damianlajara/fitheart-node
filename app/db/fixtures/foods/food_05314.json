@@ -1,0 +1,3858 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "05314",
+      "name": "Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",
+      "fg": "Poultry Products",
+      "sn": "",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 75.59,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.571",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 64.25
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 198.8
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 89.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 108.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 92.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 284.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 127.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 453.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 385.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1191.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 535.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 20.32,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.379",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 17.27
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 53.44
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 23.98
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.248",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 2.55
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 7.89
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 3.54
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.36,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.041",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.16
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 3.58
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 1.6
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 5.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.357",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 4.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 13.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 6.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.34,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.015",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.29
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.89
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.4
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 25.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.652",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 21.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 66.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 30.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 198.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "9.613",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 168.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 521.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 234.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 332.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "25.132",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 282.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 873.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 392.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 173.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "12.405",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 147.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 455.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 204.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.63,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.031",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.54
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.66
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.74
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.029,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.025
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.076
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.034
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.011,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.009
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.029
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.013
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 26.4,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "3.963",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 22.4
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 69.4
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 31.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.068,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.011",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.058
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.179
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.08
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.127,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.027",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.108
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.334
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.15
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 7.583,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.872",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 6.446
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 19.943
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 8.948
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.23,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.045
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 3.235
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 1.451
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.761,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.042",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.647
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 2.001
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.898
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 8.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 7.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 21.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 9.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 8.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 7.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 21.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 9.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 8.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 7.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 21.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 9.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 421,
+          "name": "Choline, total",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 74.2,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 63.1
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 195.1
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 87.6
+            }
+          ]
+        },
+        {
+          "nutrient_id": 454,
+          "name": "Betaine",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 2.5,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 2.1
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 6.6
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 3.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.19,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.010",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.16
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.5
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.22
+            }
+          ]
+        },
+        {
+          "nutrient_id": 578,
+          "name": "Vitamin B-12, added",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 11.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 9.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 29.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 13.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 319,
+          "name": "Retinol",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 11.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 9.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 29.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 13.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 321,
+          "name": "Carotene, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 322,
+          "name": "Carotene, alpha",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 334,
+          "name": "Cryptoxanthin, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 36.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 31.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 95.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 42.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 337,
+          "name": "Lycopene",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 338,
+          "name": "Lutein + zeaxanthin",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 323,
+          "name": "Vitamin E (alpha-tocopherol)",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.19,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.16
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.5
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.22
+            }
+          ]
+        },
+        {
+          "nutrient_id": 573,
+          "name": "Vitamin E, added",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 341,
+          "name": "Tocopherol, beta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 342,
+          "name": "Tocopherol, gamma",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.06,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.05
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.16
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.07
+            }
+          ]
+        },
+        {
+          "nutrient_id": 343,
+          "name": "Tocopherol, delta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 328,
+          "name": "Vitamin D (D2 + D3)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 326,
+          "name": "Vitamin D3 (cholecalciferol)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 324,
+          "name": "Vitamin D",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 2.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 2.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 5.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 2.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 430,
+          "name": "Vitamin K (phylloquinone)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.545,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.463
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.433
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.643
+            }
+          ]
+        },
+        {
+          "nutrient_id": 607,
+          "name": "4:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 608,
+          "name": "6:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 609,
+          "name": "8:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 610,
+          "name": "10:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.016,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.014
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.042
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.019
+            }
+          ]
+        },
+        {
+          "nutrient_id": 611,
+          "name": "12:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.004,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.003
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.011
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.005
+            }
+          ]
+        },
+        {
+          "nutrient_id": 612,
+          "name": "14:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.011,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.009
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.029
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.013
+            }
+          ]
+        },
+        {
+          "nutrient_id": 652,
+          "name": "15:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.004,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.003
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.011
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.005
+            }
+          ]
+        },
+        {
+          "nutrient_id": 613,
+          "name": "16:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.383,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.027",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.326
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.007
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.452
+            }
+          ]
+        },
+        {
+          "nutrient_id": 653,
+          "name": "17:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.002
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.005
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 614,
+          "name": "18:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.122,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.007",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.104
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.321
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.144
+            }
+          ]
+        },
+        {
+          "nutrient_id": 615,
+          "name": "20:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.001,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.001
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.001
+            }
+          ]
+        },
+        {
+          "nutrient_id": 624,
+          "name": "22:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.002
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.005
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 654,
+          "name": "24:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.673,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.572
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.77
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.794
+            }
+          ]
+        },
+        {
+          "nutrient_id": 625,
+          "name": "14:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.003,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.003
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.008
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.004
+            }
+          ]
+        },
+        {
+          "nutrient_id": 697,
+          "name": "15:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 626,
+          "name": "16:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.085,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.008",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.072
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.224
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 673,
+          "name": "16:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.085,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.008",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.072
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.224
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 662,
+          "name": "16:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 687,
+          "name": "17:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 617,
+          "name": "18:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.575,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.036",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.489
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.512
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.678
+            }
+          ]
+        },
+        {
+          "nutrient_id": 674,
+          "name": "18:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.569,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.035",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.484
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.496
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.671
+            }
+          ]
+        },
+        {
+          "nutrient_id": 663,
+          "name": "18:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.006,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.005
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.016
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.007
+            }
+          ]
+        },
+        {
+          "nutrient_id": 628,
+          "name": "20:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.01,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.008
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.026
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.012
+            }
+          ]
+        },
+        {
+          "nutrient_id": 630,
+          "name": "22:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 676,
+          "name": "22:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 664,
+          "name": "22:1 t",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 671,
+          "name": "24:1 c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.384,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.326
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.01
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.453
+            }
+          ]
+        },
+        {
+          "nutrient_id": 618,
+          "name": "18:2 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.291,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.020",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.247
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.765
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.343
+            }
+          ]
+        },
+        {
+          "nutrient_id": 675,
+          "name": "18:2 n-6 c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.291,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.020",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.247
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.765
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.343
+            }
+          ]
+        },
+        {
+          "nutrient_id": 670,
+          "name": "18:2 CLAs",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 665,
+          "name": "18:2 t not further defined",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 619,
+          "name": "18:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.011,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.009
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.029
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.013
+            }
+          ]
+        },
+        {
+          "nutrient_id": 851,
+          "name": "18:3 n-3 c,c,c (ALA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.011,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.009
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.029
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.013
+            }
+          ]
+        },
+        {
+          "nutrient_id": 685,
+          "name": "18:3 n-6 c,c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 856,
+          "name": "18:3i",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 627,
+          "name": "18:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 672,
+          "name": "20:2 n-6 c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.005,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.004
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.013
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.006
+            }
+          ]
+        },
+        {
+          "nutrient_id": 689,
+          "name": "20:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.01,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.008
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.026
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.012
+            }
+          ]
+        },
+        {
+          "nutrient_id": 853,
+          "name": "20:3 n-6",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.01,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.008
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.026
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.012
+            }
+          ]
+        },
+        {
+          "nutrient_id": 620,
+          "name": "20:4 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.044,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.002",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.037
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.116
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.052
+            }
+          ]
+        },
+        {
+          "nutrient_id": 629,
+          "name": "20:5 n-3 (EPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.002
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.005
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 858,
+          "name": "22:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.012,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.01
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.032
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.014
+            }
+          ]
+        },
+        {
+          "nutrient_id": 631,
+          "name": "22:5 n-3 (DPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.006,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.005
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.016
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.007
+            }
+          ]
+        },
+        {
+          "nutrient_id": 621,
+          "name": "22:6 n-3 (DHA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.004,
+          "sourcecode": [
+            1
+          ],
+          "dp": 6,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.003
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.011
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.005
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.006,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.005
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.016
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.007
+            }
+          ]
+        },
+        {
+          "nutrient_id": 693,
+          "name": "Fatty acids, total trans-monoenoic",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.006,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.005
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.016
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.007
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 64.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "1.335",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 54.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 168.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 76.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 501,
+          "name": "Tryptophan",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.249,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.212
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.655
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.294
+            }
+          ]
+        },
+        {
+          "nutrient_id": 502,
+          "name": "Threonine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.886,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.753
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 2.33
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 1.045
+            }
+          ]
+        },
+        {
+          "nutrient_id": 503,
+          "name": "Isoleucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.969,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.824
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 2.548
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 1.143
+            }
+          ]
+        },
+        {
+          "nutrient_id": 504,
+          "name": "Leucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.634,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.389
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 4.297
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 1.928
+            }
+          ]
+        },
+        {
+          "nutrient_id": 505,
+          "name": "Lysine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.899,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.614
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 4.994
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 2.241
+            }
+          ]
+        },
+        {
+          "nutrient_id": 506,
+          "name": "Methionine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.514,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.437
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.352
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.607
+            }
+          ]
+        },
+        {
+          "nutrient_id": 507,
+          "name": "Cystine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.207,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.176
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.544
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.244
+            }
+          ]
+        },
+        {
+          "nutrient_id": 508,
+          "name": "Phenylalanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.797,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.677
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 2.096
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.94
+            }
+          ]
+        },
+        {
+          "nutrient_id": 509,
+          "name": "Tyrosine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.711,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.604
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.87
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.839
+            }
+          ]
+        },
+        {
+          "nutrient_id": 510,
+          "name": "Valine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.022,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.869
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 2.688
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 1.206
+            }
+          ]
+        },
+        {
+          "nutrient_id": 511,
+          "name": "Arginine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.335,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.135
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 3.511
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 1.575
+            }
+          ]
+        },
+        {
+          "nutrient_id": 512,
+          "name": "Histidine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.736,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.626
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.936
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.868
+            }
+          ]
+        },
+        {
+          "nutrient_id": 513,
+          "name": "Alanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.153,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.98
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 3.032
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 1.361
+            }
+          ]
+        },
+        {
+          "nutrient_id": 514,
+          "name": "Aspartic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 1.858,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 1.579
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 4.887
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 2.192
+            }
+          ]
+        },
+        {
+          "nutrient_id": 515,
+          "name": "Glutamic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 2.925,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 2.486
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 7.693
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 3.452
+            }
+          ]
+        },
+        {
+          "nutrient_id": 516,
+          "name": "Glycine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.874,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.743
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 2.299
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 1.031
+            }
+          ]
+        },
+        {
+          "nutrient_id": 517,
+          "name": "Proline",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.627,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.533
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.649
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.74
+            }
+          ]
+        },
+        {
+          "nutrient_id": 518,
+          "name": "Serine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.753,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.64
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 1.98
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.889
+            }
+          ]
+        },
+        {
+          "nutrient_id": 221,
+          "name": "Alcohol, ethyl",
+          "group": "Other",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 262,
+          "name": "Caffeine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 263,
+          "name": "Theobromine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "oz",
+              "eqv": 85.0,
+              "qty": 3.0,
+              "value": 0.0
+            },
+            {
+              "label": "piece",
+              "eqv": 263.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "breast",
+              "eqv": 118.0,
+              "qty": 0.5,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "National Food and Nutrient Analysis Program Wave 17a",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2013"
+      },
+      {
+        "id": 2,
+        "title": "National Food and Nutrient Anlaysis Program Wave 12h",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2008"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

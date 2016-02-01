@@ -1,0 +1,1013 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "09450",
+      "name": "Naranjilla (lulo) pulp, frozen, unsweetened",
+      "fg": "Fruits and Fruit Juices",
+      "sn": "Solanum quitoense Lam.",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 3.6,
+      "ff": 8.37,
+      "pf": 3.36,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 93.05,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.412",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 111.66
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 25.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 30.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 103.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 124.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.44,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.072",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.53
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.22,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.010",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.26
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.39,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.032",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.47
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 5.9,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 7.08
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.1,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.100",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 1.3
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.74,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.672",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 4.49
+            }
+          ]
+        },
+        {
+          "nutrient_id": 210,
+          "name": "Sucrose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.72,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.914",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 2.06
+            }
+          ]
+        },
+        {
+          "nutrient_id": 211,
+          "name": "Glucose (dextrose)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.99,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.190",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 1.19
+            }
+          ]
+        },
+        {
+          "nutrient_id": 212,
+          "name": "Fructose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.04,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.272",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 1.25
+            }
+          ]
+        },
+        {
+          "nutrient_id": 213,
+          "name": "Lactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 214,
+          "name": "Maltose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 287,
+          "name": "Galactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 8.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "1.406",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 10.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.35,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.102",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.42
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 11.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "2.700",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 13.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 12.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "2.759",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 14.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 200.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "6.173",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 240.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 4.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "2.453",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 5.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.1,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.013",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.12
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.028,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.009",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.034
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.067,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.010",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.08
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 0.4,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 3.2,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "2.789",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 3.8
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.045,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.054
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.45,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 1.74
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.22,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.264
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.107,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.128
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 3.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 3.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 3.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 4.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 28.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "7.418",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 34.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 321,
+          "name": "Carotene, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 333.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "88.178",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 400.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 322,
+          "name": "Carotene, alpha",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 4.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.686",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 5.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 334,
+          "name": "Cryptoxanthin, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 10.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "1.731",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 12.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 568.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "148.351",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 682.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 337,
+          "name": "Lycopene",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 338,
+          "name": "Lutein + zeaxanthin",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 299.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 3,
+          "se": "19.928",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 359.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 323,
+          "name": "Vitamin E (alpha-tocopherol)",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.75,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.9
+            }
+          ]
+        },
+        {
+          "nutrient_id": 341,
+          "name": "Tocopherol, beta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 342,
+          "name": "Tocopherol, gamma",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.2,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.24
+            }
+          ]
+        },
+        {
+          "nutrient_id": 343,
+          "name": "Tocopherol, delta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 430,
+          "name": "Vitamin K (phylloquinone)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 14.6,
+          "sourcecode": [
+            1
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 17.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup thawed",
+              "eqv": 120.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "National Food and Nutrient Analysis Program Wave 13G",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2009"
+      },
+      {
+        "id": 2,
+        "title": "Catechin content of foods commonly consumed in the Netherlands. 1. Fruits, vegetables, staple foods and processed foods.",
+        "authors": "Arts, I. C. W., van de Putte, B., and Hollman, P. C. H. ",
+        "vol": "48",
+        "iss": "",
+        "year": "2000"
+      },
+      {
+        "id": 3,
+        "title": "Content of potentially anticarcinogenic flavonoids of 28 vegetables and fruits commonly consumed in The Netherlands.",
+        "authors": "Hertog, M. G. L., Hollman, P. C. H., and Katan, M. B. ",
+        "vol": "40",
+        "iss": "",
+        "year": "1992"
+      },
+      {
+        "id": 4,
+        "title": "Concentrations of proanthocyanidins in common foods and estimations of normal consumption.",
+        "authors": "Gu, L., Kelm, M.A., Hammerstone, J.F., Beecher, G., Holden, J., Haytowitz, D., Gebhardt, S., and Prior, R.L. ",
+        "vol": "134",
+        "iss": "",
+        "year": "2004"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": "a",
+        "desc": "Mean value contains data based on the analysis of 5-methyltetrahydrofolate, 10-Formyl folic acid, and 5-Formyltetrahydrofolic acid."
+      }
+    ],
+    "langual": [
+
+    ]
+  }
+}

@@ -1,0 +1,817 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "18506",
+      "name": "KELLOGG'S, EGGO, NUTRI-GRAIN, Waffles, Low Fat",
+      "fg": "Baked Products",
+      "sn": "",
+      "cn": "",
+      "manu": "Kellogg, Co.",
+      "nf": 6.25,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 47.66,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 33.36
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 16.68
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 201.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 141.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 70.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 841.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 589.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 294.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 6.5,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 4.55
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 2.28
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.5,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 2.45
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 1.22
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 39.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 27.3
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 13.65
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 4.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 2.8
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 1.4
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.9,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 2.73
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 1.36
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 143.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 100.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 50.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 6.4,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 4.48
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 2.24
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 53.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 37.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 19.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 351.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 246.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 123.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 162.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 113.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 57.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 559.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 391.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 196.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.9,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 0.63
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.32
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.43,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 0.301
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.15
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.49,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 0.343
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.171
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 5.7,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 3.99
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 1.995
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.57,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 0.399
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.199
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 67.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 47.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 23.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 1.7,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 1.19
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.6
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 1429.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 1000.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 500.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 323,
+          "name": "Vitamin E (alpha-tocopherol)",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 0.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 328,
+          "name": "Vitamin D (D2 + D3)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 0.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 324,
+          "name": "Vitamin D",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 0.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.8,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 0.56
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.28
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.8,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 0.56
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.28
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 1.5,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 1.05
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.525
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.1,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 0.07
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.035
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "waffles 1 serving",
+              "eqv": 70.0,
+              "qty": 2.0,
+              "value": 0.0
+            },
+            {
+              "label": "waffle, round (4\" dia) (include frozen)",
+              "eqv": 35.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "Kellogg Company Products",
+        "authors": "Kellogg, Co.",
+        "vol": "",
+        "iss": "",
+        "year": "2012"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": "a",
+        "desc": "Serving equals 2 waffles"
+      }
+    ],
+    "langual": [
+
+    ]
+  }
+}

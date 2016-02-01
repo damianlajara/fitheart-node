@@ -1,0 +1,4583 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "11742",
+      "name": "Broccoli, cooked, boiled, drained, with salt",
+      "fg": "Vegetables and Vegetable Products",
+      "sn": "",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 3.57,
+      "ff": 8.37,
+      "pf": 2.44,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 89.25,
+          "sourcecode": [
+            1,
+            2,
+            3
+          ],
+          "dp": 7,
+          "se": "0.803",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 69.62
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 249.9
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 160.65
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 124.95
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 33.02
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 35.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 27.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 98.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 63.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 49.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 13.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 146.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 114.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 409.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 263.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 204.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 54.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 2.38,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.417",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 1.86
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 6.66
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 4.28
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 3.33
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.88
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.41,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.033",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.32
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 1.15
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.74
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.57
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.15
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.77,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.037",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.6
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 2.16
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 1.39
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 1.08
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.28
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 7.18,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 5.6
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 20.1
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 12.92
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 10.05
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 2.66
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.3,
+          "sourcecode": [
+            2
+          ],
+          "dp": 4,
+          "se": "0.501",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 2.6
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 9.2
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 5.9
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 4.6
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 1.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.39,
+          "sourcecode": [
+            2
+          ],
+          "dp": 3,
+          "se": "0.270",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 1.08
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 3.89
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 2.5
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 1.95
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.51
+            }
+          ]
+        },
+        {
+          "nutrient_id": 210,
+          "name": "Sucrose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.08,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.057",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.06
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.22
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.14
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.11
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.03
+            }
+          ]
+        },
+        {
+          "nutrient_id": 211,
+          "name": "Glucose (dextrose)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.49,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.137",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.38
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 1.37
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.88
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.69
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.18
+            }
+          ]
+        },
+        {
+          "nutrient_id": 212,
+          "name": "Fructose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.74,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.046",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.58
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 2.07
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 1.33
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 1.04
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.27
+            }
+          ]
+        },
+        {
+          "nutrient_id": 213,
+          "name": "Lactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 214,
+          "name": "Maltose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 5,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 287,
+          "name": "Galactose",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 209,
+          "name": "Starch",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 40.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "3.918",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 31.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 112.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 72.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 56.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 15.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.67,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.036",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.52
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 1.88
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 1.21
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.94
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.25
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 21.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "1.796",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 16.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 59.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 38.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 29.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 8.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 67.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "1.847",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 52.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 188.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 121.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 94.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 25.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 293.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "11.927",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 229.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 820.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 527.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 410.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 108.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 262.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 204.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 734.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 472.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 367.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 97.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.45,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.029",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.35
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 1.26
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.81
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.63
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.17
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.061,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.008",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.048
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.171
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.11
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.085
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.023
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.194,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.009",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.151
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.543
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.349
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.272
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.072
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 1.6,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.107",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 1.2
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 4.5
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 2.9
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 2.2
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.6
+            }
+          ]
+        },
+        {
+          "nutrient_id": 313,
+          "name": "Fluoride, F",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 4.0,
+          "sourcecode": [
+            4
+          ],
+          "dp": 9,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 3.1
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 11.2
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 7.2
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 5.6
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 1.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 64.9,
+          "sourcecode": [
+            2,
+            3
+          ],
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 50.6
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 181.7
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 116.8
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 90.9
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 24.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.063,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.013",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.049
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.176
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.113
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.088
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.023
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.123,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.004",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.096
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.344
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.221
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.172
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.046
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.553,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.046",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.431
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 1.548
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.995
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.774
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.205
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.616,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.119",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.48
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 1.725
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 1.109
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.862
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.228
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.2,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "0.013",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.156
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.56
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.36
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.28
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.074
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 108.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "30.577",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 84.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 302.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 194.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 151.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 40.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 108.0,
+          "sourcecode": "",
+          "dp": 4,
+          "se": "30.577",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 84.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 302.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 194.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 151.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 40.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 108.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 84.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 302.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 194.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 151.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 40.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 421,
+          "name": "Choline, total",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 40.1,
+          "sourcecode": [
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 31.3
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 112.3
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 72.2
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 56.1
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 14.8
+            }
+          ]
+        },
+        {
+          "nutrient_id": 454,
+          "name": "Betaine",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.1,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.1
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.3
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.2
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.1
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 578,
+          "name": "Vitamin B-12, added",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 77.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 60.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 216.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 139.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 108.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 28.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 319,
+          "name": "Retinol",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 321,
+          "name": "Carotene, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 929.0,
+          "sourcecode": [
+            1,
+            2,
+            5,
+            6
+          ],
+          "dp": 17,
+          "se": "42.666",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 725.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 2601.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 1672.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 1301.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 344.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 322,
+          "name": "Carotene, alpha",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 7,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 334,
+          "name": "Cryptoxanthin, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 7,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 1548.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 1207.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 4334.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 2786.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 2167.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 573.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 337,
+          "name": "Lycopene",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 7,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 338,
+          "name": "Lutein + zeaxanthin",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 1080.0,
+          "sourcecode": [
+            1,
+            2,
+            6
+          ],
+          "dp": 12,
+          "se": "98.112",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 842.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 3024.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 1944.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 1512.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 400.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 323,
+          "name": "Vitamin E (alpha-tocopherol)",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.45,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 3,
+          "se": "0.103",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 1.13
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 4.06
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 2.61
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 2.03
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.54
+            }
+          ]
+        },
+        {
+          "nutrient_id": 573,
+          "name": "Vitamin E, added",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 341,
+          "name": "Tocopherol, beta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.01,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 3,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.01
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.03
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.02
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.01
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 342,
+          "name": "Tocopherol, gamma",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.25,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 3,
+          "se": "0.023",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.2
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.7
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.45
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.35
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.09
+            }
+          ]
+        },
+        {
+          "nutrient_id": 343,
+          "name": "Tocopherol, delta",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 3,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 328,
+          "name": "Vitamin D (D2 + D3)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 324,
+          "name": "Vitamin D",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 430,
+          "name": "Vitamin K (phylloquinone)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 141.1,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": 4,
+          "se": "15.830",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 110.1
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 395.1
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 254.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 197.5
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 52.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.079,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.062
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.221
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.142
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.111
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.029
+            }
+          ]
+        },
+        {
+          "nutrient_id": 609,
+          "name": "8:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 610,
+          "name": "10:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 611,
+          "name": "12:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.002
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.006
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.004
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.001
+            }
+          ]
+        },
+        {
+          "nutrient_id": 612,
+          "name": "14:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 652,
+          "name": "15:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 613,
+          "name": "16:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.056,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.044
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.157
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.101
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.078
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.021
+            }
+          ]
+        },
+        {
+          "nutrient_id": 653,
+          "name": "17:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 614,
+          "name": "18:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.013,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.01
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.036
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.023
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.018
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.005
+            }
+          ]
+        },
+        {
+          "nutrient_id": 615,
+          "name": "20:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.004,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.003
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.011
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.007
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.006
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.001
+            }
+          ]
+        },
+        {
+          "nutrient_id": 624,
+          "name": "22:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.005,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.004
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.014
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.009
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.007
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.002
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.04,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.031
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.112
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.072
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.056
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.015
+            }
+          ]
+        },
+        {
+          "nutrient_id": 625,
+          "name": "14:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 697,
+          "name": "15:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 626,
+          "name": "16:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.009,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.007
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.025
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.016
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.013
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.003
+            }
+          ]
+        },
+        {
+          "nutrient_id": 687,
+          "name": "17:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.002,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.002
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.006
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.004
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.003
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.001
+            }
+          ]
+        },
+        {
+          "nutrient_id": 617,
+          "name": "18:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.029,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.023
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.081
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.052
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.041
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.011
+            }
+          ]
+        },
+        {
+          "nutrient_id": 628,
+          "name": "20:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.17,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.133
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.476
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.306
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.238
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.063
+            }
+          ]
+        },
+        {
+          "nutrient_id": 618,
+          "name": "18:2 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.051,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.04
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.143
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.092
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.071
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.019
+            }
+          ]
+        },
+        {
+          "nutrient_id": 619,
+          "name": "18:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.119,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.093
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.333
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.214
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.167
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.044
+            }
+          ]
+        },
+        {
+          "nutrient_id": 685,
+          "name": "18:3 n-6 c,c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 672,
+          "name": "20:2 n-6 c,c",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 689,
+          "name": "20:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 620,
+          "name": "20:4 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": [
+            2
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 501,
+          "name": "Tryptophan",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.034,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.027
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.095
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.061
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.048
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.013
+            }
+          ]
+        },
+        {
+          "nutrient_id": 502,
+          "name": "Threonine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.096,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.075
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.269
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.173
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.134
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.036
+            }
+          ]
+        },
+        {
+          "nutrient_id": 503,
+          "name": "Isoleucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.092,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.072
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.258
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.166
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.129
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.034
+            }
+          ]
+        },
+        {
+          "nutrient_id": 504,
+          "name": "Leucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.147,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.115
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.412
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.265
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.206
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.054
+            }
+          ]
+        },
+        {
+          "nutrient_id": 505,
+          "name": "Lysine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.155,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.121
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.434
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.279
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.217
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.057
+            }
+          ]
+        },
+        {
+          "nutrient_id": 506,
+          "name": "Methionine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.043,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.034
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.12
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.077
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.06
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.016
+            }
+          ]
+        },
+        {
+          "nutrient_id": 507,
+          "name": "Cystine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.031,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.024
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.087
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.056
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.043
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.011
+            }
+          ]
+        },
+        {
+          "nutrient_id": 508,
+          "name": "Phenylalanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.116,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.09
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.325
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.209
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.162
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.043
+            }
+          ]
+        },
+        {
+          "nutrient_id": 509,
+          "name": "Tyrosine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.06,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.047
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.168
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.108
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.084
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.022
+            }
+          ]
+        },
+        {
+          "nutrient_id": 510,
+          "name": "Valine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.138,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.108
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.386
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.248
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.193
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.051
+            }
+          ]
+        },
+        {
+          "nutrient_id": 511,
+          "name": "Arginine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.2,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.156
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.56
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.36
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.28
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.074
+            }
+          ]
+        },
+        {
+          "nutrient_id": 512,
+          "name": "Histidine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.063,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.049
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.176
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.113
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.088
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.023
+            }
+          ]
+        },
+        {
+          "nutrient_id": 513,
+          "name": "Alanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.114,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.089
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.319
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.205
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.16
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.042
+            }
+          ]
+        },
+        {
+          "nutrient_id": 514,
+          "name": "Aspartic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.329,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.257
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.921
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.592
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.461
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.122
+            }
+          ]
+        },
+        {
+          "nutrient_id": 515,
+          "name": "Glutamic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.549,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.428
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 1.537
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.988
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.769
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.203
+            }
+          ]
+        },
+        {
+          "nutrient_id": 516,
+          "name": "Glycine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.101,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.079
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.283
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.182
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.141
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.037
+            }
+          ]
+        },
+        {
+          "nutrient_id": 517,
+          "name": "Proline",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.111,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.087
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.311
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.2
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.155
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.041
+            }
+          ]
+        },
+        {
+          "nutrient_id": 518,
+          "name": "Serine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.129,
+          "sourcecode": [
+            1,
+            2
+          ],
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, chopped",
+              "eqv": 78.0,
+              "qty": 0.5,
+              "value": 0.101
+            },
+            {
+              "label": "stalk, large (11\"-12\" long)",
+              "eqv": 280.0,
+              "qty": 1.0,
+              "value": 0.361
+            },
+            {
+              "label": "stalk, medium (7-1/2\" - 8\" long)",
+              "eqv": 180.0,
+              "qty": 1.0,
+              "value": 0.232
+            },
+            {
+              "label": "stalk, small (5\" long)",
+              "eqv": 140.0,
+              "qty": 1.0,
+              "value": 0.181
+            },
+            {
+              "label": "spear (about 5\" long)",
+              "eqv": 37.0,
+              "qty": 1.0,
+              "value": 0.048
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "National Food and Nutrient Analysis Program Wave 5n",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2001"
+      },
+      {
+        "id": 2,
+        "title": "National Food and Nutrient Analysis Program Wave 5f",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2001"
+      },
+      {
+        "id": 3,
+        "title": "National Food and Nutrient Analysis Program Wave 14c",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2009"
+      },
+      {
+        "id": 4,
+        "title": "Fluoride, Unpublished - Ophaug",
+        "authors": "Robert Ophaug",
+        "vol": "",
+        "iss": "",
+        "year": ""
+      },
+      {
+        "id": 5,
+        "title": "Effect of processing on provitamin A in vegetables",
+        "authors": "J P Sweeney, A C Marsh",
+        "vol": "59",
+        "iss": "",
+        "year": "1971"
+      },
+      {
+        "id": 6,
+        "title": "Plasma carotenoids in normal men after a single ingestion of vegetables or purified beta-carotene",
+        "authors": "E D Brown, M S Micozzi, N E Craft, J G Bieri, G Beecher, B K Edwards, A Rose, P R Taylor, J C Smith, Jr.",
+        "vol": "49",
+        "iss": "",
+        "year": "1989"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

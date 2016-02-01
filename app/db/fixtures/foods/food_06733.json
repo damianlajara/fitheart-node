@@ -1,0 +1,374 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "06733",
+      "name": "Soup, beef with vegetables and barley, canned, condensed, single brand",
+      "fg": "Soups, Sauces, and Gravies",
+      "sn": "",
+      "cn": "",
+      "manu": "",
+      "nf": 0.0,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 84.6,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 107.44
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 263.95
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 61.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 77.0
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 190.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 255.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 324.0
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 796.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.9,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 4.95
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 12.17
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.4,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 1.78
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 4.37
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.9,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 2.41
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 5.93
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 8.2,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 10.41
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 25.58
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 707.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 898.0
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 2206.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 321,
+          "name": "Carotene, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 340.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 432.0
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 1061.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 567.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 720.0
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 1769.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.48,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 0.61
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 1.498
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.567,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 0.72
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 1.769
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.098,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 0.124
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 0.306
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 6.0,
+          "sourcecode": "",
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "serving",
+              "eqv": 127.0,
+              "qty": 1.0,
+              "value": 8.0
+            },
+            {
+              "label": "package yields",
+              "eqv": 312.0,
+              "qty": 1.0,
+              "value": 19.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "Isoflavone content of foods with soy additives.",
+        "authors": "Umpress, S. T., Murphy, S. P., Franke, A. A., Custer, L. J., and Blitz, C. L.",
+        "vol": "18",
+        "iss": "",
+        "year": "2005"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

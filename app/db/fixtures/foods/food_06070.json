@@ -1,0 +1,2174 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "06070",
+      "name": "Soup, chunky beef, canned, ready-to-serve",
+      "fg": "Soups, Sauces, and Gravies",
+      "sn": "",
+      "cn": "",
+      "manu": "",
+      "nf": 6.25,
+      "cf": 4.0,
+      "ff": 9.0,
+      "pf": 4.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 83.34,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 204.18
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 449.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 66.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 162.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 356.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 277.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 679.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1493.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.97,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 9.73
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 21.4
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.11,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 2.72
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 5.98
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.49,
+          "sourcecode": "",
+          "dp": 20,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 3.65
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 8.03
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 10.08,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 24.7
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 54.33
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.6,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 1.5
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 3.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.67,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 1.64
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 3.61
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 13.0,
+          "sourcecode": "",
+          "dp": 30,
+          "se": "1.024",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 32.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 70.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.97,
+          "sourcecode": "",
+          "dp": 30,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 2.38
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 5.23
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 2.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 5.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 11.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 50.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 122.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 270.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 140.0,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 343.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 755.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 338.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 828.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1822.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 1.1,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 2.7
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 5.93
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.1,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.245
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.539
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.1,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.245
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.539
+            }
+          ]
+        },
+        {
+          "nutrient_id": 317,
+          "name": "Selenium, Se",
+          "group": "Minerals",
+          "unit": "µg",
+          "value": 2.5,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 6.1
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 13.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 2.9,
+          "sourcecode": "",
+          "dp": 30,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 7.1
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 15.6
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.024,
+          "sourcecode": "",
+          "dp": 30,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.059
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.129
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.063,
+          "sourcecode": "",
+          "dp": 30,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.154
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.34
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 1.127,
+          "sourcecode": "",
+          "dp": 30,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 2.761
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 6.075
+            }
+          ]
+        },
+        {
+          "nutrient_id": 410,
+          "name": "Pantothenic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.18,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.441
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.97
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.055,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.135
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.296
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 6.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 15.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 32.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 6.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 15.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 32.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 6.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 15.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 32.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 421,
+          "name": "Choline, total",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 10.2,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 25.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 55.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 418,
+          "name": "Vitamin B-12",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.26,
+          "sourcecode": "",
+          "dp": 2,
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.64
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.4
+            }
+          ]
+        },
+        {
+          "nutrient_id": 578,
+          "name": "Vitamin B-12, added",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 320,
+          "name": "Vitamin A, RAE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 54.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 132.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 291.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 319,
+          "name": "Retinol",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 321,
+          "name": "Carotene, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 536.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 1313.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 2889.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 322,
+          "name": "Carotene, alpha",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 234.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 573.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1261.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 334,
+          "name": "Cryptoxanthin, beta",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 1088.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 2666.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 5864.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 337,
+          "name": "Lycopene",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 1325.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 3246.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 7142.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 338,
+          "name": "Lutein + zeaxanthin",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 36.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 88.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 194.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 323,
+          "name": "Vitamin E (alpha-tocopherol)",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.28,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.69
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.51
+            }
+          ]
+        },
+        {
+          "nutrient_id": 573,
+          "name": "Vitamin E, added",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 328,
+          "name": "Vitamin D (D2 + D3)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 324,
+          "name": "Vitamin D",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 430,
+          "name": "Vitamin K (phylloquinone)",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 3.1,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 7.6
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 16.7
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.554,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 1.357
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 2.986
+            }
+          ]
+        },
+        {
+          "nutrient_id": 607,
+          "name": "4:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 608,
+          "name": "6:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 609,
+          "name": "8:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 610,
+          "name": "10:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 611,
+          "name": "12:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.01,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.024
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.054
+            }
+          ]
+        },
+        {
+          "nutrient_id": 612,
+          "name": "14:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.042,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.103
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.226
+            }
+          ]
+        },
+        {
+          "nutrient_id": 613,
+          "name": "16:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.277,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.679
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.493
+            }
+          ]
+        },
+        {
+          "nutrient_id": 614,
+          "name": "18:0",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.209,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.512
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.127
+            }
+          ]
+        },
+        {
+          "nutrient_id": 645,
+          "name": "Fatty acids, total monounsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.465,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 1.139
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 2.506
+            }
+          ]
+        },
+        {
+          "nutrient_id": 626,
+          "name": "16:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.047,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.115
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.253
+            }
+          ]
+        },
+        {
+          "nutrient_id": 617,
+          "name": "18:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.402,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.985
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 2.167
+            }
+          ]
+        },
+        {
+          "nutrient_id": 628,
+          "name": "20:1",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.005,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.012
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.027
+            }
+          ]
+        },
+        {
+          "nutrient_id": 630,
+          "name": "22:1 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 646,
+          "name": "Fatty acids, total polyunsaturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.047,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.115
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.253
+            }
+          ]
+        },
+        {
+          "nutrient_id": 618,
+          "name": "18:2 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.037,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.091
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.199
+            }
+          ]
+        },
+        {
+          "nutrient_id": 619,
+          "name": "18:3 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.005,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.012
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.027
+            }
+          ]
+        },
+        {
+          "nutrient_id": 627,
+          "name": "18:4",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 620,
+          "name": "20:4 undifferentiated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 629,
+          "name": "20:5 n-3 (EPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 631,
+          "name": "22:5 n-3 (DPA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 621,
+          "name": "22:6 n-3 (DHA)",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 6.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 15.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 32.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 501,
+          "name": "Tryptophan",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.047,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.115
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.253
+            }
+          ]
+        },
+        {
+          "nutrient_id": 502,
+          "name": "Threonine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.194,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.475
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.046
+            }
+          ]
+        },
+        {
+          "nutrient_id": 503,
+          "name": "Isoleucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.247,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.605
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.331
+            }
+          ]
+        },
+        {
+          "nutrient_id": 504,
+          "name": "Leucine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.374,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.916
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 2.016
+            }
+          ]
+        },
+        {
+          "nutrient_id": 505,
+          "name": "Lysine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.387,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.948
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 2.086
+            }
+          ]
+        },
+        {
+          "nutrient_id": 506,
+          "name": "Methionine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.103,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.252
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.555
+            }
+          ]
+        },
+        {
+          "nutrient_id": 507,
+          "name": "Cystine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.051,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.125
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.275
+            }
+          ]
+        },
+        {
+          "nutrient_id": 508,
+          "name": "Phenylalanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.201,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.492
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.083
+            }
+          ]
+        },
+        {
+          "nutrient_id": 509,
+          "name": "Tyrosine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.147,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.36
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.792
+            }
+          ]
+        },
+        {
+          "nutrient_id": 510,
+          "name": "Valine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.265,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.649
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.428
+            }
+          ]
+        },
+        {
+          "nutrient_id": 511,
+          "name": "Arginine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.254,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.622
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.369
+            }
+          ]
+        },
+        {
+          "nutrient_id": 512,
+          "name": "Histidine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.115,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.282
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.62
+            }
+          ]
+        },
+        {
+          "nutrient_id": 513,
+          "name": "Alanine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.302,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.74
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.628
+            }
+          ]
+        },
+        {
+          "nutrient_id": 514,
+          "name": "Aspartic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.479,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 1.174
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 2.582
+            }
+          ]
+        },
+        {
+          "nutrient_id": 515,
+          "name": "Glutamic acid",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.875,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 2.144
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 4.716
+            }
+          ]
+        },
+        {
+          "nutrient_id": 516,
+          "name": "Glycine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.285,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.698
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.536
+            }
+          ]
+        },
+        {
+          "nutrient_id": 517,
+          "name": "Proline",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.224,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.549
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 1.207
+            }
+          ]
+        },
+        {
+          "nutrient_id": 518,
+          "name": "Serine",
+          "group": "Amino Acids",
+          "unit": "g",
+          "value": 0.17,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.417
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.916
+            }
+          ]
+        },
+        {
+          "nutrient_id": 221,
+          "name": "Alcohol, ethyl",
+          "group": "Other",
+          "unit": "g",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 262,
+          "name": "Caffeine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 263,
+          "name": "Theobromine",
+          "group": "Other",
+          "unit": "mg",
+          "value": 0.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup",
+              "eqv": 245.0,
+              "qty": 1.0,
+              "value": 0.0
+            },
+            {
+              "label": "can (19 oz)",
+              "eqv": 539.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "Isoflavone content of foods with soy additives.",
+        "authors": "Umpress, S. T., Murphy, S. P., Franke, A. A., Custer, L. J., and Blitz, C. L.",
+        "vol": "18",
+        "iss": "",
+        "year": "2005"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}

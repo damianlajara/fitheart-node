@@ -8,6 +8,7 @@
         <title>Fit Heart</title>
 
         <!-- CSS stylesheets -->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" href="vendor-css/angular-material/angular-material.min.css">
         <link rel="stylesheet" type="text/css" href="dist/stylesheets/main.min.css">
@@ -19,27 +20,72 @@
             <div layout="column" layout-fill>
                 <md-toolbar>
                     <div class="md-toolbar-tools">
-                        <span>Fit Heart</span>
+
+                        <!-- Side Nav Toggle Button -->
+                        <md-button class="md-icon-button md-accent" aria-label="open-sidenav" ng-click="openLeftMenu()">
+                            <md-icon md-font-library="material-icons" class="">reorder</md-icon>
+                        </md-button>
+
+                        <span><a href="/">Fit Heart</a></span>
+
                         <!-- fill up the space between left and right area -->
                         <span flex></span>
-                        <md-button>
+                        <md-button href="/users">
                             Users
+                        </md-button>
+                        <md-button href="#">
+                            Profile
+                        </md-button>
+                        <md-button href="#">
+                            Settings
                         </md-button>
                     </div>
                 </md-toolbar>
             </div>
 
+            <!-- Side Navbar -->
             <div layout="row">
                 <md-sidenav md-component-id="left" class="md-sidenav-left">
                     <md-toolbar class="md-theme-indigo">
                         <h1 class="md-toolbar-tools">Sidenav Left</h1>
                     </md-toolbar>
+
+                    <md-list>
+
+                        <md-subheader>Personal</md-subheader>
+                        <md-divider></md-divider>
+
+                        <md-item ng-repeat="item in menu">
+                            <a>
+                                <md-item-content md-ink-ripple layout="row" layout-align="start center">
+                                    <div class="inset">
+                                        <md-icon md-font-library="material-icons">{{item.icon}}</md-icon>
+                                    </div>
+                                    <div class="inset">{{item.title}}
+                                    </div>
+                                </md-item-content>
+                            </a>
+                        </md-item>
+
+
+                        <md-subheader>Management</md-subheader>
+                        <md-divider></md-divider>
+
+                        <md-item ng-repeat="item in admin">
+                            <a>
+                                <md-item-content md-ink-ripple layout="row" layout-align="start center">
+                                    <div class="inset">
+                                        <md-icon md-font-library="material-icons">{{item.icon}}</md-icon>
+                                    </div>
+                                    <div class="inset">{{item.title}}
+                                    </div>
+                                </md-item-content>
+                            </a>
+                        </md-item>
+
+                    </md-list>
+
                 </md-sidenav>
-                <md-content>
-                    <md-button ng-click="openLeftMenu()">
-                        Open Left Menu
-                    </md-button>
-                </md-content>
             </div>
 
             <!--Dynamic Angular views-->

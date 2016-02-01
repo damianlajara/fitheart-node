@@ -1,0 +1,553 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "20058",
+      "name": "Rice, white, steamed, Chinese restaurant",
+      "fg": "Cereal Grains and Pasta",
+      "sn": "",
+      "cn": "",
+      "manu": "",
+      "nf": 0.0,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 62.5,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.522",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 82.5
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 151.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 199.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 631.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 833.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 3.2,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.112",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 4.22
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.27,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.045",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.36
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.14,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.009",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.18
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 33.88,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 44.72
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 0.9,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.075",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 1.2
+            }
+          ]
+        },
+        {
+          "nutrient_id": 209,
+          "name": "Starch",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 32.05,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.555",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 42.31
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 5.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.614",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 7.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.39,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.099",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.51
+            }
+          ]
+        },
+        {
+          "nutrient_id": 304,
+          "name": "Magnesium, Mg",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 5.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.776",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 7.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 305,
+          "name": "Phosphorus, P",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 33.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "2.134",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 44.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 20.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "1.882",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 26.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 5.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "1.377",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 7.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 309,
+          "name": "Zinc, Zn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.68,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.020",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.9
+            }
+          ]
+        },
+        {
+          "nutrient_id": 312,
+          "name": "Copper, Cu",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.048,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.005",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.063
+            }
+          ]
+        },
+        {
+          "nutrient_id": 315,
+          "name": "Manganese, Mn",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 0.448,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.029",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.591
+            }
+          ]
+        },
+        {
+          "nutrient_id": 404,
+          "name": "Thiamin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.016,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.001",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.021
+            }
+          ]
+        },
+        {
+          "nutrient_id": 405,
+          "name": "Riboflavin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.015,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.02
+            }
+          ]
+        },
+        {
+          "nutrient_id": 406,
+          "name": "Niacin",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.566,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.155",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.747
+            }
+          ]
+        },
+        {
+          "nutrient_id": 415,
+          "name": "Vitamin B-6",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.022,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.003",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.029
+            }
+          ]
+        },
+        {
+          "nutrient_id": 417,
+          "name": "Folate, total",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 5.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "2.175",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 7.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 431,
+          "name": "Folic acid",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 0.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "0.000",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 432,
+          "name": "Folate, food",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 5.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 4,
+          "se": "2.175",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 7.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 435,
+          "name": "Folate, DFE",
+          "group": "Vitamins",
+          "unit": "µg",
+          "value": 5.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "cup, loosely packed",
+              "eqv": 132.0,
+              "qty": 1.0,
+              "value": 7.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "National Food and Nutrient Analysis Program, Wave 9n",
+        "authors": "Nutrient Data Laboratory, ARS, USDA",
+        "vol": "Beltsville",
+        "iss": "MD",
+        "year": "2005"
+      }
+    ],
+    "footnotes": [
+      {
+        "id": "a",
+        "desc": "Analytical results indicate rice is unenriched."
+      }
+    ],
+    "langual": [
+
+    ]
+  }
+}

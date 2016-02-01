@@ -1,0 +1,606 @@
+{
+  "report": {
+    "sr": "28",
+    "type": "Full",
+    "food": {
+      "ndbno": "19105",
+      "name": "Candies, NESTLE, GOOBERS Chocolate Covered Peanuts",
+      "fg": "Sweets",
+      "sn": "",
+      "cn": "",
+      "manu": "Nestle USA, Inc.",
+      "nf": 0.0,
+      "cf": 0.0,
+      "ff": 0.0,
+      "pf": 0.0,
+      "r": "0%",
+      "rd": "",
+      "nutrients": [
+        {
+          "nutrient_id": 255,
+          "name": "Water",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.9,
+          "sourcecode": "",
+          "dp": 3,
+          "se": "0.100",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 0.74
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 0.78
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 0.91
+            }
+          ]
+        },
+        {
+          "nutrient_id": 208,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kcal",
+          "value": 512.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 200.0
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 210.0
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 246.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 268,
+          "name": "Energy",
+          "group": "Proximates",
+          "unit": "kJ",
+          "value": 2142.0,
+          "sourcecode": "",
+          "dp": "",
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 835.0
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 878.0
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 1028.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 203,
+          "name": "Protein",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 9.7,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 3.78
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 3.98
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 4.66
+            }
+          ]
+        },
+        {
+          "nutrient_id": 204,
+          "name": "Total lipid (fat)",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 34.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 13.26
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 13.94
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 16.32
+            }
+          ]
+        },
+        {
+          "nutrient_id": 207,
+          "name": "Ash",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 1.8,
+          "sourcecode": "",
+          "dp": 3,
+          "se": "0.076",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 0.7
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 0.74
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 0.86
+            }
+          ]
+        },
+        {
+          "nutrient_id": 205,
+          "name": "Carbohydrate, by difference",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 53.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 20.67
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 21.73
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 25.44
+            }
+          ]
+        },
+        {
+          "nutrient_id": 291,
+          "name": "Fiber, total dietary",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 9.7,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 3.8
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 4.0
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 4.7
+            }
+          ]
+        },
+        {
+          "nutrient_id": 269,
+          "name": "Sugars, total",
+          "group": "Proximates",
+          "unit": "g",
+          "value": 43.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 16.77
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 17.63
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 20.64
+            }
+          ]
+        },
+        {
+          "nutrient_id": 301,
+          "name": "Calcium, Ca",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 89.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 35.0
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 36.0
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 43.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 303,
+          "name": "Iron, Fe",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 1.1,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 0.43
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 0.45
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 0.53
+            }
+          ]
+        },
+        {
+          "nutrient_id": 306,
+          "name": "Potassium, K",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 502.0,
+          "sourcecode": "",
+          "dp": 3,
+          "se": "10.786",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 196.0
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 206.0
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 241.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 307,
+          "name": "Sodium, Na",
+          "group": "Minerals",
+          "unit": "mg",
+          "value": 36.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 14.0
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 15.0
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 17.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 401,
+          "name": "Vitamin C, total ascorbic acid",
+          "group": "Vitamins",
+          "unit": "mg",
+          "value": 0.3,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 0.1
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 0.1
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 0.1
+            }
+          ]
+        },
+        {
+          "nutrient_id": 318,
+          "name": "Vitamin A, IU",
+          "group": "Vitamins",
+          "unit": "IU",
+          "value": 68.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 27.0
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 28.0
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 33.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 606,
+          "name": "Fatty acids, total saturated",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 12.1,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 4.719
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 4.961
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 5.808
+            }
+          ]
+        },
+        {
+          "nutrient_id": 605,
+          "name": "Fatty acids, total trans",
+          "group": "Lipids",
+          "unit": "g",
+          "value": 0.07,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 0.027
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 0.029
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 0.034
+            }
+          ]
+        },
+        {
+          "nutrient_id": 601,
+          "name": "Cholesterol",
+          "group": "Lipids",
+          "unit": "mg",
+          "value": 12.0,
+          "sourcecode": [
+            1
+          ],
+          "dp": 1,
+          "se": "",
+          "measures": [
+            {
+              "label": "package 1.375 oz",
+              "eqv": 39.0,
+              "qty": 1.0,
+              "value": 5.0
+            },
+            {
+              "label": "serving 0.25 cup",
+              "eqv": 41.0,
+              "qty": 1.0,
+              "value": 5.0
+            },
+            {
+              "label": "serving fun size",
+              "eqv": 48.0,
+              "qty": 1.0,
+              "value": 6.0
+            }
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": 1,
+        "title": "Nestle company data",
+        "authors": "Nestle USA, Inc.",
+        "vol": "",
+        "iss": "",
+        "year": "2006"
+      }
+    ],
+    "footnotes": [
+
+    ],
+    "langual": [
+
+    ]
+  }
+}
