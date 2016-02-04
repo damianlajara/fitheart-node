@@ -1,8 +1,8 @@
 angular.module('UserService',[]).factory('User', ['$http', function($http){
     return {
-        // Make a call to the backend to retrieve all nerds
+        // Make a call to the backend to retrieve all users
         get: function() {
-            return $http.get('/api/users')
+            return $http.get('/users')
                 .success(function(data) {
                     return data;
                 })

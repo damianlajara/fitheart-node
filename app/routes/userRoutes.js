@@ -2,22 +2,11 @@ var express = require('express');
 var router = express.Router();
 var User = require('../models/user');
 
-router.route('/users')
-    // Create a user (POST => /users)
-    .post(function(req,res) {
-        var user = new User();
-        user.name = req.body.name;
-        user.save(function(err) {
-            if(err) {
-                res.send(err);
-            } else {
-                res.json({message: 'User Created'});
-            }
-        });
-    })
-
+// Root mount point is in app.js
+router.route('/')
     // Get all users (GET => /users)
     .get(function(req, res) {
+        console.log("made a request to the server!");
         User.find(function(err, users) {
             if(err) {
                 res.send(err);
@@ -25,9 +14,20 @@ router.route('/users')
                 res.json(users);
             }
         })
+    })
+    // Create a user (POST => /users)
+    .post(function(req,res) {
+        var user = new User(req.body);
+        user.save(function(err) {
+            if(err) {
+                res.send(err);
+            } else {
+                res.json({message: 'User Created!'});
+            }
+        });
     });
 
-router.route('/users/:user_id')
+router.route('/:user_id')
     // Get a specific user (GET => /users/:user_id)
     .get(function(req, res) {
         User.findById(req.params.user_id, function(err, user) {
@@ -44,13 +44,12 @@ router.route('/users/:user_id')
             if(err) {
               res.send(err);
             } else {
-                // Find a way to do this dynamically
-                user.name = req.body.name; //Update the users name
-                user.save(function(err) {
-                    if(err) {
+               // https://docs.mongodb.org/manual/reference/command/update/#update-command-output
+                user.update(req.body, null, function (err, response) {
+                    if (err) {
                         res.send(err);
                     } else {
-                        res.json({message: 'User updated!' });
+                        res.json({message: 'User updated!'});
                     }
                 });
             }

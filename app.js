@@ -32,7 +32,7 @@ app.use('/vendor-css', express.static(path.join(__dirname, 'node_modules/')));
 // app.engine('mustache', require('hogan_middleware').__express);
 
 // Register our routes to their respective handlers
-app.use('/', defaultRoute);
 app.use('/users', userRoutes);
+app.use('/', defaultRoute);
 
 module.exports = app;
