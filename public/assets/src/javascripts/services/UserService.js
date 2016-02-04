@@ -2,16 +2,16 @@ angular.module('UserService',[]).factory('User', ['$http', function($http){
     return {
         // Make a call to the backend to retrieve all users
         get: function() {
-            return $http.get('/users')
-                .success(function(data) {
-                    return data;
-                })
-                .error(function(err) {
-                    return err;
-                });
+            return $http.get('/api/users'); //Returns a promise
+                //.success(function(data) {
+                //    return data;
+                //})
+                //.error(function(err) {
+                //    return err;
+                //});
         },
         create: function(userData) {
-            return $http.post('/users', userData)
+            return $http.post('/api/users', userData)
                 .success(function(data) {
                     return data;
                 })
@@ -20,7 +20,7 @@ angular.module('UserService',[]).factory('User', ['$http', function($http){
                 });
         },
         put: function(id, newData) {
-            return $http.put('/users/' + id)
+            return $http.put('/api/users/' + id)
                 .success(function(data) {
                     return data;
                 })
@@ -29,7 +29,7 @@ angular.module('UserService',[]).factory('User', ['$http', function($http){
                 });
         },
         delete: function(id) {
-            return $http.delete('/users/' + id)
+            return $http.delete('/api/users/' + id)
                 .success(function(data) {
                     return data;
                 })

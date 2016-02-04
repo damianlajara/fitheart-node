@@ -2,8 +2,8 @@ var express = require('express');
 var router = express.Router();
 var User = require('../models/user');
 
-// Root mount point is in app.js
-router.route('/')
+// Root mount point(/api) is in app.js
+router.route('/users')
     // Get all users (GET => /users)
     .get(function(req, res) {
         console.log("made a request to the server!");
@@ -27,7 +27,7 @@ router.route('/')
         });
     });
 
-router.route('/:user_id')
+router.route('/users/:user_id')
     // Get a specific user (GET => /users/:user_id)
     .get(function(req, res) {
         User.findById(req.params.user_id, function(err, user) {

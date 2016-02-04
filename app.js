@@ -2,7 +2,7 @@
 var express = require('express');
 var path = require('path');
 var defaultRoute = require('./app/routes/defaultRoute');
-var userRoutes = require('./app/routes/userRoutes');
+var userApiRoutes = require('./app/routes/userRoutes');
 var bodyParser = require('body-parser');
 var morgan = require('morgan'); // Log all requests
 var dbConfig = require('./app/db/config/db.js');
@@ -32,7 +32,7 @@ app.use('/vendor-css', express.static(path.join(__dirname, 'node_modules/')));
 // app.engine('mustache', require('hogan_middleware').__express);
 
 // Register our routes to their respective handlers
-app.use('/users', userRoutes);
+app.use('/api', userApiRoutes);
 app.use('/', defaultRoute);
 
 module.exports = app;
