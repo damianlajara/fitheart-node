@@ -10,6 +10,13 @@ var mongoose = require('mongoose');
 var methodOverride = require('method-override');
 //var favicon = require('serve-favicon'); // Make sure to install first before uncommenting this
 
+// Connect to the database
+mongoose.connect(dbConfig.connection, function(err,res) {
+    err ? console.log('Mongo connection error on: ' +  dbConfig.connection, err) : console.log('Succeeded connecting to: ' + dbConfig.connection)
+});
+
+var app = express();
+
 // Configure the app
 // app.use(favicon(__dirname + '/public/favicon.ico')); // Make sure to put the favicon.ico in the public dir
 app.use(bodyParser.urlencoded({extended: true }));
@@ -23,13 +30,6 @@ app.use('/vendor-css', express.static(path.join(__dirname, 'node_modules/')));
 // app.set('views', path.join(__dirname, 'views'));
 // app.set('view engine', 'mustache');
 // app.engine('mustache', require('hogan_middleware').__express);
-
-// Connect to the database
-mongoose.connect(dbConfig.connection, function(err,res) {
-    err ? console.log('Mongo connection error on: ' +  dbConfig.connection, err) : console.log('Succeeded connecting to: ' + dbConfig.connection)
-});
-
-var app = express();
 
 // Register our routes to their respective handlers
 app.use('/', defaultRoute);
