@@ -2,13 +2,14 @@ angular.module('UserService',[]).factory('User', ['$http', function($http){
     return {
         // Make a call to the backend to retrieve all users
         get: function() {
-            return $http.get('/api/users'); //Returns a promise
-                //.success(function(data) {
-                //    return data;
-                //})
-                //.error(function(err) {
-                //    return err;
-                //});
+            //return $http.get('/api/users'); //Returns a promise
+            return $http.get('/api/users')
+                .success(function(data) {
+                    return data;
+                })
+                .error(function(err) {
+                    return err;
+                });
         },
         create: function(userData) {
             return $http.post('/api/users', userData)

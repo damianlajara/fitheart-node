@@ -3,9 +3,4 @@ angular.module('UserCtrl',[])
         User.get().success(function(users) {
             $scope.users = users;
         });
-        $scope.users = [
-            {username: "damiansito", email: "haha@haha.com"},
-            {username: "damiansito", email: "haha@haha.com"}
-        ];
-        $scope.hi = "hello"
     }]);
