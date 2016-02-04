@@ -52,10 +52,10 @@
 
                     <md-list>
 
-                        <md-subheader>Personal</md-subheader>
                         <md-divider></md-divider>
+                        <md-subheader>Social</md-subheader>
 
-                        <md-item ng-repeat="item in menu">
+                        <md-item ng-repeat="item in socialMenu">
                             <a>
                                 <md-item-content md-ink-ripple layout="row" layout-align="start center">
                                     <div class="inset">
@@ -67,11 +67,25 @@
                             </a>
                         </md-item>
 
-
-                        <md-subheader>Management</md-subheader>
                         <md-divider></md-divider>
+                        <md-subheader>Health</md-subheader>
 
-                        <md-item ng-repeat="item in admin">
+                        <md-item ng-repeat="item in healthMenu">
+                            <a>
+                                <md-item-content md-ink-ripple layout="row" layout-align="start center">
+                                    <div class="inset">
+                                        <md-icon md-font-library="material-icons">{{item.icon}}</md-icon>
+                                    </div>
+                                    <div class="inset">{{item.title}}
+                                    </div>
+                                </md-item-content>
+                            </a>
+                        </md-item>
+
+                        <md-divider></md-divider>
+                        <md-subheader>Management</md-subheader>
+
+                        <md-item ng-repeat="item in adminMenu">
                             <a>
                                 <md-item-content md-ink-ripple layout="row" layout-align="start center">
                                     <div class="inset">
