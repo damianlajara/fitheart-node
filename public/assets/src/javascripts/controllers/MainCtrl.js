@@ -6,7 +6,7 @@ angular.module('MainCtrl',[])
         };
         // ICONS: https://design.google.com/icons/
         var menu = {
-            socialMenu: [
+            social: [
                 {
                     link : '',
                     title: 'Dashboard',
@@ -23,7 +23,7 @@ angular.module('MainCtrl',[])
                     icon: 'message'
                 }
             ],
-            healthMenu: [
+            health: [
                 {
                     link : '',
                     title: 'Fitness',
@@ -50,7 +50,7 @@ angular.module('MainCtrl',[])
                     icon: 'insert_emoticon'
                 }
             ],
-            adminMenu: [
+            admin: [
                 {
                     link : '',
                     title: 'Trash',
@@ -64,8 +64,8 @@ angular.module('MainCtrl',[])
             ]
         };
 
-        $scope.socialMenu = menu.socialMenu;
-        $scope.healthMenu = menu.healthMenu;
-        $scope.adminMenu = menu.adminMenu;
+        $scope.socialMenu = menu.social;
+        $scope.healthMenu = menu.health;
+        $scope.adminMenu = menu.admin;
     }]);
 
