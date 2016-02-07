@@ -8,56 +8,57 @@ var morgan = require('morgan'); // Log all requests
 var dbConfig = require('./app/db/config/db.js');
 var mongoose = require('mongoose');
 var methodOverride = require('method-override');
-var fs = require("graceful-fs");
-var async = require('async');
-var Food = require("./app/models/food");
+var populateDB = require('./prePopulateDB');
+//var fs = require("graceful-fs");
+//var async = require('async');
+//var Food = require("./app/models/food");
 //var favicon = require('serve-favicon'); // Make sure to install first before uncommenting this
 
-var USDA_NUTRIENTS = {
-    calories: 208,
-    total_fat: 204,
-    saturated_fat: 606,
-    polyunsaturated_fat: 646,
-    monounsaturated_fat: 645,
-    trans_fat: 605,
-    cholesterol: 601,
-    sodium: 307,
-    potassium: 306,
-    fiber: 291,
-    carbohydrates: 205,
-    sugars: 269,
-    protein: 203,
-    vitaminA: 320,
-    vitaminC: 401,
-    vitaminE: 323,
-    calcium: 301,
-    iron: 303
-};
-
-var _dirname = './app/db/fixtures/foods/';
-var foodObjects = [];
-
-function filterout(obj) {
-    var objValues = Object.keys(USDA_NUTRIENTS).map(function (key) {
-        return USDA_NUTRIENTS[key];
-    });
-    console.log("filtering nutrients...");
-    var filteredNutrients = obj["report"]["food"]["nutrients"].filter(function(nutrient){
-        return objValues.indexOf(Number(nutrient["nutrient_id"])) != -1;
-    });
-    console.log("adding val to nutrient...");
-    filteredNutrients.forEach(function(nutrient) {
-        // Update the nutrients measure array with a boolean for filtering out by creator later
-        nutrient["measures"]["userDefined"] = false;
-    });
-    console.log("Creating food obj...");
-    return {
-        category: obj["report"]["food"]["fg"],
-        ndbId: obj["report"]["food"]["ndbno"],
-        name: obj["report"]["food"]["name"],
-        nutrients: filteredNutrients
-    };
-}
+//var USDA_NUTRIENTS = {
+//    calories: 208,
+//    total_fat: 204,
+//    saturated_fat: 606,
+//    polyunsaturated_fat: 646,
+//    monounsaturated_fat: 645,
+//    trans_fat: 605,
+//    cholesterol: 601,
+//    sodium: 307,
+//    potassium: 306,
+//    fiber: 291,
+//    carbohydrates: 205,
+//    sugars: 269,
+//    protein: 203,
+//    vitaminA: 320,
+//    vitaminC: 401,
+//    vitaminE: 323,
+//    calcium: 301,
+//    iron: 303
+//};
+//
+//var _dirname = './app/db/fixtures/foods/';
+//var foodObjects = [];
+//
+//function filterout(obj) {
+//    var objValues = Object.keys(USDA_NUTRIENTS).map(function (key) {
+//        return USDA_NUTRIENTS[key];
+//    });
+//    console.log("filtering nutrients...");
+//    var filteredNutrients = obj["report"]["food"]["nutrients"].filter(function(nutrient){
+//        return objValues.indexOf(Number(nutrient["nutrient_id"])) != -1;
+//    });
+//    console.log("adding val to nutrient...");
+//    filteredNutrients.forEach(function(nutrient) {
+//        // Update the nutrients measure array with a boolean for filtering out by creator later
+//        nutrient["measures"]["userDefined"] = false;
+//    });
+//    console.log("Creating food obj...");
+//    return {
+//        category: obj["report"]["food"]["fg"],
+//        ndbId: obj["report"]["food"]["ndbno"],
+//        name: obj["report"]["food"]["name"],
+//        nutrients: filteredNutrients
+//    };
+//}
 
 var dbConnection = mongoose.connect(dbConfig.connection).connection;
 dbConnection.on('error', function(err) {
@@ -65,6 +66,8 @@ dbConnection.on('error', function(err) {
 });
 dbConnection.once('open', function() {
     console.log('Succeeded connecting to: ' + dbConfig.connection);
+    //populateDB.createWorkouts();
+    populateDB.createFoods();
 
     // TODO: Move this out to prePopulateDB.js so we can control when to call it
     //var filenames = fs.readdirSync(_dirname);
