@@ -66,34 +66,30 @@ dbConnection.on('error', function(err) {
 dbConnection.once('open', function() {
     console.log('Succeeded connecting to: ' + dbConfig.connection);
 
-
-    var filenames = fs.readdirSync(_dirname);
-    async.forEachOfLimit(filenames, 100, function(filename, index, callback) {
-        fs.readFile(_dirname + filename, function (err, data) {
-            if (err) return callback(err);
-            var foodObj = filterout(JSON.parse(data));
-            foodObjects.push(foodObj);
-            console.log("%d) stored %s ", index, filename);
-            callback();
-        });
-    }, function(err) {
-        if (err) console.error(err.message);
-        // All the async calls finished, pre-populate the db now
-        console.log("Saving to db...");
-        Food.collection.insert(foodObjects, function (err, foodsDocs) {
-            if(err) {
-                console.error("Error Bulk Importing");
-            } else {
-                console.log("Success. Imported all documents!");
-                console.log("total amount: ", foodsDocs.insertedCount);
-                console.log("First docs name: ", foodsDocs.ops[0].name);
-            }
-        });
-    }); // End Async call
-
-
-
-
+    // TODO: Move this out to prePopulateDB.js so we can control when to call it
+    //var filenames = fs.readdirSync(_dirname);
+    //async.forEachOfLimit(filenames, 100, function(filename, index, callback) {
+    //    fs.readFile(_dirname + filename, function (err, data) {
+    //        if (err) return callback(err);
+    //        var foodObj = filterout(JSON.parse(data));
+    //        foodObjects.push(foodObj);
+    //        console.log("%d) stored %s ", index, filename);
+    //        callback();
+    //    });
+    //}, function(err) {
+    //    if (err) console.error(err.message);
+    //    // All the async calls finished, pre-populate the db now
+    //    console.log("Saving to db...");
+    //    Food.collection.insert(foodObjects, function (err, foodsDocs) {
+    //        if(err) {
+    //            console.error("Error Bulk Importing");
+    //        } else {
+    //            console.log("Success. Imported all documents!");
+    //            console.log("total amount: ", foodsDocs.insertedCount);
+    //            console.log("First docs name: ", foodsDocs.ops[0].name);
+    //        }
+    //    });
+    //}); // End Async call
 
 }); // End db connection
 
