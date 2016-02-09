@@ -2,7 +2,7 @@ angular.module('frontEndRoutes', []).config(['$routeProvider', '$locationProvide
     $routeProvider
         .when('/', {
             templateUrl: 'views/home.html',
-            controller: 'MainController'
+            controller: 'HomeController'
         })
         .when('/users', {
            templateUrl: 'views/user.html',

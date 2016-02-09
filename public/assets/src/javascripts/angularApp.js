@@ -9,4 +9,4 @@ require('./controllers/index');
 require('./routes/index');
 require('./services/index');
 
-angular.module('fitHeart', ['chartjs', 'ngMaterial', 'ngRoute', 'frontEndRoutes', 'MainCtrl', 'UserCtrl', 'UserService']);
+angular.module('fitHeart', ['chartjs', 'ngMaterial', 'ngRoute', 'frontEndRoutes', 'MainCtrl', 'HomeCtrl', 'UserCtrl', 'UserService']);
