@@ -31,14 +31,14 @@ dbConnection.once('open', function() {
 
         if(dbNames.indexOf("workouts") === -1) {
             console.log("Workouts collection doesn't exist. Creating and pre-populating with workout data now...");
-            populateDB.createWorkouts();
+            //populateDB.createWorkouts();
         } else {
             console.log("Workout collection already exists. Skipping...");
         }
 
         if(dbNames.indexOf("foods") === -1) {
             console.log("Foods collection doesn't exist. Creating and pre-populating with food data now...");
-            populateDB.createFoods();
+            //populateDB.createFoods();
         } else {
             console.log("Foods collection already exists. Skipping...");
         }

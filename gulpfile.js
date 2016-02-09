@@ -102,13 +102,13 @@ gulp.task('compile-sass', function(){
 
 // Note: This runs the compile-sass task as a dependant to make sure that there are not more .scss files before we concatenate them
 // as well as clean-dist-css task as a dependant, so it can overwrite (delete) any previous outdated files
-// Looks at every compiled .scss file in paths.dev.styles and concatenates them all to app.css,
-// It then minifies it to app.min.css and stores it in the paths.dist.styles directory
+// Looks at every compiled .scss file in paths.dev.styles and concatenates them all to main.css,
+// It then minifies it to main.min.css and stores it in the paths.dist.styles directory
 gulp.task('concatenate-and-minify-css', ['compile-sass', 'clean-dist-css'], function(){
     return gulp.src(paths.dev.styles + globFileTypes.css)
         .pipe(gulpPlugins.plumber(onError)) //For error handling
         .pipe(gulpPlugins.sourcemaps.init())
-        .pipe(gulpPlugins.concat('app.css'))
+        .pipe(gulpPlugins.concat('main.css'))
         .pipe(gulp.dest(paths.dist.styles))
         .pipe(gulpPlugins.rename({suffix: '.min'}))
         .pipe(gulpPlugins.minifyCss())

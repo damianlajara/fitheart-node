@@ -1,3 +1,37 @@
 body {
-    padding-top: 30px;
+  padding-top: 30px;
+}
+
+div.dashboard-gridlist {
+  md-grid-list {
+
+    margin: 8px;
+    .gray {
+      background: #f5f5f5;
+    }
+
+    .green {
+      background: #65cea7;
+    }
+
+    .yellow {
+      background: #f3ce85;
+    }
+
+    .blue {
+      background: #6bafbd;
+    }
+
+    .purple {
+      background: #b388ff;
+    }
+
+    .red {
+      background: #fc8675;
+    }
+    md-grid-tile {
+      transition: all 400ms ease-out 50ms;
+      border-radius: 8px;
+    }
+  }
 }

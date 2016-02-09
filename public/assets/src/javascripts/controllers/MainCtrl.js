@@ -27,7 +27,7 @@ angular.module('MainCtrl',[])
                 {
                     link : '',
                     title: 'Fitness',
-                    icon: 'rowing'
+                    icon: 'fitness_center'
                 },
                 {
                     link : '',
